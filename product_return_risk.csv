@@ -1,0 +1,2177 @@
+product_id,brand,category,season,current_price,markdown_percentage,stock_quantity,customer_rating,is_returned,predicted_return_risk
+FB000001,Zara,Outerwear,Spring,196.01,0.0,37,3.0,0,0.1158
+FB000002,Uniqlo,Tops,Winter,119.64,0.0,2,2.5,0,0.1159
+FB000003,Uniqlo,Accessories,Winter,33.8,0.0,22,4.3,0,0.1395
+FB000004,Uniqlo,Shoes,Spring,75.36,0.0,48,2.6,0,0.1296
+FB000005,Banana Republic,Tops,Winter,105.02,0.0,10,,0,0.0779
+FB000006,Zara,Accessories,Fall,22.63,35.4,38,2.9,1,0.1681
+FB000007,Zara,Bottoms,Spring,24.49,54.5,38,2.6,0,0.1201
+FB000008,Mango,Dresses,Winter,71.32,22.1,47,1.6,0,0.1552
+FB000009,Uniqlo,Outerwear,Spring,198.58,12.8,14,,0,0.1005
+FB000010,H&M,Outerwear,Fall,221.33,10.9,37,,0,0.0857
+FB000011,Mango,Tops,Spring,116.84,0.0,3,4.4,0,0.1544
+FB000012,Uniqlo,Shoes,Winter,146.98,0.0,2,3.4,0,0.057
+FB000013,Ann Taylor,Bottoms,Spring,37.51,0.0,43,,0,0.2088
+FB000014,Uniqlo,Dresses,Fall,48.15,0.0,39,1.6,0,0.1297
+FB000015,Mango,Tops,Winter,79.66,0.0,7,1.7,0,0.0954
+FB000016,Mango,Accessories,Winter,67.57,0.0,17,2.4,0,0.1827
+FB000017,Gap,Shoes,Summer,123.53,0.0,14,4.6,0,0.162
+FB000018,Ann Taylor,Tops,Winter,102.35,0.0,14,3.5,0,0.1247
+FB000019,Mango,Outerwear,Summer,57.25,58.5,16,4.1,0,0.118
+FB000020,Banana Republic,Outerwear,Summer,142.59,0.0,1,3.7,0,0.243
+FB000021,Mango,Bottoms,Fall,26.06,21.8,42,,0,0.1464
+FB000022,Zara,Accessories,Spring,62.3,0.0,10,2.5,0,0.0612
+FB000023,Zara,Accessories,Winter,38.48,0.0,46,1.2,0,0.195
+FB000024,Banana Republic,Dresses,Summer,91.36,0.0,37,1.2,1,0.294
+FB000025,Forever21,Tops,Fall,57.05,29.1,38,3.6,0,0.0839
+FB000026,Uniqlo,Bottoms,Spring,26.99,34.0,16,3.7,0,0.1736
+FB000027,Banana Republic,Bottoms,Summer,30.11,36.0,25,1.1,1,0.4423
+FB000028,Gap,Bottoms,Summer,53.37,0.0,28,3.8,0,0.3543
+FB000029,Ann Taylor,Dresses,Summer,114.35,0.0,6,1.2,0,0.1412
+FB000030,Gap,Shoes,Spring,77.63,0.0,1,,0,0.095
+FB000031,Uniqlo,Shoes,Summer,71.29,0.0,37,4.1,1,0.2264
+FB000032,Gap,Tops,Spring,28.3,24.4,5,,0,0.0816
+FB000033,Zara,Shoes,Spring,143.78,0.0,43,1.1,0,0.1284
+FB000034,Banana Republic,Tops,Summer,88.23,0.0,44,1.6,0,0.1949
+FB000035,Forever21,Accessories,Fall,58.57,0.0,38,1.5,0,0.1013
+FB000036,Uniqlo,Tops,Winter,112.88,5.7,37,4.9,0,0.1471
+FB000037,Banana Republic,Bottoms,Fall,50.67,47.8,31,4.1,0,0.1399
+FB000038,Banana Republic,Dresses,Summer,110.09,0.0,32,3.4,0,0.1483
+FB000039,Zara,Shoes,Winter,170.24,14.2,10,,0,0.0652
+FB000040,Banana Republic,Bottoms,Winter,101.72,0.0,40,,0,0.1262
+FB000041,Uniqlo,Tops,Summer,117.86,0.0,6,,0,0.1414
+FB000042,Ann Taylor,Tops,Summer,78.86,0.0,22,4.3,0,0.249
+FB000043,Zara,Outerwear,Winter,105.05,51.4,36,4.0,0,0.2133
+FB000044,Zara,Shoes,Spring,129.85,0.0,36,3.3,0,0.1352
+FB000045,Banana Republic,Tops,Winter,111.3,0.0,11,1.7,0,0.1007
+FB000046,Uniqlo,Dresses,Summer,73.65,0.0,33,3.6,0,0.2232
+FB000047,Mango,Shoes,Summer,102.55,30.3,13,4.4,0,0.0947
+FB000048,Ann Taylor,Accessories,Winter,20.56,53.9,42,2.4,0,0.266
+FB000049,Forever21,Bottoms,Summer,101.8,0.0,7,2.8,0,0.1304
+FB000050,Banana Republic,Accessories,Summer,7.29,55.9,43,,0,0.2274
+FB000051,H&M,Bottoms,Fall,50.91,0.0,3,1.8,0,0.1622
+FB000052,Forever21,Outerwear,Spring,222.26,0.0,50,4.5,0,0.1171
+FB000053,Gap,Shoes,Summer,44.68,57.1,14,1.8,0,0.0859
+FB000054,Zara,Outerwear,Spring,166.76,0.0,21,4.2,0,0.1243
+FB000055,Banana Republic,Accessories,Fall,21.67,50.9,21,3.0,0,0.2101
+FB000056,Gap,Outerwear,Summer,102.85,15.2,42,,0,0.2075
+FB000057,H&M,Tops,Spring,73.71,0.0,35,3.9,1,0.1259
+FB000058,Zara,Bottoms,Spring,61.96,26.3,19,2.3,1,0.1555
+FB000059,Mango,Tops,Summer,28.59,0.0,39,1.4,0,0.1328
+FB000060,Mango,Shoes,Winter,162.16,2.6,27,,0,0.1213
+FB000061,Ann Taylor,Shoes,Summer,136.32,6.6,15,4.0,0,0.1227
+FB000062,Gap,Outerwear,Fall,218.42,0.0,33,4.4,1,0.105
+FB000063,Forever21,Accessories,Winter,45.66,1.1,30,1.9,0,0.1225
+FB000064,H&M,Shoes,Summer,87.07,18.0,11,4.5,0,0.1367
+FB000065,Zara,Tops,Winter,91.09,2.4,20,4.2,0,0.1405
+FB000066,Mango,Bottoms,Spring,67.76,21.7,21,3.6,1,0.3047
+FB000067,Ann Taylor,Accessories,Summer,55.57,0.0,44,3.8,0,0.3242
+FB000068,Forever21,Tops,Spring,76.5,0.0,17,4.6,0,0.0893
+FB000069,Forever21,Dresses,Spring,124.16,9.5,17,,0,0.1174
+FB000070,Zara,Tops,Summer,39.23,19.8,17,2.6,0,0.1513
+FB000071,Ann Taylor,Shoes,Winter,69.82,0.0,46,,1,0.2936
+FB000072,Mango,Outerwear,Summer,184.64,7.4,49,,0,0.1377
+FB000073,Banana Republic,Outerwear,Summer,99.5,55.2,21,4.5,0,0.2436
+FB000074,Mango,Tops,Fall,112.86,0.0,8,2.9,0,0.0658
+FB000075,Mango,Dresses,Spring,100.96,0.0,32,3.3,0,0.1687
+FB000076,Gap,Outerwear,Spring,126.65,48.0,22,4.4,1,0.3158
+FB000077,Mango,Dresses,Spring,153.32,0.0,43,2.9,0,0.1413
+FB000078,Uniqlo,Accessories,Fall,33.29,22.5,7,1.9,1,0.0963
+FB000079,H&M,Tops,Summer,30.79,0.0,36,3.4,0,0.1483
+FB000080,Uniqlo,Accessories,Fall,59.85,0.0,38,4.0,0,0.0937
+FB000081,Banana Republic,Tops,Spring,63.23,19.1,23,,0,0.1037
+FB000082,Ann Taylor,Tops,Fall,91.55,19.1,15,4.9,0,0.1042
+FB000083,Ann Taylor,Dresses,Winter,174.13,0.0,34,3.7,0,0.137
+FB000084,Zara,Shoes,Summer,191.96,0.0,50,,0,0.1486
+FB000085,Ann Taylor,Outerwear,Spring,172.25,22.6,50,,0,0.1665
+FB000086,Forever21,Bottoms,Winter,33.35,11.9,45,3.4,1,0.2563
+FB000087,Uniqlo,Outerwear,Summer,241.09,0.0,26,,0,0.2252
+FB000088,Banana Republic,Dresses,Spring,136.97,0.0,17,4.4,1,0.1288
+FB000089,H&M,Shoes,Spring,50.86,55.3,47,4.1,0,0.0864
+FB000090,H&M,Bottoms,Summer,55.94,40.0,46,1.9,0,0.1048
+FB000091,Uniqlo,Shoes,Spring,99.44,6.4,50,1.5,0,0.1135
+FB000092,Zara,Accessories,Winter,30.95,0.0,27,3.1,1,0.1392
+FB000093,Zara,Shoes,Summer,38.84,49.5,7,1.1,0,0.1342
+FB000094,H&M,Bottoms,Fall,80.64,0.0,26,,0,0.1212
+FB000095,Zara,Bottoms,Fall,15.45,52.4,14,3.9,0,0.1341
+FB000096,Gap,Accessories,Summer,54.79,0.0,12,4.5,0,0.2003
+FB000097,H&M,Bottoms,Winter,31.02,56.4,12,3.4,0,0.0918
+FB000098,Ann Taylor,Bottoms,Summer,57.85,0.0,36,3.5,0,0.243
+FB000099,Zara,Bottoms,Summer,32.37,3.0,40,1.3,0,0.198
+FB000100,Gap,Tops,Summer,91.83,0.0,39,4.9,0,0.2077
+FB000101,Zara,Bottoms,Fall,48.4,19.5,42,1.0,0,0.1141
+FB000102,Banana Republic,Dresses,Winter,163.5,0.0,34,4.9,0,0.1404
+FB000103,Uniqlo,Dresses,Spring,126.37,0.0,25,1.8,0,0.1001
+FB000104,Uniqlo,Bottoms,Winter,20.9,58.2,32,4.8,0,0.1478
+FB000105,H&M,Shoes,Winter,84.31,0.0,10,3.9,0,0.0733
+FB000106,Banana Republic,Bottoms,Spring,100.98,0.0,21,2.8,0,0.1536
+FB000107,Banana Republic,Bottoms,Summer,38.02,0.0,44,4.7,0,0.1917
+FB000108,H&M,Bottoms,Fall,63.85,0.0,41,,0,0.0905
+FB000109,H&M,Shoes,Fall,183.15,0.0,23,4.1,0,0.0859
+FB000110,Zara,Dresses,Winter,36.86,59.5,5,3.9,0,0.0843
+FB000111,Uniqlo,Outerwear,Spring,92.83,0.0,9,1.2,0,0.1118
+FB000112,Banana Republic,Accessories,Winter,34.45,0.0,4,4.5,0,0.1273
+FB000113,H&M,Dresses,Fall,64.08,50.0,28,3.2,0,0.0984
+FB000114,Mango,Tops,Summer,65.95,33.8,27,2.1,0,0.106
+FB000115,Forever21,Bottoms,Winter,65.11,25.5,8,2.3,0,0.138
+FB000116,Zara,Tops,Spring,49.67,0.0,37,2.3,0,0.0857
+FB000117,Uniqlo,Accessories,Fall,72.04,0.0,48,,1,0.078
+FB000118,Zara,Dresses,Spring,133.82,0.0,12,1.7,0,0.0716
+FB000119,Uniqlo,Bottoms,Winter,62.93,0.0,49,,0,0.1127
+FB000120,Zara,Outerwear,Spring,248.58,0.0,27,1.5,0,0.1748
+FB000121,Uniqlo,Shoes,Fall,61.08,0.0,27,,1,0.2036
+FB000122,Gap,Bottoms,Winter,109.12,0.0,34,,0,0.1649
+FB000123,Zara,Outerwear,Winter,44.85,45.9,24,,1,0.3115
+FB000124,H&M,Shoes,Summer,101.16,10.9,40,2.8,0,0.175
+FB000125,Uniqlo,Accessories,Winter,18.86,51.5,28,4.3,0,0.2015
+FB000126,Gap,Dresses,Spring,28.68,45.9,37,3.7,0,0.1679
+FB000127,Ann Taylor,Shoes,Spring,81.64,0.0,50,1.1,0,0.206
+FB000128,Ann Taylor,Shoes,Spring,98.31,21.5,7,2.9,0,0.0837
+FB000129,Ann Taylor,Outerwear,Spring,98.61,0.0,1,2.6,0,0.1003
+FB000130,Gap,Shoes,Fall,77.54,0.0,36,3.4,0,0.1268
+FB000131,Banana Republic,Dresses,Spring,79.13,0.0,11,3.6,0,0.0767
+FB000132,Mango,Bottoms,Spring,96.11,0.0,13,4.2,0,0.1173
+FB000133,Mango,Tops,Spring,116.61,0.0,31,,0,0.1233
+FB000134,Ann Taylor,Accessories,Winter,42.19,27.0,9,1.8,0,0.1644
+FB000135,H&M,Tops,Spring,110.78,0.0,9,1.4,0,0.0519
+FB000136,Gap,Tops,Spring,112.63,0.0,50,3.6,1,0.3402
+FB000137,H&M,Tops,Summer,89.36,0.0,24,4.3,1,0.2874
+FB000138,Forever21,Outerwear,Fall,127.99,0.0,16,,0,0.0733
+FB000139,Zara,Bottoms,Winter,22.61,58.8,50,3.5,0,0.1517
+FB000140,Uniqlo,Shoes,Spring,154.13,0.0,31,4.1,1,0.2145
+FB000141,Ann Taylor,Dresses,Spring,131.5,0.0,5,,0,0.1186
+FB000142,Gap,Outerwear,Summer,133.26,0.0,29,1.3,0,0.162
+FB000143,Forever21,Shoes,Winter,173.91,0.0,21,,0,0.1549
+FB000144,H&M,Tops,Spring,102.99,0.0,41,3.9,0,0.1547
+FB000145,Zara,Outerwear,Spring,48.02,45.3,34,1.8,0,0.1886
+FB000146,Uniqlo,Tops,Winter,77.3,15.8,30,4.2,0,0.1642
+FB000147,Zara,Tops,Winter,80.06,25.4,50,4.4,0,0.1509
+FB000148,Banana Republic,Bottoms,Spring,28.9,57.3,50,4.6,0,0.1318
+FB000149,Ann Taylor,Tops,Summer,36.78,46.0,3,2.5,0,0.1903
+FB000150,Banana Republic,Shoes,Spring,94.29,0.0,18,1.7,0,0.0877
+FB000151,Ann Taylor,Tops,Winter,94.97,0.0,46,4.3,0,0.222
+FB000152,Banana Republic,Shoes,Winter,58.36,11.4,15,3.9,0,0.1188
+FB000153,Zara,Dresses,Winter,109.47,29.4,5,3.6,0,0.1182
+FB000154,Zara,Outerwear,Winter,172.59,0.0,1,2.1,0,0.1051
+FB000155,H&M,Dresses,Summer,68.72,0.0,28,1.7,1,0.2661
+FB000156,Banana Republic,Tops,Spring,28.78,0.0,21,,0,0.0907
+FB000157,H&M,Outerwear,Winter,79.1,28.3,49,3.3,0,0.1233
+FB000158,Mango,Shoes,Summer,194.24,0.0,17,1.2,1,0.2442
+FB000159,Gap,Shoes,Fall,175.91,0.0,4,2.8,0,0.0643
+FB000160,Mango,Bottoms,Winter,79.34,0.0,30,4.4,0,0.164
+FB000161,H&M,Bottoms,Summer,111.88,0.0,41,4.5,0,0.1256
+FB000162,Gap,Accessories,Spring,25.45,40.6,18,2.6,0,0.1785
+FB000163,Gap,Bottoms,Spring,25.99,1.1,35,5.0,0,0.2167
+FB000164,H&M,Accessories,Spring,23.11,0.0,2,1.4,0,0.1409
+FB000165,Zara,Shoes,Winter,168.36,0.0,47,,1,0.2719
+FB000166,Gap,Shoes,Fall,99.26,0.0,33,,1,0.2819
+FB000167,Mango,Accessories,Spring,53.66,0.0,40,2.8,0,0.1493
+FB000168,Ann Taylor,Accessories,Summer,57.16,18.0,34,4.2,1,0.3555
+FB000169,Forever21,Dresses,Fall,47.4,21.4,4,3.6,0,0.1539
+FB000170,Banana Republic,Shoes,Winter,113.58,0.0,33,4.9,1,0.3012
+FB000171,Ann Taylor,Bottoms,Fall,53.93,1.7,40,2.5,0,0.1392
+FB000172,Zara,Tops,Winter,92.25,0.0,13,2.8,1,0.2018
+FB000173,Ann Taylor,Accessories,Winter,54.07,0.0,47,4.6,0,0.2147
+FB000174,Banana Republic,Shoes,Winter,104.4,0.0,41,3.4,0,0.2122
+FB000175,Ann Taylor,Dresses,Spring,45.97,0.0,37,3.2,1,0.3066
+FB000176,Ann Taylor,Tops,Summer,28.79,0.0,4,4.4,0,0.1392
+FB000177,Uniqlo,Outerwear,Winter,204.21,0.0,5,3.3,0,0.0892
+FB000178,Mango,Shoes,Fall,152.6,20.0,47,,0,0.1009
+FB000179,Forever21,Tops,Winter,20.07,39.2,16,3.7,0,0.1322
+FB000180,Banana Republic,Accessories,Spring,28.66,39.8,18,1.3,0,0.1682
+FB000181,H&M,Outerwear,Spring,137.16,0.0,34,3.2,0,0.1504
+FB000182,Gap,Tops,Fall,108.49,0.0,7,3.3,0,0.0932
+FB000183,Banana Republic,Tops,Winter,106.49,0.0,23,4.0,0,0.1319
+FB000184,Mango,Tops,Winter,114.86,0.0,48,1.1,0,0.1562
+FB000185,Zara,Dresses,Fall,121.68,0.0,9,1.5,0,0.0825
+FB000186,Zara,Bottoms,Summer,71.19,3.9,37,1.7,0,0.1927
+FB000187,Gap,Tops,Fall,59.21,35.9,20,,0,0.1063
+FB000188,Uniqlo,Tops,Summer,34.06,0.0,39,4.5,0,0.1858
+FB000189,Zara,Dresses,Summer,173.42,0.0,47,4.2,0,0.1627
+FB000190,Uniqlo,Bottoms,Spring,66.51,0.0,32,2.1,0,0.1087
+FB000191,Uniqlo,Bottoms,Fall,67.3,7.1,10,1.8,0,0.0958
+FB000192,Ann Taylor,Tops,Fall,81.2,0.0,3,1.5,0,0.0861
+FB000193,Gap,Outerwear,Summer,91.65,12.3,42,,0,0.2047
+FB000194,Gap,Dresses,Winter,50.05,13.0,12,4.1,0,0.1436
+FB000195,Banana Republic,Shoes,Summer,142.58,0.0,25,4.8,1,0.3165
+FB000196,Zara,Dresses,Fall,114.53,29.4,41,4.0,1,0.2639
+FB000197,Ann Taylor,Bottoms,Spring,15.5,51.7,27,,0,0.298
+FB000198,Uniqlo,Shoes,Fall,93.06,42.7,22,4.8,0,0.1363
+FB000199,Banana Republic,Tops,Fall,32.92,57.5,23,4.0,0,0.1228
+FB000200,H&M,Tops,Fall,45.4,56.1,4,4.7,0,0.0655
+FB000201,Zara,Bottoms,Spring,28.62,33.3,18,,0,0.143
+FB000202,Zara,Shoes,Summer,120.28,17.0,32,2.0,0,0.1387
+FB000203,Banana Republic,Shoes,Summer,70.83,23.9,10,3.5,1,0.3057
+FB000204,H&M,Outerwear,Summer,119.96,0.0,20,1.1,0,0.1862
+FB000205,Forever21,Accessories,Summer,20.64,50.9,43,2.3,1,0.2184
+FB000206,Banana Republic,Accessories,Winter,54.45,0.0,12,2.7,0,0.1457
+FB000207,Mango,Tops,Spring,42.58,36.4,44,1.9,1,0.2857
+FB000208,Ann Taylor,Tops,Spring,106.67,8.8,33,1.6,0,0.1725
+FB000209,Forever21,Tops,Fall,111.14,0.0,49,1.6,0,0.0928
+FB000210,Banana Republic,Tops,Fall,59.6,0.0,40,2.1,0,0.0539
+FB000211,Ann Taylor,Tops,Spring,21.23,16.7,32,,0,0.1927
+FB000212,Zara,Tops,Spring,82.94,0.0,46,1.5,0,0.1227
+FB000213,Uniqlo,Tops,Spring,99.71,0.0,23,1.4,0,0.1077
+FB000214,Banana Republic,Accessories,Fall,69.74,0.0,11,3.3,1,0.1057
+FB000215,H&M,Bottoms,Summer,57.19,0.0,12,2.5,0,0.1403
+FB000216,H&M,Tops,Summer,58.65,0.0,4,1.1,0,0.1505
+FB000217,Uniqlo,Outerwear,Fall,110.22,0.0,4,1.6,0,0.083
+FB000218,Zara,Tops,Summer,69.36,0.0,25,,0,0.2283
+FB000219,Zara,Bottoms,Winter,87.03,0.0,39,4.3,0,0.1167
+FB000220,Zara,Dresses,Winter,131.05,18.4,41,3.0,0,0.126
+FB000221,H&M,Outerwear,Spring,167.02,0.0,26,2.6,1,0.2439
+FB000222,Zara,Tops,Summer,26.09,0.0,32,4.6,1,0.3145
+FB000223,H&M,Outerwear,Summer,246.65,0.0,17,2.9,1,0.3325
+FB000224,Forever21,Outerwear,Summer,206.91,0.0,34,2.3,0,0.1438
+FB000225,Gap,Dresses,Winter,85.08,0.0,29,,0,0.1813
+FB000226,Forever21,Outerwear,Spring,108.62,54.8,3,4.5,0,0.1837
+FB000227,Uniqlo,Dresses,Fall,128.3,1.4,0,5.0,0,0.0562
+FB000228,H&M,Bottoms,Spring,35.61,15.8,11,1.6,0,0.1438
+FB000229,H&M,Outerwear,Spring,191.54,0.0,18,1.2,0,0.1154
+FB000230,Ann Taylor,Accessories,Spring,42.23,0.0,15,,0,0.1485
+FB000231,H&M,Shoes,Summer,109.76,0.0,16,4.3,0,0.1284
+FB000232,Mango,Accessories,Summer,43.55,43.3,24,,0,0.2066
+FB000233,Forever21,Dresses,Winter,43.72,22.4,37,2.5,1,0.1389
+FB000234,Gap,Tops,Fall,88.41,0.0,24,4.4,0,0.1073
+FB000235,Gap,Tops,Spring,25.96,0.0,2,1.4,0,0.0958
+FB000236,Zara,Bottoms,Spring,60.25,0.0,25,4.1,0,0.1188
+FB000237,H&M,Accessories,Fall,42.33,19.1,4,,0,0.1393
+FB000238,Mango,Accessories,Fall,67.61,0.0,14,1.8,0,0.0794
+FB000239,Forever21,Shoes,Spring,136.0,0.0,46,4.5,0,0.107
+FB000240,Zara,Shoes,Fall,74.48,0.0,24,3.7,0,0.1027
+FB000241,Forever21,Dresses,Fall,101.39,0.0,33,2.4,1,0.2194
+FB000242,Forever21,Dresses,Fall,98.92,41.7,43,4.6,0,0.1555
+FB000243,Forever21,Accessories,Winter,52.45,0.0,34,2.1,0,0.1162
+FB000244,Uniqlo,Shoes,Summer,80.62,47.6,12,3.1,0,0.0876
+FB000245,Mango,Bottoms,Fall,16.19,50.5,46,1.3,0,0.1667
+FB000246,Uniqlo,Outerwear,Fall,47.34,54.6,42,4.2,0,0.1271
+FB000247,Forever21,Dresses,Summer,39.3,50.9,45,,0,0.1189
+FB000248,Banana Republic,Bottoms,Spring,72.07,0.0,20,,1,0.2824
+FB000249,Zara,Outerwear,Fall,220.99,0.0,42,3.6,0,0.0604
+FB000250,Uniqlo,Outerwear,Fall,100.23,14.6,33,,1,0.325
+FB000251,Banana Republic,Outerwear,Spring,101.77,48.8,36,3.0,0,0.2266
+FB000252,H&M,Outerwear,Fall,121.03,0.0,14,1.6,1,0.2609
+FB000253,H&M,Tops,Fall,88.62,0.0,48,2.4,0,0.0742
+FB000254,H&M,Shoes,Summer,88.94,0.0,29,3.9,0,0.1914
+FB000255,Zara,Bottoms,Winter,95.11,17.8,32,1.7,0,0.1509
+FB000256,Forever21,Bottoms,Fall,75.66,0.0,20,3.0,0,0.1194
+FB000257,Ann Taylor,Accessories,Winter,42.11,0.0,26,4.0,0,0.2345
+FB000258,H&M,Outerwear,Spring,237.24,4.3,25,4.6,0,0.122
+FB000259,Banana Republic,Shoes,Spring,143.45,0.0,39,,1,0.2298
+FB000260,Banana Republic,Accessories,Winter,13.8,44.7,44,,0,0.2184
+FB000261,Forever21,Outerwear,Summer,109.74,0.0,45,1.9,0,0.1166
+FB000262,H&M,Dresses,Summer,161.14,0.0,44,1.6,0,0.1132
+FB000263,Banana Republic,Outerwear,Spring,199.89,9.2,23,4.8,0,0.1509
+FB000264,Forever21,Dresses,Summer,57.33,0.0,23,2.0,0,0.2016
+FB000265,Zara,Bottoms,Fall,108.24,0.0,8,2.3,0,0.0539
+FB000266,Banana Republic,Accessories,Summer,67.93,0.0,22,4.6,0,0.2783
+FB000267,Zara,Dresses,Winter,168.96,0.0,9,,0,0.0908
+FB000268,Ann Taylor,Tops,Fall,90.63,0.0,33,4.2,0,0.1282
+FB000269,Mango,Accessories,Spring,72.01,0.4,38,3.0,1,0.1753
+FB000270,H&M,Bottoms,Winter,27.98,0.0,0,3.0,0,0.1934
+FB000271,Forever21,Dresses,Summer,92.73,0.0,15,1.4,0,0.1491
+FB000272,Mango,Bottoms,Summer,64.28,0.0,46,3.0,0,0.1221
+FB000273,Ann Taylor,Dresses,Fall,133.12,0.0,35,1.9,0,0.1005
+FB000274,Gap,Tops,Winter,70.36,0.0,0,,0,0.092
+FB000275,Uniqlo,Outerwear,Summer,199.01,0.0,8,4.4,0,0.1481
+FB000276,H&M,Bottoms,Summer,39.26,37.1,6,4.1,0,0.1393
+FB000277,Uniqlo,Shoes,Summer,71.44,0.0,45,4.0,0,0.2295
+FB000278,Zara,Dresses,Winter,89.69,0.0,50,4.3,0,0.1589
+FB000279,Mango,Outerwear,Spring,145.16,10.2,42,,0,0.0843
+FB000280,Uniqlo,Accessories,Winter,46.59,0.0,29,4.8,0,0.1406
+FB000281,Zara,Accessories,Fall,74.2,0.0,22,1.7,0,0.1098
+FB000282,Uniqlo,Bottoms,Fall,99.67,0.0,13,5.0,0,0.0647
+FB000283,Forever21,Shoes,Fall,86.81,23.0,37,1.0,0,0.1462
+FB000284,Banana Republic,Tops,Summer,58.07,39.4,6,,1,0.2494
+FB000285,Ann Taylor,Shoes,Winter,157.42,0.0,38,2.4,0,0.1309
+FB000286,Zara,Accessories,Fall,51.69,14.1,38,5.0,0,0.1648
+FB000287,Mango,Outerwear,Winter,169.03,0.0,16,1.7,0,0.168
+FB000288,Uniqlo,Dresses,Fall,175.86,0.0,0,4.6,0,0.0884
+FB000289,Mango,Shoes,Summer,169.75,0.0,5,2.7,0,0.0969
+FB000290,H&M,Accessories,Summer,39.19,24.3,50,3.7,0,0.3127
+FB000291,Mango,Tops,Fall,83.09,0.0,22,2.3,0,0.0855
+FB000292,Ann Taylor,Outerwear,Winter,176.1,0.0,12,4.6,0,0.1019
+FB000293,Mango,Bottoms,Fall,69.11,0.0,18,3.9,0,0.1135
+FB000294,Zara,Shoes,Spring,117.85,0.0,34,3.3,0,0.1389
+FB000295,Banana Republic,Shoes,Fall,61.55,36.0,45,3.5,0,0.1491
+FB000296,Zara,Shoes,Spring,80.14,0.0,10,5.0,0,0.0703
+FB000297,Gap,Accessories,Summer,47.92,13.0,17,3.9,0,0.2542
+FB000298,Mango,Dresses,Fall,82.26,50.4,17,3.2,1,0.1411
+FB000299,Gap,Dresses,Summer,82.7,0.0,20,4.0,0,0.2212
+FB000300,Banana Republic,Outerwear,Spring,208.15,6.6,29,2.1,0,0.1101
+FB000301,Mango,Tops,Winter,107.15,0.0,33,,1,0.2422
+FB000302,H&M,Shoes,Fall,85.54,0.0,30,,0,0.117
+FB000303,Mango,Bottoms,Summer,32.5,5.4,49,4.5,0,0.1765
+FB000304,Mango,Bottoms,Winter,64.3,42.2,34,3.0,0,0.1029
+FB000305,Zara,Tops,Spring,25.9,35.2,15,2.3,0,0.1166
+FB000306,Forever21,Shoes,Summer,60.34,0.0,4,,0,0.1276
+FB000307,Gap,Accessories,Summer,17.7,0.0,42,3.9,0,0.2382
+FB000308,Mango,Bottoms,Summer,57.88,0.0,39,3.0,0,0.1597
+FB000309,Mango,Tops,Summer,25.15,0.0,34,2.6,0,0.1186
+FB000310,Mango,Outerwear,Spring,157.45,0.0,7,2.9,0,0.108
+FB000311,H&M,Bottoms,Winter,59.74,9.1,10,2.8,1,0.1331
+FB000312,Forever21,Dresses,Winter,92.8,0.0,25,2.5,0,0.1362
+FB000313,Banana Republic,Dresses,Winter,88.65,0.0,11,3.3,0,0.1292
+FB000314,Zara,Tops,Winter,20.05,57.4,24,1.3,1,0.3058
+FB000315,Ann Taylor,Outerwear,Summer,101.75,0.0,7,3.1,0,0.1457
+FB000316,Mango,Dresses,Spring,121.25,7.5,20,4.5,1,0.2568
+FB000317,Zara,Tops,Fall,60.64,26.1,32,1.5,0,0.1221
+FB000318,H&M,Dresses,Summer,66.31,0.0,47,3.9,0,0.1909
+FB000319,Uniqlo,Accessories,Fall,26.03,0.0,15,3.8,0,0.1597
+FB000320,Uniqlo,Shoes,Spring,152.53,0.0,24,4.2,0,0.1017
+FB000321,Mango,Bottoms,Fall,21.92,16.2,13,2.3,0,0.1712
+FB000322,Uniqlo,Dresses,Winter,79.54,10.8,27,3.3,0,0.1531
+FB000323,H&M,Bottoms,Spring,106.37,0.0,37,4.9,0,0.106
+FB000324,Mango,Dresses,Fall,51.16,36.8,16,2.5,0,0.1179
+FB000325,Banana Republic,Outerwear,Summer,84.58,50.2,21,3.0,1,0.3331
+FB000326,Forever21,Dresses,Fall,145.37,8.8,43,4.5,0,0.0915
+FB000327,Forever21,Bottoms,Winter,56.99,46.5,17,,0,0.1299
+FB000328,Gap,Accessories,Spring,43.58,44.7,34,1.4,0,0.1726
+FB000329,Uniqlo,Outerwear,Summer,82.8,29.5,43,1.2,0,0.1373
+FB000330,Gap,Accessories,Spring,76.94,0.0,21,4.3,0,0.2235
+FB000331,Gap,Outerwear,Summer,232.19,0.0,31,1.3,1,0.3375
+FB000332,Forever21,Dresses,Fall,38.51,52.1,7,1.2,0,0.1375
+FB000333,Mango,Bottoms,Summer,102.82,0.0,50,3.6,0,0.126
+FB000334,Zara,Accessories,Spring,48.5,0.0,46,,0,0.1447
+FB000335,Mango,Bottoms,Fall,88.4,0.0,1,1.4,0,0.1174
+FB000336,Mango,Shoes,Winter,112.5,0.0,11,4.3,0,0.1361
+FB000337,Zara,Bottoms,Fall,87.08,11.1,25,2.4,0,0.1015
+FB000338,H&M,Outerwear,Summer,72.26,36.9,33,1.5,0,0.125
+FB000339,Zara,Bottoms,Winter,27.85,0.0,0,1.5,0,0.1229
+FB000340,Ann Taylor,Shoes,Spring,48.76,40.6,43,2.5,1,0.3453
+FB000341,Mango,Bottoms,Summer,69.03,40.7,23,1.2,0,0.105
+FB000342,Ann Taylor,Bottoms,Spring,95.61,0.0,47,4.7,1,0.2675
+FB000343,Mango,Shoes,Fall,70.04,0.0,12,2.4,0,0.0805
+FB000344,Banana Republic,Shoes,Winter,51.79,54.0,17,4.0,0,0.0882
+FB000345,Zara,Accessories,Summer,26.56,0.9,25,1.2,1,0.2158
+FB000346,H&M,Tops,Summer,50.09,0.0,47,4.0,0,0.219
+FB000347,Mango,Bottoms,Spring,88.94,4.2,0,,1,0.1323
+FB000348,Uniqlo,Tops,Summer,114.63,0.0,47,3.8,1,0.3083
+FB000349,Gap,Accessories,Summer,15.51,29.2,35,2.0,0,0.2619
+FB000350,Zara,Dresses,Spring,53.59,46.7,30,,0,0.1355
+FB000351,Forever21,Accessories,Summer,39.67,16.4,33,1.7,0,0.2352
+FB000352,H&M,Bottoms,Summer,113.21,0.0,8,2.7,0,0.1138
+FB000353,Banana Republic,Dresses,Spring,163.27,0.0,24,2.5,0,0.183
+FB000354,Uniqlo,Accessories,Fall,44.58,0.0,21,,0,0.1269
+FB000355,Forever21,Dresses,Summer,166.53,0.0,28,1.7,0,0.1886
+FB000356,Banana Republic,Shoes,Summer,144.61,0.0,21,2.5,0,0.1897
+FB000357,Mango,Accessories,Fall,31.0,0.0,29,1.9,0,0.1358
+FB000358,Forever21,Accessories,Winter,48.41,29.4,4,3.5,0,0.1457
+FB000359,Forever21,Dresses,Summer,31.77,56.5,15,3.0,1,0.3262
+FB000360,H&M,Tops,Spring,95.19,0.0,13,4.1,0,0.0722
+FB000361,Gap,Tops,Winter,104.94,0.0,42,2.0,0,0.1636
+FB000362,Gap,Bottoms,Spring,97.29,0.0,42,4.5,0,0.1934
+FB000363,Mango,Shoes,Winter,50.0,39.8,5,3.4,0,0.1317
+FB000364,Uniqlo,Outerwear,Fall,86.13,0.0,28,2.7,0,0.0951
+FB000365,Banana Republic,Bottoms,Summer,74.24,28.7,23,3.1,0,0.1709
+FB000366,Uniqlo,Accessories,Fall,41.7,0.0,18,3.2,0,0.1353
+FB000367,Banana Republic,Outerwear,Spring,80.11,0.0,34,1.8,0,0.1565
+FB000368,Ann Taylor,Tops,Fall,97.84,0.0,16,,0,0.0612
+FB000369,Gap,Bottoms,Fall,50.14,35.2,14,2.3,0,0.1303
+FB000370,H&M,Accessories,Fall,22.68,37.6,49,4.0,1,0.2362
+FB000371,Banana Republic,Outerwear,Winter,144.47,20.2,17,,1,0.171
+FB000372,Zara,Outerwear,Spring,158.37,0.0,33,,0,0.1137
+FB000373,Forever21,Shoes,Summer,91.98,0.0,48,3.9,0,0.113
+FB000374,Zara,Shoes,Winter,62.71,55.3,5,4.4,0,0.1218
+FB000375,Uniqlo,Tops,Spring,26.01,0.0,9,4.0,0,0.0558
+FB000376,Forever21,Tops,Winter,46.21,9.5,34,1.1,0,0.102
+FB000377,Gap,Outerwear,Fall,132.92,0.0,36,1.2,0,0.1121
+FB000378,Gap,Accessories,Fall,16.57,0.0,17,,0,0.1734
+FB000379,Forever21,Bottoms,Winter,42.6,45.8,6,2.7,0,0.1635
+FB000380,Mango,Accessories,Summer,69.38,0.0,43,2.4,0,0.1521
+FB000381,Mango,Accessories,Fall,23.58,0.0,16,1.3,0,0.1522
+FB000382,H&M,Tops,Spring,86.58,27.8,12,1.7,0,0.092
+FB000383,H&M,Outerwear,Summer,109.5,1.4,7,2.8,0,0.1141
+FB000384,Banana Republic,Accessories,Summer,60.22,0.0,6,2.1,0,0.2484
+FB000385,Gap,Outerwear,Winter,133.52,0.0,27,3.6,0,0.1196
+FB000386,Banana Republic,Dresses,Spring,27.7,49.6,48,4.5,0,0.147
+FB000387,Uniqlo,Tops,Winter,85.94,0.0,42,4.3,0,0.1345
+FB000388,H&M,Accessories,Fall,24.64,0.0,6,4.4,0,0.1413
+FB000389,Banana Republic,Accessories,Spring,28.82,0.0,30,2.8,0,0.1421
+FB000390,Forever21,Shoes,Summer,60.25,24.3,37,1.7,0,0.195
+FB000391,Gap,Dresses,Fall,49.44,0.0,19,3.4,0,0.1297
+FB000392,Mango,Tops,Winter,41.46,0.0,36,3.5,0,0.0985
+FB000393,Uniqlo,Dresses,Fall,85.12,35.4,21,4.7,0,0.1188
+FB000394,Mango,Bottoms,Fall,40.76,27.9,22,,0,0.1448
+FB000395,Zara,Tops,Winter,74.52,33.3,47,2.0,1,0.1484
+FB000396,Zara,Tops,Winter,52.38,47.6,18,2.0,1,0.2883
+FB000397,Uniqlo,Dresses,Fall,47.21,57.1,0,4.7,0,0.0908
+FB000398,Forever21,Dresses,Winter,141.84,0.0,39,1.7,0,0.1084
+FB000399,H&M,Accessories,Winter,18.63,42.9,5,1.1,0,0.1422
+FB000400,Zara,Outerwear,Spring,112.29,40.8,27,1.8,1,0.3492
+FB000401,Ann Taylor,Dresses,Fall,80.27,46.8,18,4.9,0,0.1285
+FB000402,Gap,Accessories,Fall,33.49,21.5,16,,0,0.1409
+FB000403,Uniqlo,Accessories,Fall,62.05,0.0,50,1.4,1,0.1486
+FB000404,Banana Republic,Accessories,Winter,74.32,0.0,4,2.2,0,0.1427
+FB000405,Uniqlo,Outerwear,Winter,217.34,0.0,4,4.2,0,0.1004
+FB000406,Zara,Tops,Summer,48.12,56.7,29,1.5,0,0.0775
+FB000407,H&M,Shoes,Winter,62.5,0.0,0,1.9,1,0.1171
+FB000408,Banana Republic,Outerwear,Winter,160.24,3.4,42,2.4,0,0.1184
+FB000409,Gap,Outerwear,Fall,179.8,0.0,25,1.7,0,0.1044
+FB000410,Zara,Accessories,Summer,34.15,0.0,27,4.1,0,0.2068
+FB000411,Gap,Tops,Spring,101.88,0.0,46,,1,0.3059
+FB000412,Banana Republic,Shoes,Summer,187.58,0.0,46,2.9,0,0.1569
+FB000413,Ann Taylor,Outerwear,Fall,145.02,0.0,36,2.6,0,0.0889
+FB000414,Gap,Bottoms,Summer,74.28,26.9,38,3.4,1,0.2505
+FB000415,H&M,Dresses,Fall,71.14,0.0,33,3.1,0,0.1523
+FB000416,Ann Taylor,Dresses,Summer,55.21,0.0,2,3.8,1,0.3465
+FB000417,Zara,Tops,Summer,61.34,35.4,34,3.9,0,0.1236
+FB000418,Mango,Shoes,Spring,138.69,0.0,0,2.9,0,0.0621
+FB000419,Gap,Outerwear,Spring,175.7,0.0,20,3.0,0,0.1463
+FB000420,Uniqlo,Shoes,Summer,93.35,35.7,25,2.2,0,0.1456
+FB000421,Mango,Dresses,Summer,93.81,44.6,37,2.7,0,0.1127
+FB000422,Uniqlo,Tops,Summer,103.14,0.0,13,4.5,0,0.1435
+FB000423,Mango,Tops,Fall,66.28,32.0,27,3.0,0,0.1011
+FB000424,Ann Taylor,Dresses,Spring,37.36,26.3,37,4.1,0,0.1899
+FB000425,Banana Republic,Outerwear,Fall,127.75,0.0,32,3.6,0,0.1184
+FB000426,Forever21,Tops,Winter,111.64,0.0,13,4.8,0,0.1047
+FB000427,Uniqlo,Shoes,Fall,118.99,11.6,47,3.9,0,0.1208
+FB000428,Zara,Bottoms,Spring,56.05,0.0,9,,0,0.1106
+FB000429,Banana Republic,Dresses,Fall,106.2,0.0,35,4.5,0,0.1107
+FB000430,Mango,Shoes,Fall,82.78,20.6,31,3.0,0,0.1595
+FB000431,Uniqlo,Accessories,Spring,24.53,0.0,44,4.2,0,0.1457
+FB000432,Mango,Shoes,Spring,131.25,0.0,12,1.6,0,0.1066
+FB000433,Forever21,Bottoms,Fall,72.85,0.0,25,3.8,0,0.1218
+FB000434,Zara,Shoes,Winter,135.39,0.0,26,3.9,0,0.1273
+FB000435,Zara,Shoes,Winter,159.93,4.2,17,2.6,1,0.2676
+FB000436,Banana Republic,Shoes,Spring,78.91,41.7,17,4.3,0,0.1272
+FB000437,Ann Taylor,Bottoms,Spring,96.05,0.0,15,4.0,0,0.1079
+FB000438,H&M,Outerwear,Summer,116.1,0.0,27,3.6,1,0.2204
+FB000439,Mango,Shoes,Fall,91.53,0.0,8,1.5,0,0.1223
+FB000440,Zara,Bottoms,Winter,102.16,0.0,50,,0,0.1597
+FB000441,Uniqlo,Shoes,Winter,65.5,3.3,23,1.5,0,0.1275
+FB000442,Banana Republic,Accessories,Winter,38.34,0.0,14,1.4,0,0.1742
+FB000443,Zara,Accessories,Winter,60.49,0.0,30,2.5,0,0.1562
+FB000444,Banana Republic,Outerwear,Spring,90.27,0.0,35,4.2,0,0.1442
+FB000445,Banana Republic,Accessories,Summer,45.42,0.0,36,1.3,0,0.2935
+FB000446,Ann Taylor,Tops,Spring,58.56,0.0,21,2.3,0,0.1343
+FB000447,H&M,Dresses,Summer,167.64,0.0,18,4.1,0,0.1504
+FB000448,Zara,Outerwear,Fall,193.14,0.0,7,3.5,0,0.0577
+FB000449,Gap,Accessories,Winter,50.69,15.6,49,2.0,1,0.1851
+FB000450,Banana Republic,Bottoms,Fall,35.37,0.0,29,4.7,0,0.1523
+FB000451,Mango,Accessories,Summer,39.85,0.0,28,2.4,0,0.1921
+FB000452,Zara,Tops,Winter,34.65,59.4,5,4.9,0,0.0778
+FB000453,Forever21,Bottoms,Fall,81.17,0.0,21,1.2,0,0.0816
+FB000454,Ann Taylor,Accessories,Spring,16.81,0.0,16,2.8,0,0.1721
+FB000455,Ann Taylor,Tops,Winter,52.07,55.0,6,1.6,0,0.1055
+FB000456,Mango,Bottoms,Summer,49.87,0.0,17,2.1,0,0.1787
+FB000457,Mango,Shoes,Fall,50.85,52.9,2,4.9,0,0.0952
+FB000458,Mango,Shoes,Summer,94.49,31.7,3,2.5,0,0.1042
+FB000459,Gap,Tops,Spring,32.01,0.0,43,3.4,1,0.2866
+FB000460,H&M,Dresses,Fall,63.77,50.6,10,4.4,0,0.0849
+FB000461,Banana Republic,Dresses,Winter,29.9,56.4,30,1.8,0,0.1278
+FB000462,H&M,Accessories,Winter,46.46,0.0,30,,0,0.1836
+FB000463,Banana Republic,Outerwear,Fall,52.12,58.2,44,3.2,0,0.1073
+FB000464,H&M,Bottoms,Spring,36.85,0.0,0,4.4,0,0.1435
+FB000465,Ann Taylor,Outerwear,Winter,228.94,0.3,30,3.4,0,0.1256
+FB000466,Ann Taylor,Tops,Spring,74.09,0.0,35,3.4,0,0.1266
+FB000467,Banana Republic,Bottoms,Spring,27.22,0.0,14,2.4,0,0.1377
+FB000468,Ann Taylor,Tops,Spring,32.18,1.4,29,1.5,1,0.1502
+FB000469,Zara,Accessories,Summer,26.68,11.8,30,3.4,0,0.2124
+FB000470,Uniqlo,Outerwear,Summer,180.57,0.0,28,,0,0.1763
+FB000471,Uniqlo,Bottoms,Summer,96.55,0.0,17,4.4,0,0.1806
+FB000472,Ann Taylor,Bottoms,Fall,31.32,54.3,38,2.9,0,0.2496
+FB000473,Gap,Shoes,Fall,71.94,0.0,45,3.3,0,0.1205
+FB000474,Gap,Shoes,Fall,72.73,9.9,37,2.5,0,0.1467
+FB000475,Zara,Outerwear,Winter,208.8,0.0,13,1.6,0,0.118
+FB000476,Mango,Shoes,Summer,72.59,54.1,36,4.5,0,0.1363
+FB000477,Zara,Tops,Fall,85.92,0.0,12,,0,0.0425
+FB000478,Gap,Accessories,Spring,69.59,0.0,38,1.5,0,0.1938
+FB000479,Zara,Dresses,Winter,110.16,19.1,14,,0,0.1356
+FB000480,Mango,Shoes,Spring,124.26,0.0,44,4.0,0,0.1303
+FB000481,Banana Republic,Shoes,Winter,129.33,0.0,15,3.1,0,0.1108
+FB000482,H&M,Dresses,Spring,86.75,30.0,39,1.9,0,0.109
+FB000483,Zara,Shoes,Summer,62.76,0.0,12,4.7,0,0.1152
+FB000484,Uniqlo,Shoes,Spring,74.54,0.0,4,3.5,0,0.0772
+FB000485,Gap,Tops,Summer,114.03,0.0,2,,0,0.1661
+FB000486,Gap,Accessories,Fall,14.91,27.6,36,,0,0.2026
+FB000487,Banana Republic,Shoes,Summer,167.86,0.0,17,3.2,0,0.1569
+FB000488,Uniqlo,Accessories,Fall,38.75,37.7,16,3.1,0,0.1561
+FB000489,Banana Republic,Outerwear,Fall,209.6,6.3,18,1.9,0,0.1093
+FB000490,Mango,Accessories,Summer,67.13,0.0,3,1.4,0,0.1648
+FB000491,Zara,Dresses,Summer,96.59,33.3,33,2.8,0,0.1184
+FB000492,Gap,Outerwear,Winter,71.88,53.0,2,4.6,1,0.3344
+FB000493,Forever21,Dresses,Summer,111.29,0.0,48,4.9,0,0.1128
+FB000494,Banana Republic,Outerwear,Winter,159.18,0.0,38,2.4,1,0.1561
+FB000495,Zara,Outerwear,Winter,215.93,0.0,43,3.5,0,0.1347
+FB000496,Ann Taylor,Tops,Spring,34.43,33.4,36,3.4,0,0.1682
+FB000497,Ann Taylor,Outerwear,Summer,137.38,0.0,43,3.5,0,0.1697
+FB000498,Forever21,Bottoms,Fall,59.18,38.8,46,1.7,0,0.0943
+FB000499,H&M,Bottoms,Spring,36.35,38.1,50,1.2,0,0.127
+FB000500,Gap,Outerwear,Winter,204.68,0.0,33,3.1,0,0.1626
+FB000501,Forever21,Bottoms,Spring,117.26,0.0,29,,0,0.1324
+FB000502,Gap,Outerwear,Summer,91.95,0.0,1,2.5,0,0.2138
+FB000503,Gap,Bottoms,Fall,94.53,0.0,13,2.4,0,0.1397
+FB000504,Mango,Dresses,Fall,69.78,3.0,45,1.4,0,0.0843
+FB000505,Ann Taylor,Dresses,Winter,167.23,5.9,47,,0,0.1574
+FB000506,Zara,Accessories,Summer,34.4,0.0,43,3.0,1,0.1732
+FB000507,Banana Republic,Bottoms,Spring,119.72,0.0,18,3.7,0,0.1315
+FB000508,H&M,Accessories,Summer,44.09,0.0,2,2.0,0,0.171
+FB000509,Mango,Bottoms,Spring,42.47,0.0,33,4.5,1,0.1704
+FB000510,Banana Republic,Dresses,Summer,68.43,0.0,16,,0,0.171
+FB000511,Zara,Shoes,Fall,112.8,31.8,9,4.6,0,0.1013
+FB000512,Ann Taylor,Accessories,Winter,35.36,0.0,42,4.5,0,0.2152
+FB000513,H&M,Dresses,Summer,95.73,0.0,6,4.6,0,0.1208
+FB000514,Banana Republic,Accessories,Spring,35.2,51.3,31,1.9,0,0.17
+FB000515,Ann Taylor,Outerwear,Summer,80.35,0.0,28,2.9,0,0.2781
+FB000516,Banana Republic,Bottoms,Winter,119.04,0.0,35,1.4,0,0.1553
+FB000517,Gap,Tops,Winter,34.8,42.5,8,,1,0.1137
+FB000518,H&M,Outerwear,Fall,52.01,43.8,33,1.5,1,0.2997
+FB000519,Uniqlo,Accessories,Fall,28.4,0.0,4,3.1,0,0.1192
+FB000520,Zara,Bottoms,Summer,91.65,0.0,40,3.8,0,0.1699
+FB000521,Mango,Accessories,Fall,72.57,0.0,27,2.5,0,0.1161
+FB000522,H&M,Bottoms,Fall,39.05,0.0,10,3.5,0,0.1104
+FB000523,Zara,Dresses,Winter,113.21,0.0,12,4.4,0,0.0965
+FB000524,Forever21,Accessories,Spring,25.34,0.0,17,3.3,0,0.1542
+FB000525,Mango,Tops,Spring,42.5,56.7,44,2.6,0,0.096
+FB000526,Banana Republic,Tops,Spring,60.54,0.0,35,1.7,0,0.073
+FB000527,Zara,Dresses,Winter,122.8,7.4,0,4.2,0,0.0974
+FB000528,Ann Taylor,Outerwear,Fall,234.14,0.0,40,1.7,0,0.1097
+FB000529,H&M,Accessories,Fall,16.5,48.2,32,4.5,0,0.2111
+FB000530,Uniqlo,Accessories,Spring,9.58,36.7,41,3.8,0,0.2049
+FB000531,H&M,Shoes,Winter,77.72,0.0,48,1.1,0,0.1437
+FB000532,Zara,Accessories,Spring,78.04,0.0,38,4.9,0,0.1212
+FB000533,Gap,Outerwear,Fall,169.82,0.0,28,4.0,0,0.0943
+FB000534,H&M,Bottoms,Spring,57.87,38.9,39,4.7,0,0.106
+FB000535,Ann Taylor,Shoes,Spring,87.83,22.0,29,2.1,1,0.2113
+FB000536,Zara,Bottoms,Summer,104.16,0.0,21,1.6,0,0.1459
+FB000537,Gap,Outerwear,Winter,174.86,0.0,15,1.7,0,0.1051
+FB000538,Uniqlo,Outerwear,Spring,110.25,49.4,42,2.9,0,0.1665
+FB000539,Mango,Shoes,Winter,123.14,0.0,15,1.8,1,0.2705
+FB000540,Ann Taylor,Tops,Winter,103.96,0.0,23,3.3,0,0.1696
+FB000541,H&M,Dresses,Spring,138.45,0.0,18,3.3,0,0.0868
+FB000542,Gap,Shoes,Summer,165.1,0.0,7,,0,0.1154
+FB000543,Gap,Shoes,Winter,147.25,0.0,15,2.7,0,0.1199
+FB000544,Uniqlo,Shoes,Fall,126.23,0.0,48,2.1,0,0.0884
+FB000545,Ann Taylor,Outerwear,Fall,229.04,0.0,5,4.5,0,0.1007
+FB000546,Ann Taylor,Accessories,Winter,26.05,32.6,46,1.1,0,0.2377
+FB000547,Banana Republic,Bottoms,Spring,80.82,0.0,42,,0,0.1847
+FB000548,Uniqlo,Accessories,Spring,56.44,0.0,35,4.0,0,0.1333
+FB000549,Zara,Dresses,Fall,121.3,0.0,33,2.3,0,0.1196
+FB000550,Gap,Bottoms,Fall,73.02,28.4,40,4.5,0,0.1562
+FB000551,Banana Republic,Bottoms,Spring,89.99,0.0,26,4.1,0,0.1884
+FB000552,Forever21,Shoes,Summer,42.12,34.5,48,4.5,0,0.1703
+FB000553,Zara,Dresses,Spring,168.92,0.0,11,4.4,0,0.0806
+FB000554,Gap,Bottoms,Summer,43.66,49.5,19,4.3,0,0.1243
+FB000555,Forever21,Tops,Winter,29.88,18.9,39,1.2,0,0.1386
+FB000556,Ann Taylor,Tops,Spring,38.5,0.0,2,3.2,0,0.0922
+FB000557,Mango,Bottoms,Winter,42.38,37.7,40,2.1,0,0.1475
+FB000558,Uniqlo,Dresses,Fall,117.23,0.0,30,,1,0.1999
+FB000559,Ann Taylor,Tops,Spring,79.33,0.0,10,3.4,1,0.081
+FB000560,Mango,Bottoms,Summer,43.44,42.7,11,2.0,0,0.1945
+FB000561,Ann Taylor,Dresses,Spring,141.42,0.0,10,2.5,0,0.0887
+FB000562,Uniqlo,Shoes,Spring,124.2,0.0,24,1.0,0,0.1278
+FB000563,Forever21,Bottoms,Winter,48.42,0.0,6,4.3,0,0.1807
+FB000564,H&M,Dresses,Fall,119.4,0.0,45,4.2,0,0.1092
+FB000565,Mango,Shoes,Summer,186.07,0.0,41,2.6,0,0.1228
+FB000566,Mango,Shoes,Summer,109.46,0.0,38,4.1,0,0.1169
+FB000567,Gap,Dresses,Winter,66.57,42.7,3,3.5,0,0.1134
+FB000568,Zara,Accessories,Winter,30.43,26.3,5,4.7,0,0.1503
+FB000569,Uniqlo,Tops,Winter,52.07,45.0,47,2.6,0,0.1531
+FB000570,Zara,Accessories,Spring,32.67,32.7,39,2.8,0,0.1263
+FB000571,Gap,Tops,Summer,75.22,0.0,22,2.1,1,0.3575
+FB000572,H&M,Shoes,Summer,68.97,30.3,16,,0,0.1079
+FB000573,H&M,Tops,Spring,39.56,0.0,15,,0,0.0485
+FB000574,Uniqlo,Outerwear,Winter,153.88,0.0,42,2.2,0,0.1162
+FB000575,Ann Taylor,Accessories,Summer,68.87,0.0,9,1.1,0,0.1927
+FB000576,Ann Taylor,Bottoms,Fall,15.62,38.9,48,,0,0.2698
+FB000577,H&M,Outerwear,Fall,246.49,0.0,20,4.8,0,0.1447
+FB000578,H&M,Accessories,Fall,52.41,0.0,14,,0,0.1263
+FB000579,Zara,Tops,Summer,33.77,0.0,12,3.8,0,0.0931
+FB000580,H&M,Shoes,Summer,96.7,0.0,28,3.0,0,0.1289
+FB000581,H&M,Dresses,Spring,95.81,0.0,47,4.9,0,0.1403
+FB000582,Gap,Tops,Fall,41.58,0.0,3,1.6,0,0.0706
+FB000583,Uniqlo,Tops,Summer,43.59,6.6,35,1.3,1,0.3515
+FB000584,Zara,Bottoms,Winter,10.55,59.4,40,,0,0.1935
+FB000585,Uniqlo,Outerwear,Summer,176.15,14.0,27,3.8,0,0.1545
+FB000586,Zara,Tops,Winter,22.97,47.1,44,4.7,0,0.2623
+FB000587,H&M,Accessories,Summer,24.1,40.5,25,2.9,0,0.2743
+FB000588,Forever21,Bottoms,Winter,61.37,16.6,34,4.0,0,0.1925
+FB000589,Ann Taylor,Accessories,Summer,17.67,0.0,29,4.3,0,0.2536
+FB000590,Gap,Dresses,Winter,50.41,28.0,23,,0,0.2375
+FB000591,Mango,Shoes,Fall,52.59,33.7,38,3.0,1,0.317
+FB000592,Zara,Accessories,Summer,45.24,0.0,20,3.0,1,0.229
+FB000593,H&M,Tops,Summer,54.87,13.6,19,,0,0.2078
+FB000594,Ann Taylor,Bottoms,Winter,36.67,33.6,9,,0,0.1979
+FB000595,Banana Republic,Dresses,Fall,137.59,0.0,18,,0,0.1069
+FB000596,H&M,Shoes,Fall,65.8,0.0,46,3.2,0,0.096
+FB000597,Uniqlo,Shoes,Winter,88.42,0.0,44,3.4,1,0.1481
+FB000598,Mango,Dresses,Fall,75.54,0.0,6,4.6,0,0.0889
+FB000599,H&M,Shoes,Spring,185.13,0.0,49,4.9,0,0.1981
+FB000600,Mango,Outerwear,Fall,132.58,0.0,45,1.6,0,0.1087
+FB000601,Zara,Bottoms,Fall,93.38,0.0,7,3.5,0,0.0896
+FB000602,Ann Taylor,Accessories,Fall,47.28,0.0,38,4.2,0,0.1857
+FB000603,Banana Republic,Bottoms,Spring,59.88,0.0,33,2.9,0,0.2117
+FB000604,H&M,Dresses,Winter,140.07,0.0,15,2.7,0,0.1027
+FB000605,Uniqlo,Accessories,Winter,66.6,0.0,47,4.0,0,0.1298
+FB000606,Gap,Accessories,Summer,25.72,35.4,9,4.6,0,0.1647
+FB000607,Zara,Accessories,Fall,70.74,0.0,49,1.8,0,0.1169
+FB000608,Zara,Dresses,Spring,95.33,0.0,36,,1,0.1258
+FB000609,Forever21,Accessories,Spring,23.13,29.1,9,1.4,0,0.1483
+FB000610,Mango,Bottoms,Summer,41.07,0.0,10,4.8,0,0.1471
+FB000611,Zara,Bottoms,Winter,43.1,0.0,34,4.9,0,0.1875
+FB000612,Ann Taylor,Outerwear,Winter,73.56,27.9,21,2.2,1,0.2023
+FB000613,Mango,Accessories,Winter,54.11,0.0,15,2.6,0,0.1551
+FB000614,Mango,Accessories,Winter,43.5,0.0,35,2.8,0,0.1544
+FB000615,Banana Republic,Accessories,Winter,66.0,0.0,19,2.6,0,0.144
+FB000616,Banana Republic,Bottoms,Summer,38.85,0.0,10,3.8,0,0.1647
+FB000617,Zara,Accessories,Summer,61.29,0.0,15,4.0,0,0.1646
+FB000618,H&M,Bottoms,Spring,90.66,0.0,49,2.4,1,0.2568
+FB000619,Mango,Dresses,Fall,119.96,0.0,5,5.0,0,0.0753
+FB000620,Forever21,Shoes,Fall,130.21,0.0,50,4.7,0,0.1091
+FB000621,Banana Republic,Tops,Winter,49.68,0.0,15,2.8,0,0.1288
+FB000622,Zara,Accessories,Spring,46.58,0.0,42,1.7,0,0.1288
+FB000623,Mango,Accessories,Summer,69.88,0.0,8,2.8,0,0.1168
+FB000624,Forever21,Accessories,Fall,32.15,0.0,17,1.9,1,0.154
+FB000625,Forever21,Bottoms,Summer,36.34,0.0,6,4.5,1,0.2963
+FB000626,Mango,Bottoms,Fall,93.01,0.0,34,1.4,0,0.0923
+FB000627,Gap,Tops,Winter,75.0,0.0,19,1.6,0,0.1472
+FB000628,Zara,Outerwear,Fall,71.51,12.4,3,,0,0.1292
+FB000629,Uniqlo,Bottoms,Spring,109.81,0.0,17,1.9,0,0.0878
+FB000630,Ann Taylor,Bottoms,Fall,47.7,0.0,14,2.3,0,0.227
+FB000631,Banana Republic,Tops,Winter,96.08,0.0,7,2.5,0,0.0828
+FB000632,H&M,Tops,Winter,27.27,2.6,2,,0,0.0518
+FB000633,Zara,Bottoms,Winter,49.07,6.4,42,2.6,0,0.1071
+FB000634,Gap,Accessories,Summer,55.52,18.3,37,,0,0.3666
+FB000635,Ann Taylor,Dresses,Fall,131.92,0.0,10,2.5,0,0.0591
+FB000636,Ann Taylor,Outerwear,Spring,205.77,0.0,38,1.0,0,0.1385
+FB000637,Uniqlo,Tops,Winter,86.82,11.3,27,1.3,0,0.1003
+FB000638,Zara,Shoes,Summer,109.55,0.0,32,1.4,0,0.1656
+FB000639,Zara,Bottoms,Fall,47.33,10.6,50,2.7,0,0.1152
+FB000640,Banana Republic,Bottoms,Winter,58.08,18.0,21,2.9,0,0.1857
+FB000641,Mango,Dresses,Fall,53.17,0.0,14,4.5,1,0.1498
+FB000642,Banana Republic,Bottoms,Summer,64.32,46.2,14,,0,0.13
+FB000643,Mango,Dresses,Winter,144.43,0.0,41,3.6,0,0.0785
+FB000644,Mango,Outerwear,Spring,172.93,0.0,43,4.7,1,0.1988
+FB000645,Gap,Outerwear,Winter,114.4,40.4,21,2.9,0,0.1775
+FB000646,H&M,Dresses,Winter,128.56,0.0,45,2.4,0,0.0829
+FB000647,H&M,Dresses,Summer,57.85,53.0,38,2.5,0,0.0826
+FB000648,Ann Taylor,Outerwear,Spring,119.78,0.0,22,1.5,1,0.2947
+FB000649,Banana Republic,Bottoms,Summer,110.6,0.0,19,,1,0.2633
+FB000650,Zara,Tops,Spring,58.16,0.0,29,4.1,0,0.0769
+FB000651,Mango,Outerwear,Fall,208.82,0.0,45,1.8,0,0.068
+FB000652,Ann Taylor,Shoes,Winter,192.74,0.0,43,4.3,0,0.1362
+FB000653,Gap,Accessories,Fall,58.61,18.4,50,1.9,0,0.2469
+FB000654,Zara,Shoes,Summer,145.4,0.0,14,2.0,0,0.1214
+FB000655,Mango,Bottoms,Summer,51.94,0.0,9,3.2,0,0.1301
+FB000656,Ann Taylor,Accessories,Spring,77.48,0.0,49,3.3,1,0.2016
+FB000657,Mango,Dresses,Summer,32.69,45.2,14,2.6,0,0.1726
+FB000658,Uniqlo,Bottoms,Summer,102.07,0.0,26,,1,0.2403
+FB000659,Banana Republic,Accessories,Spring,48.57,0.0,12,4.7,0,0.1297
+FB000660,Gap,Shoes,Summer,121.55,0.0,16,,1,0.2613
+FB000661,Ann Taylor,Accessories,Winter,32.69,44.8,21,2.0,0,0.1979
+FB000662,Ann Taylor,Tops,Spring,57.27,2.1,24,3.9,0,0.0984
+FB000663,Forever21,Accessories,Fall,73.85,0.0,46,2.0,0,0.0956
+FB000664,H&M,Bottoms,Summer,72.59,36.5,41,4.1,0,0.121
+FB000665,Forever21,Bottoms,Summer,81.35,11.0,18,1.6,0,0.1867
+FB000666,Forever21,Accessories,Winter,69.77,0.0,30,,1,0.1502
+FB000667,H&M,Tops,Summer,72.95,0.0,27,4.8,0,0.1972
+FB000668,Ann Taylor,Bottoms,Summer,36.99,42.2,35,3.2,0,0.2115
+FB000669,Banana Republic,Dresses,Summer,36.0,51.9,35,2.5,0,0.1563
+FB000670,H&M,Outerwear,Spring,158.84,0.0,30,4.6,0,0.1476
+FB000671,Mango,Shoes,Spring,39.89,58.6,16,3.9,0,0.07
+FB000672,H&M,Bottoms,Spring,43.96,13.9,16,1.3,0,0.1094
+FB000673,Banana Republic,Bottoms,Summer,36.62,26.4,24,3.8,0,0.2525
+FB000674,Mango,Dresses,Spring,148.98,0.0,11,2.2,1,0.2039
+FB000675,Gap,Accessories,Winter,72.24,0.0,35,4.1,0,0.1823
+FB000676,Mango,Tops,Winter,94.92,0.0,5,3.3,0,0.0898
+FB000677,Banana Republic,Outerwear,Fall,91.08,0.0,47,4.9,0,0.0895
+FB000678,Banana Republic,Accessories,Fall,20.73,58.3,4,1.6,0,0.1453
+FB000679,Gap,Accessories,Winter,21.45,7.1,11,1.2,0,0.1284
+FB000680,Zara,Accessories,Spring,49.95,0.0,29,4.3,0,0.1355
+FB000681,Forever21,Accessories,Winter,25.7,0.0,38,3.2,1,0.1664
+FB000682,Mango,Shoes,Summer,175.22,0.0,8,4.9,0,0.1178
+FB000683,Ann Taylor,Bottoms,Summer,37.57,0.0,18,1.9,0,0.2962
+FB000684,Zara,Outerwear,Spring,245.87,0.0,27,2.6,0,0.1178
+FB000685,Banana Republic,Bottoms,Winter,116.92,0.0,13,3.2,0,0.1694
+FB000686,Ann Taylor,Dresses,Winter,103.11,0.0,17,,0,0.1379
+FB000687,Uniqlo,Outerwear,Fall,237.7,0.5,28,2.7,0,0.0566
+FB000688,Uniqlo,Shoes,Summer,75.87,12.6,6,1.7,0,0.1575
+FB000689,Mango,Bottoms,Summer,51.86,11.8,8,,0,0.218
+FB000690,Ann Taylor,Bottoms,Spring,19.99,52.0,20,1.2,0,0.2243
+FB000691,H&M,Tops,Spring,33.06,46.4,50,2.7,0,0.1175
+FB000692,H&M,Bottoms,Fall,40.39,0.0,16,,0,0.1386
+FB000693,Ann Taylor,Tops,Fall,51.94,45.4,46,2.5,0,0.2574
+FB000694,Zara,Bottoms,Fall,115.14,0.0,43,2.5,0,0.0676
+FB000695,H&M,Tops,Summer,59.58,0.0,27,3.3,0,0.2402
+FB000696,Uniqlo,Shoes,Spring,169.89,0.0,12,1.2,0,0.0515
+FB000697,Mango,Shoes,Winter,90.97,22.5,42,2.8,1,0.1575
+FB000698,Mango,Tops,Winter,118.95,0.0,18,1.9,1,0.2451
+FB000699,Uniqlo,Accessories,Fall,39.3,0.0,39,,0,0.1489
+FB000700,H&M,Tops,Winter,74.3,0.0,31,3.8,1,0.263
+FB000701,H&M,Bottoms,Spring,62.97,0.0,5,3.5,0,0.1006
+FB000702,H&M,Accessories,Summer,73.6,0.0,1,1.8,0,0.2197
+FB000703,Mango,Accessories,Spring,50.68,34.9,11,,0,0.1526
+FB000704,Forever21,Tops,Summer,94.31,0.0,20,3.0,0,0.1526
+FB000705,Ann Taylor,Bottoms,Spring,60.36,0.0,35,3.3,0,0.1682
+FB000706,Mango,Bottoms,Summer,94.85,0.0,28,1.5,0,0.1085
+FB000707,Uniqlo,Accessories,Winter,28.11,7.9,43,4.7,0,0.1236
+FB000708,Mango,Dresses,Summer,97.06,0.0,24,3.9,0,0.151
+FB000709,Forever21,Bottoms,Summer,37.37,35.4,17,,0,0.1871
+FB000710,Zara,Tops,Fall,41.23,19.7,39,1.3,0,0.1016
+FB000711,Ann Taylor,Accessories,Spring,33.49,45.4,46,,0,0.2164
+FB000712,Banana Republic,Outerwear,Summer,189.28,0.0,41,2.7,1,0.2619
+FB000713,Banana Republic,Tops,Summer,55.64,35.8,2,4.9,0,0.1304
+FB000714,Ann Taylor,Bottoms,Spring,102.84,0.0,27,1.8,0,0.1943
+FB000715,Zara,Outerwear,Fall,225.21,0.0,27,3.1,1,0.0868
+FB000716,Uniqlo,Dresses,Winter,35.31,27.8,0,4.1,0,0.1452
+FB000717,Forever21,Outerwear,Fall,145.93,0.0,19,1.5,0,0.093
+FB000718,Banana Republic,Outerwear,Winter,127.19,43.7,30,3.2,0,0.2116
+FB000719,Uniqlo,Outerwear,Summer,121.91,39.7,20,4.1,0,0.1752
+FB000720,Uniqlo,Tops,Fall,51.85,0.0,28,,0,0.0821
+FB000721,Uniqlo,Tops,Summer,75.34,0.0,21,,0,0.2559
+FB000722,Gap,Shoes,Spring,41.53,54.9,44,2.2,0,0.1049
+FB000723,Zara,Accessories,Fall,56.39,0.0,49,4.2,0,0.0963
+FB000724,Mango,Tops,Fall,108.75,0.0,38,3.8,0,0.1045
+FB000725,Uniqlo,Dresses,Spring,156.85,0.0,48,3.4,0,0.1588
+FB000726,Uniqlo,Outerwear,Spring,168.13,0.0,42,2.5,0,0.1425
+FB000727,Forever21,Shoes,Summer,62.69,57.0,46,,0,0.1351
+FB000728,Gap,Bottoms,Winter,54.14,0.0,32,,0,0.142
+FB000729,Zara,Accessories,Fall,45.64,0.0,36,3.6,1,0.1395
+FB000730,Mango,Bottoms,Fall,46.76,0.0,38,2.7,0,0.1612
+FB000731,Banana Republic,Dresses,Winter,75.23,0.0,42,1.7,1,0.1995
+FB000732,Mango,Dresses,Summer,70.38,0.0,37,2.0,0,0.145
+FB000733,H&M,Bottoms,Summer,76.04,0.0,13,4.4,0,0.1814
+FB000734,Uniqlo,Shoes,Summer,93.42,15.7,43,,1,0.3321
+FB000735,Forever21,Accessories,Fall,47.47,0.0,42,4.7,0,0.1264
+FB000736,Gap,Accessories,Spring,79.94,0.0,26,3.8,0,0.1989
+FB000737,Banana Republic,Bottoms,Fall,74.67,0.0,15,4.6,0,0.1213
+FB000738,Forever21,Dresses,Fall,41.14,35.5,15,3.1,1,0.2854
+FB000739,Ann Taylor,Bottoms,Fall,49.6,0.0,32,4.7,0,0.2095
+FB000740,Zara,Tops,Spring,57.91,0.0,33,3.9,0,0.1024
+FB000741,Uniqlo,Dresses,Summer,135.99,0.0,34,3.0,0,0.1473
+FB000742,Mango,Dresses,Winter,41.83,21.8,41,2.1,0,0.1313
+FB000743,Forever21,Tops,Summer,74.77,34.0,10,,0,0.117
+FB000744,H&M,Tops,Winter,104.22,6.0,15,,0,0.0921
+FB000745,Ann Taylor,Tops,Fall,94.3,0.0,16,,0,0.0879
+FB000746,Forever21,Accessories,Spring,37.94,0.0,9,4.6,0,0.1005
+FB000747,Ann Taylor,Outerwear,Winter,154.18,23.0,38,,0,0.1625
+FB000748,Forever21,Accessories,Winter,43.45,0.0,50,4.0,0,0.1501
+FB000749,Forever21,Bottoms,Summer,69.54,9.6,20,2.0,0,0.1998
+FB000750,Forever21,Accessories,Fall,21.09,0.0,33,4.1,1,0.1872
+FB000751,Banana Republic,Dresses,Winter,55.47,0.0,18,,0,0.2033
+FB000752,H&M,Outerwear,Spring,122.53,0.0,25,,0,0.1311
+FB000753,Uniqlo,Accessories,Summer,61.13,0.0,34,2.6,0,0.2421
+FB000754,Uniqlo,Outerwear,Spring,127.59,0.0,1,4.9,0,0.0588
+FB000755,Ann Taylor,Accessories,Summer,73.04,0.0,44,4.2,0,0.2566
+FB000756,Uniqlo,Outerwear,Winter,129.46,0.0,32,4.0,0,0.1081
+FB000757,Banana Republic,Accessories,Winter,51.3,0.0,33,,0,0.1645
+FB000758,H&M,Dresses,Spring,173.0,0.0,13,3.9,0,0.1019
+FB000759,Uniqlo,Accessories,Summer,70.72,0.0,18,2.8,0,0.2299
+FB000760,Forever21,Dresses,Summer,126.37,0.0,42,2.0,0,0.0947
+FB000761,Zara,Bottoms,Winter,76.11,9.6,45,2.1,0,0.1721
+FB000762,Forever21,Accessories,Summer,32.9,44.6,41,2.3,1,0.179
+FB000763,Mango,Outerwear,Fall,194.79,0.3,30,2.9,0,0.0689
+FB000764,Gap,Dresses,Spring,99.57,7.5,21,4.6,0,0.1356
+FB000765,H&M,Shoes,Spring,63.12,0.0,35,2.9,0,0.1149
+FB000766,Gap,Bottoms,Fall,58.91,0.0,17,2.0,0,0.1344
+FB000767,H&M,Bottoms,Summer,93.27,0.0,18,3.7,0,0.1376
+FB000768,Forever21,Dresses,Spring,93.46,36.8,37,3.3,0,0.1263
+FB000769,Uniqlo,Tops,Fall,30.53,0.0,25,2.5,0,0.1277
+FB000770,Zara,Tops,Fall,103.28,1.6,33,2.0,0,0.0852
+FB000771,H&M,Dresses,Winter,75.52,0.0,2,2.8,0,0.1275
+FB000772,Gap,Bottoms,Winter,54.7,0.0,18,4.2,0,0.1631
+FB000773,Ann Taylor,Shoes,Summer,93.55,25.9,40,1.5,1,0.3711
+FB000774,Banana Republic,Shoes,Summer,30.14,52.8,23,,0,0.162
+FB000775,Uniqlo,Accessories,Winter,75.93,0.0,32,3.1,0,0.2108
+FB000776,Zara,Tops,Fall,59.98,27.3,9,3.8,0,0.0725
+FB000777,Banana Republic,Bottoms,Fall,46.02,0.0,21,1.1,0,0.2151
+FB000778,Mango,Dresses,Winter,68.49,45.5,27,1.6,0,0.0771
+FB000779,Mango,Shoes,Winter,32.35,50.7,23,1.1,0,0.1785
+FB000780,Banana Republic,Dresses,Summer,91.61,0.0,31,1.4,0,0.2219
+FB000781,H&M,Outerwear,Summer,162.78,0.0,0,,0,0.1344
+FB000782,Mango,Outerwear,Winter,86.92,35.3,36,,0,0.1062
+FB000783,Mango,Bottoms,Spring,47.58,38.8,23,4.3,0,0.1673
+FB000784,Gap,Accessories,Summer,19.78,59.9,47,,0,0.2077
+FB000785,Forever21,Outerwear,Summer,191.47,17.3,49,2.1,0,0.1362
+FB000786,Gap,Outerwear,Winter,140.1,0.0,14,3.9,0,0.114
+FB000787,Ann Taylor,Dresses,Summer,84.75,27.8,34,2.8,1,0.3608
+FB000788,Ann Taylor,Tops,Spring,83.98,0.0,23,1.9,0,0.1641
+FB000789,H&M,Dresses,Spring,51.93,53.5,19,,0,0.0884
+FB000790,H&M,Bottoms,Summer,25.16,0.0,37,2.8,0,0.1826
+FB000791,Banana Republic,Outerwear,Fall,135.38,23.0,1,3.7,0,0.1063
+FB000792,Mango,Tops,Summer,33.28,37.5,33,4.3,0,0.2021
+FB000793,Banana Republic,Outerwear,Fall,122.66,43.0,48,2.5,0,0.1689
+FB000794,Zara,Bottoms,Summer,62.18,20.7,9,4.4,0,0.2138
+FB000795,Zara,Shoes,Summer,173.15,0.0,45,2.2,0,0.14
+FB000796,Zara,Accessories,Fall,10.68,36.6,34,1.7,0,0.1851
+FB000797,Forever21,Outerwear,Summer,128.6,0.0,11,2.3,0,0.088
+FB000798,Ann Taylor,Outerwear,Spring,131.74,0.0,46,4.6,0,0.1436
+FB000799,Forever21,Bottoms,Summer,24.57,12.7,13,3.9,0,0.1435
+FB000800,Forever21,Outerwear,Winter,68.68,58.4,29,1.2,0,0.1328
+FB000801,Mango,Tops,Spring,49.22,0.8,22,2.3,0,0.0992
+FB000802,Banana Republic,Tops,Fall,79.9,18.9,37,4.1,1,0.114
+FB000803,Mango,Shoes,Fall,65.18,30.8,31,1.4,0,0.1329
+FB000804,Forever21,Accessories,Winter,23.5,0.0,14,3.9,1,0.1726
+FB000805,Zara,Bottoms,Fall,109.36,0.0,0,1.1,0,0.0884
+FB000806,H&M,Accessories,Fall,69.73,0.0,7,1.1,1,0.0603
+FB000807,H&M,Shoes,Summer,84.99,57.3,37,3.4,0,0.1517
+FB000808,Gap,Bottoms,Spring,35.64,56.7,41,,0,0.0995
+FB000809,Uniqlo,Bottoms,Spring,47.23,9.9,42,3.5,0,0.1595
+FB000810,Ann Taylor,Outerwear,Fall,180.49,0.0,18,2.5,1,0.2199
+FB000811,Ann Taylor,Dresses,Fall,63.02,0.0,37,2.5,0,0.1309
+FB000812,Mango,Tops,Spring,97.05,0.0,9,,0,0.0731
+FB000813,Zara,Bottoms,Winter,79.62,0.0,37,4.1,0,0.1449
+FB000814,Zara,Dresses,Winter,82.5,0.0,0,,0,0.1109
+FB000815,Ann Taylor,Bottoms,Spring,101.13,13.7,5,4.8,0,0.0946
+FB000816,Ann Taylor,Outerwear,Spring,174.05,0.0,9,,0,0.0779
+FB000817,Forever21,Bottoms,Spring,58.29,0.0,22,2.3,0,0.1281
+FB000818,H&M,Bottoms,Summer,26.1,57.5,3,4.8,0,0.1161
+FB000819,Zara,Accessories,Winter,20.24,0.0,20,4.1,0,0.2093
+FB000820,Zara,Bottoms,Fall,88.58,0.0,50,,0,0.0919
+FB000821,Ann Taylor,Bottoms,Winter,67.92,0.0,23,1.8,1,0.2677
+FB000822,Ann Taylor,Accessories,Fall,25.39,0.0,42,1.8,0,0.1684
+FB000823,Forever21,Dresses,Winter,70.23,39.4,14,3.8,1,0.2378
+FB000824,Forever21,Bottoms,Summer,87.21,16.1,6,4.9,1,0.304
+FB000825,Gap,Shoes,Winter,75.3,20.5,24,3.6,0,0.229
+FB000826,Ann Taylor,Accessories,Fall,23.28,0.0,44,3.1,1,0.2063
+FB000827,Gap,Tops,Summer,90.73,0.0,14,1.1,0,0.1679
+FB000828,H&M,Bottoms,Fall,25.74,0.0,33,1.1,1,0.2713
+FB000829,Ann Taylor,Shoes,Spring,162.97,0.0,47,2.2,1,0.3341
+FB000830,H&M,Accessories,Winter,45.95,8.7,14,1.3,0,0.1286
+FB000831,Uniqlo,Shoes,Spring,60.38,0.0,0,,0,0.105
+FB000832,Uniqlo,Tops,Summer,103.65,0.0,29,3.7,0,0.175
+FB000833,Gap,Bottoms,Spring,75.14,0.0,41,,1,0.3794
+FB000834,H&M,Shoes,Winter,88.0,0.0,2,1.9,0,0.0696
+FB000835,Ann Taylor,Dresses,Winter,69.54,0.0,21,,0,0.1729
+FB000836,Mango,Outerwear,Winter,209.52,0.0,48,2.6,0,0.1086
+FB000837,H&M,Shoes,Fall,97.42,0.0,35,2.0,0,0.105
+FB000838,Uniqlo,Dresses,Winter,154.6,0.0,38,4.5,1,0.212
+FB000839,Zara,Bottoms,Summer,50.59,38.0,31,1.2,0,0.1537
+FB000840,Mango,Accessories,Winter,48.04,0.0,46,4.8,0,0.1342
+FB000841,Banana Republic,Tops,Fall,70.77,0.0,5,3.7,0,0.0752
+FB000842,Forever21,Outerwear,Fall,103.49,0.0,12,1.8,0,0.0628
+FB000843,Uniqlo,Outerwear,Spring,138.89,0.0,10,,0,0.0494
+FB000844,H&M,Accessories,Winter,49.84,32.2,17,,1,0.17
+FB000845,Zara,Bottoms,Spring,82.37,0.0,49,3.3,0,0.144
+FB000846,Ann Taylor,Dresses,Summer,67.0,18.0,28,4.7,0,0.3168
+FB000847,Banana Republic,Dresses,Winter,95.68,10.6,6,,0,0.1256
+FB000848,H&M,Bottoms,Summer,83.93,18.7,6,4.0,0,0.2496
+FB000849,Gap,Tops,Fall,82.8,17.6,19,,0,0.1649
+FB000850,Ann Taylor,Shoes,Winter,74.48,53.7,18,,0,0.159
+FB000851,Mango,Accessories,Fall,78.39,0.0,7,4.2,0,0.0584
+FB000852,Zara,Outerwear,Spring,129.48,23.1,3,2.0,0,0.0778
+FB000853,Banana Republic,Shoes,Winter,128.35,0.0,20,2.5,0,0.124
+FB000854,Uniqlo,Dresses,Spring,134.02,3.0,34,4.1,0,0.0982
+FB000855,Uniqlo,Dresses,Fall,52.45,0.0,16,1.7,0,0.1325
+FB000856,H&M,Shoes,Winter,171.53,0.0,12,4.8,0,0.0743
+FB000857,Mango,Tops,Fall,80.26,1.2,10,4.9,0,0.0344
+FB000858,Banana Republic,Accessories,Spring,17.54,44.1,11,3.4,0,0.183
+FB000859,Gap,Bottoms,Spring,93.89,0.0,3,1.8,0,0.1172
+FB000860,Uniqlo,Bottoms,Spring,54.84,0.0,12,3.2,0,0.1254
+FB000861,Zara,Dresses,Winter,140.34,0.0,23,2.8,1,0.248
+FB000862,Banana Republic,Tops,Fall,43.16,16.8,30,1.5,0,0.1243
+FB000863,Mango,Dresses,Spring,75.86,44.3,49,,0,0.11
+FB000864,H&M,Accessories,Summer,71.19,0.0,14,2.8,0,0.1572
+FB000865,Forever21,Outerwear,Spring,132.99,44.9,23,2.1,0,0.2333
+FB000866,Gap,Outerwear,Fall,96.55,51.3,38,,0,0.1286
+FB000867,Ann Taylor,Bottoms,Winter,64.07,0.0,34,,0,0.1804
+FB000868,Zara,Bottoms,Fall,98.69,10.4,36,1.6,0,0.1308
+FB000869,Forever21,Outerwear,Spring,120.68,0.0,6,1.9,0,0.0764
+FB000870,Zara,Accessories,Fall,47.73,31.0,9,2.7,1,0.14
+FB000871,Ann Taylor,Dresses,Fall,134.77,0.0,36,4.8,0,0.0942
+FB000872,Uniqlo,Tops,Spring,29.93,0.0,13,,0,0.0645
+FB000873,Gap,Accessories,Winter,56.09,0.0,21,4.9,0,0.1435
+FB000874,Gap,Shoes,Fall,83.5,33.1,45,2.4,0,0.1545
+FB000875,Zara,Dresses,Spring,41.28,56.1,16,1.2,0,0.0695
+FB000876,Zara,Shoes,Fall,100.53,8.2,12,,0,0.0982
+FB000877,Mango,Accessories,Winter,31.13,0.0,29,4.7,0,0.15
+FB000878,Banana Republic,Accessories,Fall,65.17,1.7,28,1.6,0,0.0936
+FB000879,H&M,Bottoms,Winter,47.71,28.4,32,2.0,0,0.1866
+FB000880,Mango,Bottoms,Spring,117.63,0.0,18,1.2,0,0.1646
+FB000881,Banana Republic,Shoes,Winter,174.53,0.0,45,,0,0.138
+FB000882,Zara,Dresses,Winter,152.65,0.0,27,3.7,0,0.1119
+FB000883,Ann Taylor,Outerwear,Summer,83.24,0.0,16,,0,0.2117
+FB000884,Zara,Accessories,Winter,40.18,0.0,27,4.7,0,0.1538
+FB000885,Mango,Bottoms,Spring,56.95,22.8,0,,0,0.2444
+FB000886,Forever21,Accessories,Winter,71.3,0.0,29,,0,0.1539
+FB000887,Forever21,Accessories,Summer,23.74,52.8,11,,0,0.1762
+FB000888,H&M,Accessories,Spring,46.97,0.0,33,2.6,0,0.1731
+FB000889,Zara,Shoes,Fall,162.9,0.0,30,1.9,0,0.1294
+FB000890,Forever21,Bottoms,Winter,57.14,0.0,39,1.4,0,0.1028
+FB000891,Ann Taylor,Shoes,Spring,93.6,0.0,49,4.3,0,0.1713
+FB000892,Forever21,Accessories,Spring,36.8,43.0,36,3.9,0,0.1407
+FB000893,Ann Taylor,Outerwear,Winter,142.34,0.0,43,,0,0.1262
+FB000894,Gap,Shoes,Spring,46.85,57.8,11,2.2,0,0.0681
+FB000895,Banana Republic,Tops,Winter,14.87,49.0,31,,0,0.2103
+FB000896,Ann Taylor,Tops,Summer,30.46,0.0,19,1.2,0,0.1508
+FB000897,Forever21,Accessories,Winter,31.32,0.0,28,2.7,0,0.1248
+FB000898,Uniqlo,Bottoms,Spring,61.78,0.0,24,3.5,0,0.1244
+FB000899,Zara,Outerwear,Summer,126.27,0.0,1,4.7,0,0.1339
+FB000900,Uniqlo,Outerwear,Winter,147.53,0.0,33,4.7,1,0.1683
+FB000901,Banana Republic,Accessories,Summer,32.47,12.2,14,4.8,0,0.1992
+FB000902,H&M,Shoes,Fall,172.41,0.0,33,2.3,0,0.0997
+FB000903,H&M,Accessories,Spring,45.18,16.0,32,,0,0.1454
+FB000904,Mango,Shoes,Summer,80.56,0.0,7,1.9,0,0.1148
+FB000905,Mango,Accessories,Fall,51.72,0.0,35,3.7,1,0.1248
+FB000906,Mango,Bottoms,Spring,66.69,37.8,21,2.9,0,0.106
+FB000907,H&M,Shoes,Fall,87.32,50.1,7,4.9,0,0.118
+FB000908,Forever21,Dresses,Spring,42.36,53.2,37,2.2,0,0.0804
+FB000909,Forever21,Shoes,Summer,79.17,16.6,39,4.8,0,0.1398
+FB000910,Banana Republic,Shoes,Winter,179.82,0.0,28,2.4,1,0.2799
+FB000911,Uniqlo,Tops,Spring,77.8,23.7,29,3.6,0,0.1043
+FB000912,Banana Republic,Bottoms,Spring,22.72,16.2,10,2.4,1,0.2911
+FB000913,Gap,Outerwear,Summer,141.83,0.0,2,2.4,1,0.2452
+FB000914,Gap,Shoes,Spring,98.49,37.0,45,2.9,1,0.1803
+FB000915,Forever21,Tops,Summer,81.84,0.0,41,2.4,0,0.1867
+FB000916,H&M,Bottoms,Fall,29.19,19.9,39,1.8,0,0.1558
+FB000917,Ann Taylor,Outerwear,Fall,155.3,0.0,9,3.0,0,0.092
+FB000918,Uniqlo,Bottoms,Fall,60.09,28.5,3,1.0,0,0.1305
+FB000919,Gap,Shoes,Fall,43.06,56.4,22,4.5,0,0.085
+FB000920,Ann Taylor,Accessories,Summer,21.67,59.1,50,3.4,1,0.2564
+FB000921,Uniqlo,Bottoms,Spring,39.84,0.0,24,2.4,0,0.1625
+FB000922,Ann Taylor,Accessories,Spring,40.01,0.0,22,4.5,0,0.2172
+FB000923,Ann Taylor,Outerwear,Summer,245.75,0.0,12,,1,0.2547
+FB000924,Zara,Bottoms,Winter,102.25,0.0,6,3.8,0,0.1343
+FB000925,Ann Taylor,Tops,Summer,76.33,0.0,15,2.0,1,0.3365
+FB000926,Zara,Accessories,Spring,31.59,39.0,37,2.5,0,0.1354
+FB000927,Zara,Outerwear,Spring,123.02,12.9,23,1.7,0,0.1208
+FB000928,Uniqlo,Accessories,Spring,66.18,0.0,20,1.7,0,0.1149
+FB000929,Banana Republic,Tops,Summer,35.15,0.0,38,2.2,0,0.1409
+FB000930,H&M,Accessories,Spring,20.94,41.2,4,3.7,0,0.1682
+FB000931,Forever21,Accessories,Summer,35.64,0.0,48,5.0,1,0.1991
+FB000932,Ann Taylor,Bottoms,Summer,86.68,0.0,2,,0,0.164
+FB000933,H&M,Accessories,Fall,17.72,0.0,9,1.2,0,0.1434
+FB000934,Uniqlo,Outerwear,Fall,76.25,13.3,4,4.5,0,0.0945
+FB000935,Mango,Outerwear,Spring,216.26,0.0,26,1.1,0,0.1271
+FB000936,Mango,Outerwear,Summer,238.11,0.0,49,,0,0.1767
+FB000937,Uniqlo,Shoes,Winter,112.77,0.0,11,4.1,0,0.082
+FB000938,Gap,Accessories,Winter,21.54,44.8,29,3.4,0,0.2296
+FB000939,Ann Taylor,Tops,Spring,69.77,0.0,29,5.0,0,0.1578
+FB000940,H&M,Dresses,Spring,64.46,48.4,22,3.2,0,0.0591
+FB000941,Banana Republic,Dresses,Summer,59.25,29.4,20,2.1,1,0.2134
+FB000942,Forever21,Outerwear,Fall,180.91,0.0,10,3.8,0,0.0408
+FB000943,Forever21,Shoes,Spring,120.11,0.0,27,4.1,0,0.1307
+FB000944,Forever21,Outerwear,Summer,225.01,0.0,50,1.9,1,0.2632
+FB000945,Mango,Dresses,Summer,115.57,0.0,32,3.0,0,0.1505
+FB000946,Gap,Accessories,Fall,17.17,19.0,22,1.3,0,0.1829
+FB000947,Zara,Bottoms,Spring,52.36,0.0,35,,0,0.1252
+FB000948,Ann Taylor,Accessories,Fall,73.43,0.0,22,2.3,0,0.1589
+FB000949,Ann Taylor,Accessories,Spring,70.75,0.0,0,1.4,0,0.1319
+FB000950,Gap,Accessories,Fall,58.9,0.0,39,4.0,0,0.1112
+FB000951,Forever21,Outerwear,Winter,87.07,16.9,43,4.3,0,0.1108
+FB000952,Forever21,Accessories,Fall,55.3,0.0,17,2.5,0,0.0929
+FB000953,Gap,Bottoms,Summer,37.39,34.0,23,4.3,0,0.3003
+FB000954,Uniqlo,Shoes,Fall,199.14,0.0,18,,0,0.081
+FB000955,Zara,Shoes,Fall,128.68,0.0,8,2.2,0,0.0558
+FB000956,Uniqlo,Outerwear,Fall,72.33,51.9,15,5.0,0,0.1437
+FB000957,Forever21,Dresses,Winter,162.65,0.0,36,1.4,0,0.1
+FB000958,Mango,Bottoms,Summer,28.9,0.0,5,4.6,0,0.1409
+FB000959,Forever21,Accessories,Spring,46.26,38.8,43,1.1,0,0.178
+FB000960,Zara,Tops,Spring,29.2,5.5,25,1.4,0,0.0865
+FB000961,Mango,Outerwear,Summer,101.04,0.0,35,3.5,0,0.1087
+FB000962,Forever21,Dresses,Fall,54.81,0.0,41,1.2,1,0.1076
+FB000963,H&M,Shoes,Summer,110.94,42.1,28,4.0,0,0.1246
+FB000964,Mango,Tops,Summer,100.5,0.0,12,2.7,1,0.2227
+FB000965,Mango,Shoes,Spring,70.56,23.6,32,2.2,0,0.1459
+FB000966,Ann Taylor,Shoes,Summer,69.98,56.6,8,2.1,0,0.1586
+FB000967,Mango,Dresses,Winter,63.74,6.3,43,3.4,0,0.1333
+FB000968,Ann Taylor,Shoes,Fall,63.76,47.4,45,3.0,1,0.3305
+FB000969,Zara,Tops,Winter,49.56,28.8,42,3.7,0,0.1849
+FB000970,Banana Republic,Outerwear,Winter,180.89,18.7,47,,0,0.1311
+FB000971,Forever21,Bottoms,Fall,11.64,54.5,34,2.4,0,0.2376
+FB000972,Mango,Dresses,Summer,50.87,6.6,17,1.7,0,0.1901
+FB000973,Forever21,Bottoms,Winter,43.32,0.0,0,2.6,0,0.1971
+FB000974,Forever21,Accessories,Winter,75.09,0.0,41,3.5,0,0.1855
+FB000975,Uniqlo,Dresses,Spring,167.46,0.0,4,1.3,0,0.0756
+FB000976,Banana Republic,Shoes,Fall,73.08,34.3,3,2.2,0,0.1314
+FB000977,Uniqlo,Bottoms,Fall,59.36,0.0,16,,0,0.1323
+FB000978,Banana Republic,Shoes,Fall,199.46,0.0,15,1.4,0,0.0988
+FB000979,Forever21,Shoes,Fall,36.23,50.2,28,3.6,0,0.1923
+FB000980,Mango,Bottoms,Fall,62.64,27.6,47,1.1,0,0.1266
+FB000981,Forever21,Accessories,Spring,31.51,40.2,7,2.7,0,0.1567
+FB000982,Banana Republic,Outerwear,Fall,104.18,0.0,12,5.0,0,0.1241
+FB000983,H&M,Outerwear,Winter,55.33,58.2,24,,0,0.165
+FB000984,H&M,Shoes,Fall,64.4,0.0,40,4.9,0,0.1125
+FB000985,Zara,Bottoms,Summer,34.07,0.0,25,4.2,1,0.3537
+FB000986,Zara,Bottoms,Winter,23.7,45.3,1,3.4,0,0.2075
+FB000987,Uniqlo,Outerwear,Spring,122.92,0.0,41,2.9,0,0.1072
+FB000988,Zara,Shoes,Spring,142.84,0.0,36,,0,0.1251
+FB000989,Gap,Shoes,Summer,131.55,0.0,45,1.8,0,0.1931
+FB000990,Zara,Outerwear,Spring,192.58,0.0,16,1.2,0,0.0826
+FB000991,Ann Taylor,Accessories,Spring,33.56,0.0,24,3.0,0,0.1888
+FB000992,Uniqlo,Accessories,Summer,59.1,0.0,29,1.3,0,0.2281
+FB000993,Gap,Shoes,Fall,86.56,20.7,28,2.0,1,0.2636
+FB000994,Ann Taylor,Bottoms,Fall,59.1,0.0,47,4.6,0,0.1563
+FB000995,Gap,Shoes,Spring,99.33,0.0,16,3.9,0,0.1165
+FB000996,Ann Taylor,Dresses,Winter,92.75,0.0,29,,1,0.303
+FB000997,Zara,Tops,Summer,116.82,0.0,34,,0,0.1887
+FB000998,Ann Taylor,Outerwear,Summer,117.45,9.5,17,4.0,0,0.1792
+FB000999,Banana Republic,Dresses,Spring,131.62,3.0,16,,0,0.1185
+FB001000,Gap,Dresses,Fall,34.52,28.3,41,,0,0.2356
+FB001001,Mango,Dresses,Fall,74.77,47.7,7,,0,0.0709
+FB001002,Forever21,Tops,Spring,51.72,0.0,50,,0,0.1753
+FB001003,Zara,Accessories,Fall,11.29,38.3,14,1.1,0,0.1604
+FB001004,Mango,Outerwear,Spring,152.64,29.0,32,2.8,1,0.2937
+FB001005,Gap,Accessories,Spring,20.77,0.0,31,2.0,0,0.2436
+FB001006,Gap,Accessories,Summer,77.96,0.0,39,4.8,0,0.2891
+FB001007,Zara,Accessories,Fall,47.96,34.6,45,2.1,0,0.1887
+FB001008,Forever21,Accessories,Fall,55.74,25.9,31,1.9,1,0.1774
+FB001009,Gap,Bottoms,Fall,35.36,24.2,8,3.2,0,0.1322
+FB001010,Mango,Dresses,Fall,108.19,0.0,21,,0,0.1056
+FB001011,Zara,Dresses,Spring,62.82,0.0,36,2.1,0,0.1462
+FB001012,Zara,Tops,Summer,24.42,57.4,46,3.1,0,0.1797
+FB001013,H&M,Outerwear,Winter,153.59,0.0,31,2.9,1,0.1218
+FB001014,Mango,Shoes,Winter,101.14,0.0,43,2.8,0,0.1242
+FB001015,Ann Taylor,Bottoms,Spring,37.04,15.6,31,1.7,1,0.3377
+FB001016,Zara,Outerwear,Winter,68.33,47.5,21,,0,0.1237
+FB001017,Gap,Dresses,Winter,153.12,0.0,27,3.3,0,0.1708
+FB001018,Forever21,Tops,Summer,32.63,12.1,43,3.2,0,0.1679
+FB001019,Mango,Tops,Summer,41.05,0.0,24,,0,0.1602
+FB001020,Forever21,Shoes,Fall,61.04,0.0,43,1.9,0,0.1221
+FB001021,Ann Taylor,Tops,Summer,97.17,0.0,35,3.0,0,0.1864
+FB001022,Uniqlo,Accessories,Summer,63.45,0.0,4,3.9,0,0.1831
+FB001023,Mango,Tops,Fall,117.39,0.0,14,3.2,0,0.1248
+FB001024,Banana Republic,Tops,Spring,32.89,0.0,6,4.6,0,0.0702
+FB001025,Ann Taylor,Bottoms,Spring,63.0,38.6,14,4.0,0,0.1271
+FB001026,Gap,Shoes,Spring,105.71,32.2,5,2.0,0,0.0834
+FB001027,Gap,Outerwear,Fall,178.39,0.0,29,4.2,0,0.174
+FB001028,H&M,Outerwear,Spring,151.1,0.0,24,2.4,0,0.1253
+FB001029,Forever21,Tops,Summer,40.6,55.4,2,2.5,0,0.1033
+FB001030,H&M,Tops,Fall,52.26,41.3,50,,0,0.1824
+FB001031,Ann Taylor,Dresses,Summer,147.58,0.0,10,4.3,0,0.1401
+FB001032,Banana Republic,Dresses,Summer,79.98,0.0,25,1.5,0,0.2288
+FB001033,H&M,Dresses,Fall,86.38,0.0,40,2.7,0,0.1112
+FB001034,Banana Republic,Tops,Summer,28.18,40.4,26,4.4,0,0.2665
+FB001035,Forever21,Outerwear,Spring,152.12,22.6,33,1.4,0,0.1988
+FB001036,Zara,Tops,Spring,72.72,0.0,23,1.6,0,0.1171
+FB001037,Gap,Tops,Summer,115.5,0.0,36,,1,0.3273
+FB001038,H&M,Accessories,Summer,62.69,8.1,28,4.0,0,0.2585
+FB001039,Mango,Tops,Fall,91.03,0.0,20,2.1,0,0.0809
+FB001040,Forever21,Outerwear,Fall,83.83,16.5,17,4.6,0,0.1319
+FB001041,Gap,Tops,Fall,100.03,0.0,39,1.2,0,0.1264
+FB001042,Gap,Accessories,Spring,35.5,29.2,33,4.4,0,0.1554
+FB001043,Zara,Bottoms,Summer,33.13,0.0,41,3.3,0,0.1879
+FB001044,H&M,Accessories,Spring,67.67,0.0,7,3.3,0,0.0758
+FB001045,Banana Republic,Bottoms,Summer,41.05,56.3,36,1.1,0,0.1117
+FB001046,Banana Republic,Tops,Fall,30.69,11.2,46,3.4,0,0.1031
+FB001047,Ann Taylor,Outerwear,Summer,235.33,0.0,11,4.7,1,0.2302
+FB001048,Uniqlo,Tops,Spring,25.45,0.0,29,3.7,0,0.135
+FB001049,Gap,Tops,Winter,71.44,0.0,18,4.3,0,0.1329
+FB001050,Banana Republic,Dresses,Summer,98.33,0.0,46,3.7,0,0.152
+FB001051,Forever21,Dresses,Spring,171.1,0.0,34,,0,0.0946
+FB001052,Forever21,Dresses,Winter,155.57,0.0,48,3.8,0,0.1739
+FB001053,Mango,Outerwear,Fall,198.44,0.0,40,2.2,0,0.1375
+FB001054,Ann Taylor,Shoes,Spring,144.02,18.1,4,4.0,0,0.0889
+FB001055,Forever21,Outerwear,Summer,100.23,0.0,12,3.5,0,0.1251
+FB001056,Zara,Outerwear,Winter,88.94,0.0,36,,0,0.1562
+FB001057,H&M,Outerwear,Fall,205.91,0.0,3,4.8,0,0.0811
+FB001058,Uniqlo,Accessories,Fall,28.74,1.1,12,1.1,1,0.099
+FB001059,Gap,Accessories,Summer,68.56,0.0,2,2.4,0,0.188
+FB001060,Forever21,Tops,Summer,37.1,59.5,2,4.3,0,0.0886
+FB001061,H&M,Dresses,Summer,96.57,0.0,6,1.9,0,0.1117
+FB001062,H&M,Bottoms,Winter,15.0,57.9,11,1.8,0,0.1598
+FB001063,Uniqlo,Shoes,Winter,73.65,38.1,36,1.1,1,0.1205
+FB001064,H&M,Shoes,Spring,56.3,10.1,32,2.9,0,0.1218
+FB001065,Forever21,Shoes,Summer,68.24,55.5,46,4.2,1,0.2559
+FB001066,Ann Taylor,Tops,Summer,36.04,49.7,33,,1,0.3779
+FB001067,Ann Taylor,Dresses,Spring,47.44,55.9,19,4.4,0,0.1246
+FB001068,Zara,Shoes,Spring,137.16,0.0,34,4.0,0,0.1234
+FB001069,Banana Republic,Tops,Winter,119.29,0.0,3,,0,0.0778
+FB001070,Mango,Tops,Spring,104.09,0.0,29,,0,0.1091
+FB001071,Banana Republic,Dresses,Fall,73.07,0.0,5,4.2,0,0.0986
+FB001072,Zara,Bottoms,Fall,71.09,7.6,20,3.7,0,0.1164
+FB001073,Forever21,Bottoms,Winter,119.92,0.0,37,5.0,0,0.1226
+FB001074,Ann Taylor,Outerwear,Winter,116.49,0.0,17,3.3,1,0.1569
+FB001075,Gap,Shoes,Fall,153.19,14.7,47,2.9,0,0.143
+FB001076,Uniqlo,Accessories,Winter,33.8,0.0,34,4.8,0,0.124
+FB001077,Uniqlo,Tops,Fall,40.2,3.3,5,2.9,0,0.0635
+FB001078,Forever21,Shoes,Spring,73.72,47.0,6,3.4,0,0.0998
+FB001079,Mango,Dresses,Fall,102.04,0.0,34,3.4,0,0.0988
+FB001080,Gap,Bottoms,Fall,21.64,54.2,4,4.9,0,0.1277
+FB001081,Uniqlo,Dresses,Summer,55.08,0.0,48,4.1,0,0.3163
+FB001082,Forever21,Outerwear,Winter,39.92,54.8,36,3.1,0,0.1388
+FB001083,Mango,Bottoms,Fall,62.32,16.8,13,,1,0.2897
+FB001084,Mango,Bottoms,Winter,29.77,57.4,30,4.2,0,0.081
+FB001085,Uniqlo,Shoes,Fall,142.83,0.0,25,3.5,0,0.0875
+FB001086,Zara,Shoes,Fall,140.17,0.0,43,3.1,0,0.0826
+FB001087,Gap,Tops,Winter,70.24,33.8,15,4.5,0,0.0886
+FB001088,H&M,Dresses,Summer,53.23,0.0,41,2.8,1,0.3733
+FB001089,Banana Republic,Outerwear,Spring,92.25,0.0,22,3.3,1,0.2669
+FB001090,Ann Taylor,Accessories,Summer,39.17,0.0,4,3.5,1,0.1944
+FB001091,Gap,Accessories,Spring,72.83,0.0,6,2.0,0,0.0952
+FB001092,Forever21,Bottoms,Winter,21.2,28.7,37,2.5,0,0.1494
+FB001093,Mango,Dresses,Winter,144.1,0.0,36,2.5,0,0.1252
+FB001094,H&M,Dresses,Summer,97.43,10.8,38,3.3,0,0.1687
+FB001095,Mango,Outerwear,Winter,149.04,17.5,41,1.4,0,0.0928
+FB001096,Banana Republic,Outerwear,Spring,69.53,46.2,28,3.2,0,0.1474
+FB001097,Gap,Shoes,Summer,103.51,47.1,36,4.0,0,0.162
+FB001098,Banana Republic,Accessories,Winter,52.05,20.7,20,2.6,0,0.1457
+FB001099,H&M,Bottoms,Spring,113.18,0.0,3,4.9,0,0.0864
+FB001100,Ann Taylor,Shoes,Fall,173.69,0.0,25,3.6,0,0.1144
+FB001101,Zara,Outerwear,Fall,156.54,0.0,23,1.8,0,0.0801
+FB001102,H&M,Dresses,Spring,63.31,39.0,5,,0,0.0767
+FB001103,Gap,Accessories,Fall,79.6,0.0,22,,0,0.1298
+FB001104,Ann Taylor,Accessories,Fall,27.72,18.9,50,3.6,0,0.1993
+FB001105,Gap,Bottoms,Winter,58.44,0.0,3,2.6,1,0.2538
+FB001106,Zara,Accessories,Summer,30.62,0.0,31,3.0,1,0.1731
+FB001107,Uniqlo,Outerwear,Fall,213.94,0.0,16,4.7,0,0.0681
+FB001108,Forever21,Bottoms,Fall,29.31,0.0,25,4.6,1,0.2582
+FB001109,Forever21,Tops,Spring,49.12,0.0,47,,0,0.1395
+FB001110,Banana Republic,Bottoms,Fall,113.23,0.0,13,3.7,0,0.0821
+FB001111,Banana Republic,Outerwear,Spring,103.65,0.0,4,1.0,0,0.0899
+FB001112,Ann Taylor,Dresses,Fall,36.35,49.4,25,,0,0.2569
+FB001113,Zara,Shoes,Winter,128.31,0.0,36,4.0,1,0.2635
+FB001114,Forever21,Shoes,Winter,118.97,0.0,45,3.8,0,0.1325
+FB001115,Zara,Bottoms,Winter,26.7,16.5,48,1.8,0,0.1715
+FB001116,Banana Republic,Tops,Winter,84.83,26.8,26,4.6,0,0.1139
+FB001117,Ann Taylor,Dresses,Fall,140.06,0.0,37,2.3,0,0.1082
+FB001118,Mango,Shoes,Fall,154.82,0.0,10,4.1,0,0.0668
+FB001119,Uniqlo,Dresses,Winter,91.14,20.2,5,2.0,1,0.2647
+FB001120,Zara,Shoes,Winter,114.84,0.0,38,2.6,1,0.242
+FB001121,Mango,Dresses,Winter,122.39,6.8,18,2.0,0,0.1957
+FB001122,Mango,Tops,Fall,62.07,32.1,49,2.3,0,0.0935
+FB001123,Gap,Outerwear,Fall,202.28,0.0,4,,0,0.0848
+FB001124,Forever21,Bottoms,Fall,119.63,0.0,14,2.1,0,0.1103
+FB001125,Banana Republic,Shoes,Summer,167.89,0.0,12,1.0,0,0.0929
+FB001126,Uniqlo,Shoes,Spring,100.39,0.0,24,3.2,1,0.0995
+FB001127,Gap,Dresses,Summer,95.99,40.9,32,1.0,0,0.1429
+FB001128,Gap,Shoes,Spring,61.75,5.1,16,4.3,0,0.1159
+FB001129,Forever21,Bottoms,Spring,40.07,48.7,0,,0,0.152
+FB001130,Zara,Outerwear,Spring,46.52,59.8,10,4.2,0,0.0808
+FB001131,Ann Taylor,Accessories,Fall,19.0,11.9,37,3.0,1,0.2036
+FB001132,Banana Republic,Dresses,Fall,37.7,50.3,50,4.7,1,0.3116
+FB001133,Uniqlo,Outerwear,Summer,170.91,0.0,36,1.6,1,0.3011
+FB001134,H&M,Shoes,Fall,72.99,22.4,0,,0,0.121
+FB001135,H&M,Bottoms,Summer,84.44,0.0,2,1.1,0,0.1842
+FB001136,Zara,Outerwear,Summer,93.11,0.0,43,2.8,0,0.1833
+FB001137,Zara,Tops,Winter,77.38,8.8,19,4.1,1,0.2454
+FB001138,Uniqlo,Shoes,Spring,138.41,0.0,40,3.1,0,0.1064
+FB001139,Zara,Accessories,Fall,15.83,21.6,45,4.4,1,0.1924
+FB001140,Banana Republic,Dresses,Fall,77.48,37.6,24,2.3,0,0.0812
+FB001141,Banana Republic,Outerwear,Spring,133.92,0.0,41,2.8,0,0.1837
+FB001142,Banana Republic,Accessories,Spring,77.78,0.0,23,2.5,1,0.1639
+FB001143,Mango,Dresses,Winter,101.08,35.9,6,1.0,0,0.0746
+FB001144,Zara,Tops,Winter,99.57,0.0,17,1.0,0,0.1684
+FB001145,Zara,Accessories,Summer,29.09,33.3,47,2.5,0,0.2013
+FB001146,Gap,Outerwear,Winter,88.87,0.0,27,2.4,0,0.1442
+FB001147,Forever21,Bottoms,Fall,90.31,19.8,2,1.0,0,0.1178
+FB001148,Uniqlo,Tops,Fall,33.35,0.0,29,1.2,0,0.1385
+FB001149,Forever21,Bottoms,Fall,112.46,2.9,46,,0,0.0858
+FB001150,Banana Republic,Tops,Fall,104.45,3.1,6,2.8,0,0.0475
+FB001151,H&M,Tops,Summer,53.87,0.0,50,4.2,1,0.2923
+FB001152,Gap,Tops,Spring,42.92,40.8,23,4.4,0,0.1721
+FB001153,Gap,Shoes,Spring,152.32,0.0,15,,0,0.0936
+FB001154,H&M,Dresses,Winter,67.63,0.0,9,4.7,0,0.1014
+FB001155,Uniqlo,Outerwear,Summer,221.94,0.0,35,1.5,0,0.1717
+FB001156,Zara,Bottoms,Fall,108.79,8.4,30,4.6,1,0.2559
+FB001157,Forever21,Tops,Fall,100.17,0.0,18,1.2,0,0.0764
+FB001158,Banana Republic,Accessories,Summer,18.45,0.0,39,2.2,0,0.1916
+FB001159,Gap,Accessories,Summer,39.41,13.5,40,3.2,0,0.2842
+FB001160,Uniqlo,Tops,Spring,62.21,0.0,38,2.6,0,0.0979
+FB001161,Forever21,Accessories,Winter,37.02,0.0,12,4.3,0,0.1279
+FB001162,Zara,Dresses,Summer,31.63,39.0,40,2.4,0,0.1744
+FB001163,Zara,Dresses,Spring,76.24,0.0,14,2.8,0,0.101
+FB001164,Zara,Accessories,Fall,74.17,0.0,24,1.7,0,0.0941
+FB001165,Forever21,Bottoms,Spring,75.99,0.0,19,1.7,1,0.3122
+FB001166,H&M,Bottoms,Winter,31.54,49.4,46,3.5,0,0.0955
+FB001167,Mango,Bottoms,Winter,93.59,0.0,38,1.9,0,0.1451
+FB001168,Forever21,Tops,Fall,46.83,35.7,11,3.1,0,0.1085
+FB001169,Uniqlo,Outerwear,Winter,89.37,33.6,42,2.9,0,0.0805
+FB001170,Zara,Bottoms,Spring,41.6,41.9,16,2.8,0,0.1415
+FB001171,Ann Taylor,Shoes,Summer,28.99,53.5,1,4.1,0,0.2385
+FB001172,Ann Taylor,Outerwear,Spring,45.35,43.7,41,4.8,1,0.25
+FB001173,Banana Republic,Shoes,Winter,171.48,0.0,15,2.4,0,0.1123
+FB001174,Ann Taylor,Tops,Spring,25.97,15.7,4,,0,0.0868
+FB001175,H&M,Dresses,Summer,97.14,0.0,20,4.1,0,0.1015
+FB001176,Forever21,Shoes,Fall,128.27,0.0,28,,0,0.0946
+FB001177,Zara,Dresses,Winter,174.86,0.0,43,4.6,0,0.1469
+FB001178,Banana Republic,Dresses,Winter,100.03,0.0,36,1.9,1,0.2249
+FB001179,Zara,Dresses,Winter,49.89,0.0,0,3.5,1,0.1637
+FB001180,H&M,Shoes,Fall,170.43,0.0,22,,0,0.0811
+FB001181,Gap,Outerwear,Summer,186.78,0.0,22,2.9,0,0.2044
+FB001182,Forever21,Accessories,Fall,63.98,0.0,36,1.7,0,0.0931
+FB001183,Forever21,Outerwear,Fall,225.64,0.0,31,1.3,0,0.0754
+FB001184,Mango,Tops,Fall,99.26,13.9,37,,0,0.108
+FB001185,Mango,Bottoms,Fall,92.59,0.0,39,2.3,0,0.0845
+FB001186,Uniqlo,Accessories,Spring,49.93,26.2,23,1.7,0,0.167
+FB001187,Ann Taylor,Outerwear,Spring,128.92,0.0,40,1.5,0,0.1328
+FB001188,Banana Republic,Accessories,Fall,13.74,16.8,47,1.2,0,0.2461
+FB001189,Banana Republic,Shoes,Winter,99.51,42.7,1,3.1,0,0.1118
+FB001190,H&M,Tops,Spring,56.55,20.9,33,1.3,0,0.1221
+FB001191,Uniqlo,Outerwear,Fall,174.72,24.3,26,,1,0.1261
+FB001192,H&M,Shoes,Spring,41.81,58.6,44,1.2,0,0.085
+FB001193,Mango,Outerwear,Winter,55.16,52.6,43,2.4,0,0.0779
+FB001194,H&M,Shoes,Spring,137.81,8.3,48,2.9,0,0.1121
+FB001195,Zara,Outerwear,Winter,107.81,0.0,15,2.7,0,0.1311
+FB001196,Zara,Dresses,Spring,61.24,0.0,3,,0,0.1199
+FB001197,Zara,Accessories,Winter,34.04,0.0,3,1.9,0,0.154
+FB001198,Gap,Dresses,Summer,90.97,45.9,44,1.5,0,0.1349
+FB001199,Ann Taylor,Tops,Fall,74.07,0.0,47,1.4,0,0.1556
+FB001200,Forever21,Tops,Winter,84.75,0.0,7,2.5,0,0.0661
+FB001201,Mango,Shoes,Summer,169.47,9.6,28,4.0,0,0.0987
+FB001202,Uniqlo,Accessories,Spring,39.35,14.1,29,,0,0.1656
+FB001203,Banana Republic,Outerwear,Fall,87.09,0.0,8,2.8,0,0.0725
+FB001204,H&M,Outerwear,Summer,100.44,56.8,23,2.9,1,0.3054
+FB001205,Ann Taylor,Shoes,Spring,184.87,0.0,32,1.8,0,0.166
+FB001206,Gap,Tops,Fall,31.36,0.0,50,3.4,0,0.1514
+FB001207,H&M,Accessories,Winter,46.94,24.6,33,3.5,0,0.1478
+FB001208,Mango,Accessories,Summer,37.47,42.2,26,1.3,0,0.1573
+FB001209,Zara,Accessories,Spring,15.92,0.0,7,4.1,0,0.1425
+FB001210,H&M,Outerwear,Spring,180.83,0.0,20,2.0,0,0.132
+FB001211,Forever21,Shoes,Summer,73.81,0.0,44,1.3,0,0.1225
+FB001212,Ann Taylor,Shoes,Summer,127.52,0.0,0,3.4,0,0.1268
+FB001213,H&M,Bottoms,Fall,52.08,0.0,12,,0,0.1116
+FB001214,Forever21,Bottoms,Winter,25.28,23.0,24,1.1,0,0.1746
+FB001215,Banana Republic,Tops,Winter,108.92,0.0,6,1.8,0,0.0702
+FB001216,Forever21,Shoes,Winter,45.06,47.5,8,1.1,0,0.1242
+FB001217,Zara,Accessories,Spring,62.02,0.0,3,3.7,0,0.0924
+FB001218,H&M,Shoes,Summer,120.44,5.4,34,2.5,0,0.1477
+FB001219,Ann Taylor,Tops,Fall,35.74,0.0,33,,1,0.1432
+FB001220,H&M,Accessories,Summer,50.2,27.9,5,1.1,0,0.2508
+FB001221,Zara,Tops,Winter,65.51,28.8,37,1.9,0,0.1353
+FB001222,Mango,Shoes,Fall,110.1,0.0,13,3.6,1,0.2122
+FB001223,Zara,Bottoms,Fall,109.05,0.0,13,3.7,0,0.0757
+FB001224,Forever21,Accessories,Winter,67.46,0.0,28,1.4,0,0.1337
+FB001225,Ann Taylor,Shoes,Winter,98.88,10.2,47,,0,0.1793
+FB001226,Banana Republic,Shoes,Summer,162.5,0.0,45,,0,0.1631
+FB001227,Uniqlo,Accessories,Summer,21.82,8.3,0,3.5,0,0.1751
+FB001228,Banana Republic,Bottoms,Fall,115.89,0.0,34,2.9,0,0.1051
+FB001229,H&M,Outerwear,Spring,80.04,42.5,27,2.9,0,0.1185
+FB001230,Forever21,Dresses,Fall,76.23,36.7,46,2.4,0,0.1268
+FB001231,Banana Republic,Accessories,Fall,72.81,0.0,4,4.3,0,0.0819
+FB001232,Zara,Accessories,Spring,29.75,0.0,37,3.9,0,0.1087
+FB001233,Gap,Tops,Summer,33.63,0.0,13,4.7,0,0.1048
+FB001234,Banana Republic,Outerwear,Fall,101.93,0.0,31,,0,0.0979
+FB001235,Mango,Accessories,Winter,41.43,0.0,10,,0,0.1061
+FB001236,Ann Taylor,Outerwear,Spring,126.14,0.0,24,3.6,0,0.1595
+FB001237,Zara,Bottoms,Spring,96.76,0.0,6,,0,0.0743
+FB001238,Mango,Tops,Winter,114.32,0.0,27,5.0,0,0.1533
+FB001239,H&M,Shoes,Spring,102.46,0.0,20,3.7,1,0.0937
+FB001240,Uniqlo,Bottoms,Summer,81.34,15.0,9,4.9,0,0.1372
+FB001241,H&M,Bottoms,Winter,55.49,0.0,25,4.6,0,0.1331
+FB001242,Ann Taylor,Accessories,Winter,27.58,9.8,34,3.4,0,0.1573
+FB001243,Mango,Bottoms,Fall,116.58,0.0,47,1.2,0,0.0911
+FB001244,Zara,Dresses,Winter,62.47,21.1,36,1.5,1,0.3061
+FB001245,Forever21,Dresses,Summer,88.71,0.0,3,3.5,0,0.1434
+FB001246,Banana Republic,Dresses,Spring,150.58,0.0,38,2.1,0,0.1786
+FB001247,Uniqlo,Dresses,Summer,163.17,9.3,34,2.1,0,0.1194
+FB001248,Forever21,Outerwear,Spring,135.3,0.0,19,4.6,0,0.1115
+FB001249,Uniqlo,Shoes,Fall,146.43,0.0,7,2.5,0,0.0507
+FB001250,Forever21,Outerwear,Winter,160.27,0.0,11,2.0,0,0.0657
+FB001251,Mango,Shoes,Winter,154.92,8.8,36,2.1,0,0.1261
+FB001252,Ann Taylor,Shoes,Summer,137.33,0.0,35,4.6,0,0.2482
+FB001253,Forever21,Bottoms,Summer,38.18,0.0,38,,0,0.2188
+FB001254,Zara,Tops,Summer,32.46,20.1,7,,0,0.135
+FB001255,H&M,Bottoms,Winter,43.26,23.3,35,,0,0.1355
+FB001256,Forever21,Accessories,Summer,19.56,0.0,13,3.1,0,0.1725
+FB001257,H&M,Shoes,Winter,155.66,0.0,3,4.0,0,0.0913
+FB001258,Zara,Tops,Summer,106.2,0.0,10,1.1,0,0.1083
+FB001259,Ann Taylor,Outerwear,Fall,158.31,0.0,7,5.0,0,0.079
+FB001260,Mango,Dresses,Spring,59.13,42.2,43,1.3,0,0.1189
+FB001261,Gap,Accessories,Fall,22.45,58.0,6,4.2,0,0.119
+FB001262,Uniqlo,Dresses,Summer,78.47,22.9,5,1.2,1,0.2028
+FB001263,Banana Republic,Outerwear,Summer,112.28,0.0,41,4.1,0,0.173
+FB001264,Banana Republic,Accessories,Winter,47.51,0.0,39,4.4,0,0.1817
+FB001265,Uniqlo,Tops,Winter,80.39,0.0,24,,0,0.1541
+FB001266,Mango,Bottoms,Winter,47.66,26.4,7,2.9,1,0.3484
+FB001267,Zara,Outerwear,Winter,129.86,0.0,41,1.7,0,0.1877
+FB001268,Banana Republic,Bottoms,Spring,32.74,0.0,23,4.0,1,0.3025
+FB001269,Uniqlo,Bottoms,Spring,79.27,0.0,13,3.5,0,0.1382
+FB001270,Forever21,Tops,Spring,119.38,0.0,18,4.4,0,0.1215
+FB001271,H&M,Dresses,Winter,66.17,0.0,1,,0,0.0886
+FB001272,H&M,Accessories,Fall,62.84,8.0,18,3.1,0,0.0991
+FB001273,Mango,Outerwear,Fall,209.66,0.0,30,2.1,0,0.1294
+FB001274,Uniqlo,Shoes,Summer,154.82,0.0,31,,0,0.1422
+FB001275,H&M,Bottoms,Winter,37.53,0.0,8,3.0,1,0.2651
+FB001276,Zara,Shoes,Summer,140.28,0.0,10,1.9,0,0.0999
+FB001277,Uniqlo,Shoes,Summer,171.07,0.0,25,3.0,0,0.1868
+FB001278,Zara,Tops,Summer,77.87,0.0,4,2.7,0,0.1502
+FB001279,H&M,Tops,Spring,80.54,0.0,50,2.1,0,0.1337
+FB001280,Uniqlo,Bottoms,Summer,28.38,41.7,20,1.3,1,0.3744
+FB001281,Ann Taylor,Shoes,Winter,137.83,0.0,32,3.4,1,0.1423
+FB001282,Zara,Bottoms,Fall,53.48,44.8,15,1.3,0,0.0779
+FB001283,H&M,Tops,Spring,29.35,36.8,19,1.9,0,0.0975
+FB001284,Gap,Bottoms,Winter,86.4,0.0,26,3.7,0,0.1625
+FB001285,Mango,Bottoms,Fall,55.09,51.6,12,2.9,0,0.0663
+FB001286,Zara,Bottoms,Summer,36.93,42.9,36,,0,0.1563
+FB001287,Forever21,Shoes,Fall,123.23,0.0,40,4.3,0,0.0787
+FB001288,Ann Taylor,Accessories,Winter,69.69,0.0,35,3.0,0,0.2038
+FB001289,Banana Republic,Accessories,Winter,34.89,24.4,31,4.4,1,0.2066
+FB001290,H&M,Outerwear,Summer,229.8,0.0,46,3.6,0,0.1636
+FB001291,Uniqlo,Outerwear,Fall,144.27,19.6,42,3.0,0,0.0966
+FB001292,Banana Republic,Shoes,Fall,35.38,56.3,41,2.2,1,0.3347
+FB001293,Uniqlo,Bottoms,Fall,50.34,19.2,9,2.5,0,0.1757
+FB001294,Uniqlo,Accessories,Fall,51.48,12.5,3,1.5,0,0.1065
+FB001295,H&M,Tops,Summer,117.02,1.7,34,4.1,0,0.1761
+FB001296,Zara,Outerwear,Summer,80.54,0.0,3,1.8,1,0.284
+FB001297,Banana Republic,Bottoms,Winter,35.16,25.7,2,3.2,0,0.1576
+FB001298,Gap,Shoes,Winter,75.92,27.4,7,1.0,1,0.2694
+FB001299,Zara,Accessories,Winter,29.43,23.3,22,1.4,0,0.1563
+FB001300,H&M,Outerwear,Winter,86.3,0.0,33,3.9,0,0.1996
+FB001301,Mango,Accessories,Winter,62.16,4.2,40,1.4,0,0.1146
+FB001302,Mango,Accessories,Fall,53.64,0.0,18,2.3,0,0.1179
+FB001303,Mango,Dresses,Summer,103.34,9.2,11,2.4,0,0.1528
+FB001304,Ann Taylor,Tops,Summer,29.01,27.7,29,1.7,1,0.3582
+FB001305,Gap,Tops,Winter,34.3,30.9,21,2.0,0,0.0873
+FB001306,Forever21,Bottoms,Summer,53.88,54.2,25,4.6,1,0.112
+FB001307,Mango,Accessories,Summer,67.2,3.7,14,3.2,0,0.1753
+FB001308,Forever21,Accessories,Spring,24.41,18.4,10,4.9,0,0.1122
+FB001309,H&M,Shoes,Fall,106.09,43.3,26,3.0,0,0.1379
+FB001310,Ann Taylor,Accessories,Summer,33.71,15.8,31,1.8,0,0.3019
+FB001311,Mango,Dresses,Spring,86.9,23.4,1,,0,0.1021
+FB001312,Zara,Bottoms,Spring,119.84,0.0,47,1.4,0,0.134
+FB001313,Uniqlo,Shoes,Fall,167.27,0.0,9,4.0,0,0.0364
+FB001314,Banana Republic,Dresses,Spring,146.37,1.1,43,2.0,0,0.1168
+FB001315,H&M,Bottoms,Winter,32.8,49.8,9,,0,0.1551
+FB001316,Banana Republic,Shoes,Spring,80.0,5.4,33,,0,0.1395
+FB001317,Gap,Bottoms,Summer,52.6,0.0,35,1.2,1,0.4462
+FB001318,Uniqlo,Shoes,Summer,106.37,0.0,30,1.1,0,0.1292
+FB001319,Gap,Tops,Summer,57.67,40.4,31,4.5,0,0.1016
+FB001320,Banana Republic,Outerwear,Spring,99.02,0.0,21,1.2,0,0.1207
+FB001321,Zara,Accessories,Spring,43.47,36.9,9,1.8,0,0.1051
+FB001322,H&M,Dresses,Spring,61.67,3.5,14,2.1,0,0.0921
+FB001323,Mango,Shoes,Fall,103.11,11.4,15,,0,0.1106
+FB001324,Uniqlo,Bottoms,Fall,71.74,0.0,16,,0,0.1147
+FB001325,Forever21,Bottoms,Winter,91.11,0.0,38,3.3,0,0.1503
+FB001326,Zara,Accessories,Summer,46.07,0.0,25,2.5,0,0.2523
+FB001327,Mango,Dresses,Fall,156.27,0.0,43,,0,0.0625
+FB001328,Mango,Tops,Fall,56.35,0.0,31,1.5,0,0.0883
+FB001329,Zara,Bottoms,Winter,90.9,23.1,15,5.0,0,0.1066
+FB001330,Gap,Tops,Fall,25.86,0.0,46,1.5,0,0.1544
+FB001331,H&M,Tops,Fall,69.94,23.7,3,3.7,0,0.1038
+FB001332,Uniqlo,Bottoms,Fall,23.29,7.9,39,1.7,0,0.1343
+FB001333,H&M,Accessories,Winter,34.99,32.2,34,4.8,0,0.1266
+FB001334,Banana Republic,Outerwear,Summer,108.28,24.6,50,4.1,0,0.181
+FB001335,Gap,Bottoms,Summer,45.48,0.0,29,2.3,0,0.3131
+FB001336,Zara,Shoes,Summer,158.77,10.7,37,,0,0.1179
+FB001337,Gap,Outerwear,Fall,95.48,34.2,14,,0,0.1556
+FB001338,Ann Taylor,Shoes,Summer,190.78,0.0,39,3.7,0,0.143
+FB001339,Forever21,Accessories,Fall,44.73,0.0,25,1.1,0,0.1248
+FB001340,Banana Republic,Shoes,Winter,65.48,0.0,7,4.6,0,0.0998
+FB001341,Gap,Shoes,Spring,86.1,0.0,4,2.4,0,0.086
+FB001342,Uniqlo,Bottoms,Winter,100.14,0.0,48,4.2,0,0.1452
+FB001343,Banana Republic,Outerwear,Winter,203.4,0.0,18,1.8,0,0.2042
+FB001344,Gap,Tops,Winter,71.99,24.4,26,2.3,0,0.1393
+FB001345,H&M,Dresses,Fall,118.93,31.6,5,3.2,0,0.0832
+FB001346,H&M,Dresses,Winter,160.05,0.0,23,4.0,0,0.1574
+FB001347,Forever21,Tops,Winter,59.53,0.0,28,1.5,0,0.0874
+FB001348,Mango,Dresses,Fall,155.32,0.0,19,4.1,0,0.0904
+FB001349,Forever21,Bottoms,Spring,17.49,41.0,21,4.5,1,0.3505
+FB001350,Mango,Outerwear,Winter,182.42,23.2,23,2.2,0,0.1252
+FB001351,Ann Taylor,Outerwear,Summer,81.67,0.0,34,3.1,1,0.3531
+FB001352,Banana Republic,Bottoms,Spring,37.07,0.0,13,,0,0.1636
+FB001353,Uniqlo,Tops,Fall,80.97,0.0,13,,0,0.0466
+FB001354,Zara,Accessories,Spring,54.45,29.9,33,4.0,1,0.1507
+FB001355,Banana Republic,Tops,Summer,116.4,1.0,27,3.3,0,0.1977
+FB001356,Mango,Outerwear,Fall,93.27,28.3,41,2.3,0,0.102
+FB001357,Uniqlo,Tops,Fall,63.69,0.0,11,3.0,0,0.0423
+FB001358,Banana Republic,Outerwear,Spring,135.02,0.0,25,3.4,1,0.2471
+FB001359,H&M,Accessories,Winter,45.37,0.0,19,1.1,0,0.1541
+FB001360,Zara,Bottoms,Winter,47.08,8.0,7,,0,0.1589
+FB001361,Forever21,Dresses,Summer,46.63,5.5,10,4.3,0,0.1381
+FB001362,Uniqlo,Shoes,Spring,119.78,0.0,40,,0,0.1357
+FB001363,Banana Republic,Tops,Spring,50.17,35.1,16,,0,0.1052
+FB001364,Gap,Tops,Fall,72.69,0.0,6,,0,0.0649
+FB001365,Gap,Shoes,Fall,117.57,0.0,30,4.8,0,0.197
+FB001366,Forever21,Outerwear,Spring,83.2,48.4,32,,0,0.2051
+FB001367,Ann Taylor,Shoes,Fall,158.01,0.0,19,2.6,0,0.132
+FB001368,Ann Taylor,Tops,Summer,60.92,0.0,25,,1,0.2933
+FB001369,H&M,Shoes,Summer,91.28,25.2,21,4.7,0,0.1397
+FB001370,Mango,Shoes,Spring,109.15,0.0,11,,0,0.0725
+FB001371,Ann Taylor,Bottoms,Fall,60.97,0.0,29,4.5,0,0.1479
+FB001372,Uniqlo,Accessories,Summer,41.97,35.3,12,4.2,1,0.1712
+FB001373,Mango,Shoes,Fall,151.35,0.0,18,,0,0.084
+FB001374,Gap,Accessories,Winter,40.82,44.0,25,3.0,0,0.168
+FB001375,Gap,Accessories,Winter,79.48,0.0,2,3.3,0,0.1296
+FB001376,Mango,Shoes,Fall,49.35,59.8,33,4.0,0,0.0999
+FB001377,Forever21,Bottoms,Summer,79.61,0.0,29,3.7,0,0.1769
+FB001378,Uniqlo,Bottoms,Winter,60.13,0.0,27,,0,0.129
+FB001379,Gap,Accessories,Winter,42.63,41.0,43,3.5,0,0.1565
+FB001380,Mango,Bottoms,Summer,55.1,17.0,24,4.9,1,0.4111
+FB001381,Ann Taylor,Outerwear,Spring,100.27,0.0,37,3.1,0,0.1337
+FB001382,Zara,Dresses,Summer,54.79,52.8,22,,0,0.0754
+FB001383,Mango,Outerwear,Fall,79.98,0.9,11,1.1,0,0.1034
+FB001384,Banana Republic,Dresses,Summer,175.11,0.0,39,2.9,0,0.1322
+FB001385,Mango,Dresses,Fall,77.08,37.0,25,,0,0.0949
+FB001386,Uniqlo,Shoes,Winter,127.99,0.0,14,2.7,0,0.0819
+FB001387,Zara,Bottoms,Summer,96.42,4.6,19,4.7,0,0.1204
+FB001388,Forever21,Bottoms,Winter,23.38,44.1,6,2.4,0,0.1724
+FB001389,H&M,Shoes,Spring,147.52,0.0,41,4.0,0,0.0858
+FB001390,Banana Republic,Tops,Fall,85.94,0.0,49,1.5,0,0.0675
+FB001391,Gap,Dresses,Winter,115.61,0.0,35,1.8,0,0.197
+FB001392,Ann Taylor,Outerwear,Winter,90.58,0.0,1,1.0,0,0.1122
+FB001393,Gap,Tops,Spring,64.84,0.0,25,3.9,0,0.1277
+FB001394,Banana Republic,Bottoms,Summer,37.27,0.0,27,2.8,1,0.3842
+FB001395,Gap,Tops,Summer,40.54,55.2,26,3.0,0,0.0725
+FB001396,Gap,Shoes,Summer,66.4,58.4,45,1.1,0,0.1146
+FB001397,Ann Taylor,Shoes,Summer,33.56,58.8,37,4.6,0,0.1851
+FB001398,Forever21,Shoes,Winter,93.63,0.0,47,4.1,0,0.1387
+FB001399,Ann Taylor,Tops,Summer,95.55,0.0,25,4.7,0,0.2225
+FB001400,Zara,Outerwear,Winter,146.45,0.0,45,3.4,0,0.1168
+FB001401,Banana Republic,Shoes,Spring,96.9,0.0,24,4.3,0,0.1065
+FB001402,Banana Republic,Tops,Fall,71.83,0.0,46,4.5,0,0.0584
+FB001403,H&M,Tops,Summer,29.17,0.0,17,1.6,0,0.1213
+FB001404,H&M,Tops,Spring,17.65,43.6,21,4.4,0,0.1856
+FB001405,Zara,Accessories,Fall,73.57,0.0,22,1.1,0,0.1146
+FB001406,Mango,Shoes,Summer,75.95,0.0,14,,0,0.1635
+FB001407,H&M,Accessories,Spring,79.04,0.0,28,4.7,0,0.1561
+FB001408,Mango,Tops,Fall,26.85,0.0,26,,0,0.0978
+FB001409,Ann Taylor,Dresses,Spring,89.36,29.2,25,1.1,0,0.1867
+FB001410,Mango,Shoes,Fall,71.46,0.0,2,3.1,0,0.0907
+FB001411,Mango,Dresses,Winter,55.44,14.8,21,,0,0.1403
+FB001412,Mango,Bottoms,Fall,22.24,20.9,6,2.3,0,0.153
+FB001413,H&M,Tops,Spring,29.12,0.0,14,2.7,0,0.1035
+FB001414,Forever21,Accessories,Winter,57.1,0.0,28,,1,0.1111
+FB001415,Uniqlo,Outerwear,Spring,248.05,0.0,17,4.6,0,0.1304
+FB001416,Zara,Bottoms,Fall,64.5,40.6,9,1.3,0,0.0667
+FB001417,Forever21,Outerwear,Summer,124.13,0.0,33,5.0,0,0.1284
+FB001418,Zara,Accessories,Spring,61.09,1.8,4,2.3,0,0.0685
+FB001419,Uniqlo,Bottoms,Fall,48.27,0.0,33,,0,0.1413
+FB001420,Zara,Tops,Spring,88.77,0.0,40,4.8,0,0.0907
+FB001421,Gap,Dresses,Fall,94.17,0.0,2,,0,0.1151
+FB001422,Forever21,Accessories,Fall,30.44,0.0,42,,0,0.1315
+FB001423,Uniqlo,Bottoms,Fall,114.29,0.0,9,3.2,0,0.0607
+FB001424,Uniqlo,Shoes,Fall,77.92,25.8,17,3.2,0,0.1165
+FB001425,Ann Taylor,Tops,Spring,38.56,0.0,39,1.5,0,0.1352
+FB001426,Mango,Shoes,Winter,64.94,0.0,32,4.5,0,0.1458
+FB001427,Mango,Bottoms,Winter,27.54,56.8,15,4.0,0,0.1404
+FB001428,Zara,Tops,Summer,59.77,11.1,39,1.1,1,0.3368
+FB001429,H&M,Accessories,Spring,16.21,40.4,20,4.3,0,0.2038
+FB001430,Mango,Tops,Spring,75.84,0.0,8,4.1,0,0.0557
+FB001431,Mango,Dresses,Winter,68.51,0.0,1,2.6,0,0.1239
+FB001432,Mango,Accessories,Summer,25.49,0.0,35,2.2,1,0.1563
+FB001433,Ann Taylor,Tops,Fall,70.88,0.0,5,2.3,0,0.0527
+FB001434,H&M,Shoes,Summer,161.1,8.8,1,1.7,0,0.0799
+FB001435,Ann Taylor,Dresses,Winter,50.76,0.0,45,4.3,0,0.2638
+FB001436,Mango,Shoes,Fall,155.85,0.0,1,3.5,0,0.0784
+FB001437,Banana Republic,Dresses,Spring,48.04,0.0,20,3.2,0,0.1436
+FB001438,Forever21,Tops,Spring,44.79,0.0,7,3.6,0,0.0568
+FB001439,Uniqlo,Tops,Spring,76.95,0.0,9,2.5,0,0.0629
+FB001440,Gap,Accessories,Summer,18.0,49.9,26,4.0,0,0.3149
+FB001441,Banana Republic,Bottoms,Fall,49.97,0.0,11,3.5,1,0.2518
+FB001442,H&M,Outerwear,Summer,169.69,0.0,29,1.9,0,0.1641
+FB001443,Ann Taylor,Outerwear,Spring,179.58,14.2,29,,0,0.1504
+FB001444,Gap,Tops,Summer,110.81,0.0,24,2.4,0,0.254
+FB001445,Uniqlo,Accessories,Fall,61.84,0.0,0,4.7,1,0.113
+FB001446,Zara,Outerwear,Spring,161.72,14.9,35,4.1,0,0.1124
+FB001447,Banana Republic,Bottoms,Fall,74.27,0.0,6,1.3,0,0.1434
+FB001448,Zara,Outerwear,Fall,113.82,30.5,10,,0,0.1107
+FB001449,Mango,Accessories,Winter,42.28,0.0,22,1.9,0,0.1516
+FB001450,H&M,Bottoms,Summer,52.92,0.0,9,,0,0.1912
+FB001451,Ann Taylor,Accessories,Spring,38.04,6.2,26,3.7,1,0.2043
+FB001452,Mango,Shoes,Summer,129.76,0.0,39,2.9,0,0.1331
+FB001453,Ann Taylor,Tops,Fall,63.39,0.0,50,2.5,0,0.1329
+FB001454,H&M,Shoes,Fall,189.44,1.3,39,1.2,0,0.0657
+FB001455,Uniqlo,Accessories,Spring,63.42,0.0,19,2.9,1,0.098
+FB001456,Ann Taylor,Tops,Winter,35.26,0.0,47,2.3,0,0.187
+FB001457,Gap,Accessories,Spring,44.5,0.0,36,3.6,0,0.2248
+FB001458,Zara,Shoes,Spring,105.72,43.4,42,2.5,1,0.3243
+FB001459,H&M,Tops,Summer,52.05,55.4,15,,0,0.1153
+FB001460,H&M,Accessories,Winter,24.5,0.0,7,,0,0.1335
+FB001461,Gap,Accessories,Winter,23.2,0.0,17,2.1,0,0.1856
+FB001462,Forever21,Bottoms,Winter,73.8,0.0,42,,0,0.1447
+FB001463,Zara,Accessories,Summer,51.33,0.0,25,1.2,0,0.2552
+FB001464,H&M,Bottoms,Winter,80.21,0.0,17,,0,0.1796
+FB001465,Uniqlo,Outerwear,Fall,237.65,0.0,3,3.4,0,0.1184
+FB001466,Banana Republic,Bottoms,Spring,96.35,0.0,34,3.7,0,0.097
+FB001467,Banana Republic,Bottoms,Winter,91.92,0.0,29,,0,0.1647
+FB001468,Banana Republic,Shoes,Fall,194.05,0.0,7,1.3,0,0.0831
+FB001469,Gap,Outerwear,Summer,166.88,0.0,10,1.6,0,0.1313
+FB001470,H&M,Bottoms,Winter,47.01,0.0,17,1.6,0,0.1628
+FB001471,Banana Republic,Shoes,Winter,95.57,20.3,15,3.8,0,0.1121
+FB001472,H&M,Accessories,Fall,33.77,54.2,37,4.1,0,0.2258
+FB001473,Zara,Bottoms,Fall,108.65,0.0,26,2.4,0,0.1105
+FB001474,Mango,Shoes,Summer,186.53,0.0,31,2.6,0,0.1788
+FB001475,Zara,Accessories,Summer,60.34,0.0,13,,0,0.1514
+FB001476,Mango,Accessories,Winter,61.16,0.0,28,2.3,0,0.1511
+FB001477,Forever21,Shoes,Winter,109.25,35.3,10,3.3,0,0.0895
+FB001478,Ann Taylor,Tops,Winter,60.08,0.0,26,,0,0.1696
+FB001479,Gap,Accessories,Summer,27.65,29.8,13,4.7,0,0.1594
+FB001480,Gap,Tops,Fall,111.09,0.0,24,2.2,0,0.1258
+FB001481,Banana Republic,Dresses,Summer,133.51,0.0,5,1.7,1,0.1463
+FB001482,Forever21,Dresses,Summer,89.78,43.5,46,,0,0.1464
+FB001483,Gap,Tops,Spring,52.87,19.0,48,3.0,0,0.1761
+FB001484,Zara,Accessories,Fall,72.37,0.0,24,2.9,0,0.1148
+FB001485,Banana Republic,Dresses,Fall,105.1,21.5,42,3.1,0,0.1057
+FB001486,Zara,Tops,Spring,74.3,0.0,24,4.4,0,0.1021
+FB001487,Banana Republic,Shoes,Summer,101.19,47.5,40,2.8,0,0.1474
+FB001488,Uniqlo,Accessories,Summer,77.04,2.5,16,2.8,0,0.192
+FB001489,Zara,Shoes,Winter,158.29,0.0,5,1.6,0,0.0832
+FB001490,Ann Taylor,Tops,Winter,69.33,0.0,26,4.9,0,0.1398
+FB001491,Gap,Shoes,Winter,69.95,19.5,49,1.3,0,0.1511
+FB001492,Uniqlo,Outerwear,Fall,162.75,0.0,13,4.8,0,0.099
+FB001493,H&M,Shoes,Summer,70.28,0.0,27,4.7,0,0.1984
+FB001494,Mango,Bottoms,Spring,111.91,0.0,28,1.8,0,0.1105
+FB001495,Ann Taylor,Outerwear,Fall,143.76,0.0,7,2.0,0,0.1037
+FB001496,H&M,Dresses,Summer,169.89,0.0,17,1.3,0,0.1235
+FB001497,Zara,Shoes,Winter,72.29,0.0,0,,0,0.1161
+FB001498,Forever21,Outerwear,Winter,122.31,10.2,10,3.6,0,0.067
+FB001499,Forever21,Tops,Summer,92.5,0.0,15,2.7,0,0.1397
+FB001500,Banana Republic,Shoes,Winter,89.5,0.0,5,4.5,0,0.0745
+FB001501,H&M,Outerwear,Spring,161.51,0.0,22,4.7,0,0.152
+FB001502,Zara,Accessories,Winter,38.12,0.0,18,4.4,1,0.1465
+FB001503,H&M,Dresses,Summer,100.08,0.0,23,4.8,0,0.1997
+FB001504,Uniqlo,Dresses,Fall,161.79,0.0,44,3.9,0,0.1188
+FB001505,Ann Taylor,Bottoms,Fall,46.42,0.0,2,3.7,1,0.3221
+FB001506,Uniqlo,Shoes,Spring,111.03,44.3,19,1.8,0,0.1481
+FB001507,Forever21,Bottoms,Summer,25.77,0.0,5,3.1,0,0.204
+FB001508,Forever21,Shoes,Winter,180.67,0.0,31,4.4,0,0.1303
+FB001509,Forever21,Shoes,Spring,106.79,46.1,8,3.2,0,0.1281
+FB001510,Uniqlo,Dresses,Summer,152.97,5.3,33,3.7,0,0.1259
+FB001511,Zara,Bottoms,Spring,25.97,0.0,31,1.2,0,0.1706
+FB001512,Forever21,Tops,Summer,51.09,39.9,44,3.0,0,0.1383
+FB001513,Uniqlo,Accessories,Summer,66.85,10.9,12,1.2,0,0.1953
+FB001514,Ann Taylor,Accessories,Winter,33.88,0.0,9,,0,0.122
+FB001515,Banana Republic,Shoes,Summer,124.53,12.3,39,3.3,0,0.1391
+FB001516,H&M,Dresses,Fall,125.46,0.0,26,1.1,0,0.0959
+FB001517,H&M,Shoes,Winter,138.79,0.0,16,,1,0.1153
+FB001518,Ann Taylor,Bottoms,Spring,50.8,37.9,44,,0,0.2472
+FB001519,Uniqlo,Accessories,Fall,41.24,47.3,20,4.0,0,0.1809
+FB001520,Banana Republic,Bottoms,Spring,100.24,16.0,35,,0,0.1701
+FB001521,Ann Taylor,Accessories,Spring,52.97,0.0,36,4.6,0,0.1859
+FB001522,Mango,Accessories,Winter,69.48,0.0,17,3.4,0,0.1606
+FB001523,Banana Republic,Outerwear,Summer,177.82,0.0,9,1.1,0,0.2145
+FB001524,Banana Republic,Shoes,Winter,142.71,0.0,28,1.0,0,0.1961
+FB001525,Zara,Bottoms,Spring,105.21,0.0,41,4.9,0,0.1178
+FB001526,Forever21,Accessories,Fall,32.68,49.8,32,4.9,0,0.1837
+FB001527,Uniqlo,Outerwear,Winter,167.39,0.0,43,1.8,0,0.1435
+FB001528,Uniqlo,Accessories,Winter,49.89,0.0,32,2.4,0,0.1666
+FB001529,Banana Republic,Outerwear,Fall,218.06,0.0,32,4.0,0,0.088
+FB001530,Gap,Bottoms,Summer,52.11,21.8,25,3.5,1,0.4771
+FB001531,Ann Taylor,Outerwear,Fall,73.69,40.9,9,4.1,0,0.1894
+FB001532,Mango,Tops,Summer,14.63,48.2,20,4.5,0,0.2175
+FB001533,Zara,Accessories,Summer,35.22,53.9,15,1.5,0,0.1572
+FB001534,Zara,Bottoms,Winter,96.82,0.0,0,1.1,0,0.1299
+FB001535,Banana Republic,Shoes,Fall,114.34,28.2,1,,1,0.1169
+FB001536,Zara,Dresses,Summer,82.01,52.3,28,2.2,0,0.1342
+FB001537,Zara,Tops,Summer,85.25,0.0,11,,0,0.1191
+FB001538,Banana Republic,Tops,Spring,70.48,0.0,22,1.2,0,0.124
+FB001539,Banana Republic,Outerwear,Spring,203.02,0.0,23,3.5,1,0.2346
+FB001540,Ann Taylor,Dresses,Fall,102.47,11.2,4,3.8,0,0.1163
+FB001541,Mango,Accessories,Spring,14.01,49.8,12,2.6,0,0.1979
+FB001542,H&M,Accessories,Winter,79.69,0.0,44,1.6,0,0.1431
+FB001543,Forever21,Bottoms,Fall,47.22,0.0,19,1.9,0,0.1298
+FB001544,H&M,Shoes,Fall,146.6,14.9,8,3.7,0,0.047
+FB001545,Zara,Accessories,Winter,27.9,0.0,27,3.0,1,0.1649
+FB001546,Zara,Dresses,Spring,139.26,0.0,32,3.4,0,0.0851
+FB001547,Ann Taylor,Accessories,Summer,30.47,0.0,34,4.2,0,0.293
+FB001548,Gap,Outerwear,Fall,85.2,39.8,47,3.5,0,0.1713
+FB001549,Gap,Dresses,Spring,35.87,24.4,42,2.8,0,0.1524
+FB001550,Gap,Bottoms,Winter,48.15,6.3,46,,0,0.1747
+FB001551,Gap,Tops,Spring,74.13,0.0,23,,0,0.1716
+FB001552,Zara,Dresses,Fall,148.33,5.0,39,,0,0.0962
+FB001553,Banana Republic,Outerwear,Summer,105.3,0.0,1,3.0,0,0.153
+FB001554,H&M,Dresses,Winter,126.76,0.0,24,2.2,0,0.1128
+FB001555,Gap,Tops,Winter,35.41,0.0,48,4.3,1,0.3101
+FB001556,Ann Taylor,Outerwear,Winter,80.04,0.0,13,2.3,0,0.1327
+FB001557,Gap,Bottoms,Fall,68.16,0.0,34,2.7,0,0.1652
+FB001558,Ann Taylor,Dresses,Fall,60.87,0.0,35,,0,0.141
+FB001559,H&M,Tops,Spring,59.8,0.0,50,2.2,1,0.152
+FB001560,Gap,Accessories,Fall,75.83,0.0,8,2.0,0,0.0933
+FB001561,H&M,Tops,Summer,55.97,0.0,30,,0,0.2582
+FB001562,Gap,Shoes,Winter,104.4,45.2,2,1.1,0,0.1318
+FB001563,Zara,Bottoms,Summer,80.0,10.3,4,,0,0.18
+FB001564,Banana Republic,Shoes,Summer,72.51,8.9,16,4.6,1,0.1645
+FB001565,Mango,Bottoms,Spring,84.8,0.0,46,4.6,0,0.1194
+FB001566,Forever21,Bottoms,Fall,69.21,0.0,41,,0,0.0873
+FB001567,Banana Republic,Outerwear,Spring,229.17,0.0,37,2.0,0,0.1198
+FB001568,Banana Republic,Dresses,Winter,103.9,0.0,40,4.4,0,0.1405
+FB001569,Zara,Outerwear,Spring,228.46,0.0,7,2.5,1,0.0787
+FB001570,Zara,Accessories,Summer,31.4,29.2,20,4.9,0,0.2069
+FB001571,Uniqlo,Bottoms,Spring,13.03,54.7,2,4.4,1,0.1995
+FB001572,Mango,Outerwear,Spring,100.39,36.6,11,4.5,0,0.1175
+FB001573,Zara,Accessories,Spring,34.36,12.0,0,3.1,0,0.0911
+FB001574,Ann Taylor,Tops,Spring,46.06,12.2,39,2.3,0,0.1509
+FB001575,Gap,Bottoms,Spring,46.12,34.4,28,3.1,0,0.1916
+FB001576,Forever21,Outerwear,Summer,123.27,0.0,13,2.8,0,0.0909
+FB001577,Mango,Outerwear,Summer,180.21,16.5,9,2.4,0,0.1331
+FB001578,Gap,Outerwear,Summer,82.33,0.7,24,,1,0.3878
+FB001579,Gap,Tops,Winter,33.46,0.0,36,3.6,0,0.162
+FB001580,Banana Republic,Bottoms,Spring,17.15,53.9,48,3.8,0,0.2033
+FB001581,Mango,Bottoms,Winter,39.28,48.9,5,1.2,0,0.1752
+FB001582,H&M,Outerwear,Winter,208.57,0.0,24,3.6,0,0.1132
+FB001583,Gap,Dresses,Spring,110.89,15.8,49,1.4,1,0.3339
+FB001584,Mango,Bottoms,Summer,117.21,0.0,14,3.2,0,0.1671
+FB001585,Mango,Accessories,Summer,11.78,48.8,13,3.6,0,0.2209
+FB001586,Forever21,Accessories,Summer,47.6,0.0,24,4.4,1,0.2307
+FB001587,Zara,Bottoms,Fall,20.46,38.4,11,2.9,0,0.1203
+FB001588,Uniqlo,Accessories,Winter,61.48,6.8,41,4.3,0,0.1482
+FB001589,H&M,Tops,Spring,33.55,29.0,38,5.0,0,0.1513
+FB001590,Forever21,Tops,Spring,93.74,0.0,39,4.0,0,0.1039
+FB001591,Forever21,Bottoms,Summer,31.57,0.0,2,,0,0.158
+FB001592,Banana Republic,Bottoms,Winter,64.21,0.0,3,2.8,0,0.1627
+FB001593,Banana Republic,Accessories,Winter,51.58,8.1,12,3.8,0,0.1578
+FB001594,Uniqlo,Tops,Summer,70.89,0.0,14,4.7,1,0.2608
+FB001595,Banana Republic,Shoes,Winter,149.65,0.0,26,3.8,0,0.1219
+FB001596,Zara,Shoes,Spring,83.17,0.0,48,3.2,0,0.1227
+FB001597,H&M,Outerwear,Fall,121.56,0.0,18,3.3,0,0.1143
+FB001598,Zara,Bottoms,Winter,48.62,0.0,3,,1,0.1676
+FB001599,Ann Taylor,Dresses,Winter,79.04,0.0,4,4.1,0,0.1419
+FB001600,Mango,Outerwear,Spring,198.58,0.0,46,,0,0.1206
+FB001601,Banana Republic,Outerwear,Summer,109.82,0.0,32,2.3,0,0.1772
+FB001602,Banana Republic,Accessories,Summer,17.38,49.5,26,2.2,0,0.3576
+FB001603,Zara,Shoes,Winter,112.1,0.0,5,2.0,1,0.1152
+FB001604,Gap,Bottoms,Fall,25.07,0.0,9,2.5,0,0.1159
+FB001605,Uniqlo,Dresses,Spring,170.38,0.0,23,4.3,0,0.1457
+FB001606,Mango,Dresses,Winter,77.32,0.0,30,2.2,1,0.2605
+FB001607,Mango,Shoes,Winter,111.88,0.0,17,4.6,0,0.2106
+FB001608,Forever21,Accessories,Fall,24.71,0.0,37,,0,0.1625
+FB001609,Uniqlo,Tops,Spring,61.42,0.0,41,3.5,0,0.1246
+FB001610,Gap,Accessories,Fall,56.06,7.3,46,3.6,0,0.1299
+FB001611,Mango,Accessories,Fall,33.12,5.2,18,,0,0.0985
+FB001612,Banana Republic,Bottoms,Spring,30.51,0.0,17,1.2,0,0.1955
+FB001613,Banana Republic,Dresses,Winter,39.13,40.3,27,1.2,0,0.1874
+FB001614,Forever21,Shoes,Summer,64.96,43.2,16,1.4,0,0.1219
+FB001615,Mango,Dresses,Spring,145.8,0.0,13,4.0,0,0.1065
+FB001616,Zara,Shoes,Summer,67.88,44.1,2,4.4,0,0.1099
+FB001617,Forever21,Shoes,Summer,94.49,0.0,30,1.5,0,0.1214
+FB001618,Forever21,Outerwear,Fall,218.64,0.0,5,,0,0.0642
+FB001619,Uniqlo,Outerwear,Fall,70.84,11.9,35,1.5,0,0.1487
+FB001620,Gap,Shoes,Winter,183.3,0.0,7,2.0,0,0.0947
+FB001621,Uniqlo,Outerwear,Fall,241.81,0.0,38,3.5,0,0.0947
+FB001622,Mango,Outerwear,Spring,154.12,28.8,43,1.3,0,0.1868
+FB001623,Uniqlo,Dresses,Spring,29.26,53.6,4,1.5,1,0.2533
+FB001624,Banana Republic,Accessories,Spring,44.7,0.0,29,3.2,0,0.2046
+FB001625,Zara,Tops,Fall,16.85,40.3,21,2.7,0,0.178
+FB001626,Ann Taylor,Shoes,Fall,95.92,27.3,6,2.8,1,0.1582
+FB001627,Forever21,Outerwear,Fall,115.29,30.9,14,4.2,1,0.261
+FB001628,Banana Republic,Tops,Winter,27.35,30.9,17,2.5,0,0.0979
+FB001629,Uniqlo,Outerwear,Summer,37.61,58.0,21,2.6,0,0.1054
+FB001630,Mango,Outerwear,Fall,138.55,0.0,25,2.0,0,0.0724
+FB001631,Uniqlo,Accessories,Fall,43.84,0.0,28,2.8,0,0.1214
+FB001632,Forever21,Tops,Fall,52.38,17.8,45,2.4,0,0.1131
+FB001633,Zara,Accessories,Spring,74.61,0.0,38,2.8,0,0.1656
+FB001634,Uniqlo,Shoes,Spring,132.08,10.9,44,1.3,0,0.0935
+FB001635,Gap,Tops,Spring,93.46,0.0,20,2.2,0,0.1113
+FB001636,Uniqlo,Outerwear,Summer,137.13,44.1,44,,0,0.1914
+FB001637,Banana Republic,Tops,Spring,23.47,45.9,47,3.7,1,0.3281
+FB001638,Ann Taylor,Accessories,Fall,21.82,45.5,50,2.2,0,0.2814
+FB001639,H&M,Outerwear,Fall,202.13,3.6,18,4.1,0,0.0742
+FB001640,Mango,Accessories,Winter,38.08,0.0,0,1.6,0,0.1305
+FB001641,Ann Taylor,Outerwear,Spring,123.04,0.0,13,1.2,0,0.1076
+FB001642,Uniqlo,Accessories,Summer,39.94,0.0,32,3.1,0,0.2497
+FB001643,H&M,Dresses,Summer,80.19,0.0,43,3.8,0,0.2184
+FB001644,Uniqlo,Tops,Spring,31.49,10.1,5,3.8,0,0.0637
+FB001645,H&M,Tops,Summer,19.62,29.0,19,1.0,0,0.157
+FB001646,Mango,Outerwear,Spring,187.63,0.0,25,1.8,0,0.1109
+FB001647,H&M,Outerwear,Winter,126.33,34.6,26,,0,0.1098
+FB001648,Banana Republic,Shoes,Spring,94.35,40.2,23,3.1,0,0.1385
+FB001649,Zara,Shoes,Winter,109.85,7.8,20,3.1,0,0.177
+FB001650,Forever21,Dresses,Winter,142.88,4.8,24,1.7,0,0.1163
+FB001651,Uniqlo,Dresses,Summer,153.18,0.0,26,1.1,0,0.1313
+FB001652,Banana Republic,Tops,Winter,62.07,47.7,11,2.8,0,0.0991
+FB001653,H&M,Accessories,Spring,50.12,0.0,27,2.4,0,0.1481
+FB001654,Gap,Dresses,Spring,37.94,59.5,21,,0,0.0602
+FB001655,Uniqlo,Tops,Summer,50.49,0.0,30,4.1,0,0.2218
+FB001656,Mango,Shoes,Summer,97.9,0.0,29,1.3,0,0.1117
+FB001657,Uniqlo,Tops,Summer,69.0,0.0,32,4.5,0,0.2601
+FB001658,Mango,Accessories,Fall,22.02,27.1,15,,0,0.1327
+FB001659,Banana Republic,Tops,Winter,34.73,59.1,42,,0,0.1283
+FB001660,Forever21,Tops,Fall,116.48,0.0,3,1.5,0,0.0536
+FB001661,H&M,Tops,Summer,40.68,0.0,41,1.1,1,0.1799
+FB001662,Ann Taylor,Outerwear,Summer,118.92,0.0,36,1.8,1,0.3075
+FB001663,Ann Taylor,Bottoms,Summer,26.86,0.0,18,3.2,0,0.2361
+FB001664,Banana Republic,Dresses,Fall,113.34,0.0,13,,0,0.0709
+FB001665,Gap,Tops,Summer,36.91,8.9,13,2.5,0,0.1217
+FB001666,Forever21,Bottoms,Summer,98.41,0.0,7,4.6,0,0.1063
+FB001667,Forever21,Bottoms,Winter,83.18,0.0,17,1.7,1,0.2551
+FB001668,H&M,Shoes,Spring,136.1,24.1,0,3.1,0,0.0544
+FB001669,Zara,Tops,Spring,47.88,0.0,44,1.9,0,0.1564
+FB001670,Mango,Outerwear,Winter,89.26,0.0,43,3.8,0,0.1381
+FB001671,Gap,Dresses,Summer,114.2,0.0,15,,0,0.1776
+FB001672,Gap,Shoes,Summer,68.31,59.7,16,1.8,0,0.1197
+FB001673,H&M,Tops,Fall,77.99,0.0,42,,0,0.0582
+FB001674,Ann Taylor,Bottoms,Fall,103.77,0.0,12,4.4,0,0.1105
+FB001675,Forever21,Accessories,Fall,42.96,0.0,36,1.1,0,0.1259
+FB001676,Banana Republic,Dresses,Fall,126.11,0.0,16,3.5,0,0.0958
+FB001677,Banana Republic,Accessories,Summer,43.83,0.0,31,2.5,0,0.2476
+FB001678,Banana Republic,Shoes,Fall,94.1,0.0,24,1.4,0,0.0789
+FB001679,Zara,Shoes,Fall,151.27,0.0,39,4.0,1,0.1101
+FB001680,Gap,Accessories,Spring,61.47,0.0,44,,0,0.2086
+FB001681,Mango,Shoes,Summer,185.96,0.0,35,1.3,0,0.1046
+FB001682,Gap,Dresses,Fall,113.05,0.0,47,2.0,0,0.1621
+FB001683,Banana Republic,Tops,Summer,72.42,34.7,2,2.5,0,0.1359
+FB001684,Uniqlo,Tops,Summer,29.04,0.0,4,5.0,0,0.1167
+FB001685,Forever21,Shoes,Spring,79.77,51.5,27,3.4,0,0.1774
+FB001686,Banana Republic,Bottoms,Winter,26.57,49.4,37,3.5,1,0.1467
+FB001687,Ann Taylor,Dresses,Winter,100.35,42.9,48,,1,0.3279
+FB001688,Ann Taylor,Tops,Spring,41.37,27.5,43,1.8,0,0.1517
+FB001689,Ann Taylor,Dresses,Winter,158.24,0.0,41,3.1,0,0.1342
+FB001690,Mango,Outerwear,Fall,153.46,0.0,27,1.7,0,0.0817
+FB001691,Zara,Accessories,Spring,54.92,0.0,44,3.1,0,0.1105
+FB001692,Uniqlo,Accessories,Spring,26.02,19.2,8,4.3,0,0.0972
+FB001693,Mango,Accessories,Fall,47.14,29.1,37,1.3,0,0.169
+FB001694,Mango,Accessories,Winter,16.41,50.2,46,,0,0.1849
+FB001695,H&M,Accessories,Fall,43.88,19.2,19,1.8,0,0.1228
+FB001696,Banana Republic,Accessories,Summer,19.68,0.0,29,1.5,1,0.2255
+FB001697,Zara,Tops,Spring,79.63,24.3,47,5.0,0,0.1356
+FB001698,Banana Republic,Accessories,Summer,16.32,19.6,47,2.9,1,0.2683
+FB001699,Mango,Bottoms,Summer,84.72,19.6,39,4.3,0,0.1608
+FB001700,Ann Taylor,Dresses,Winter,156.24,0.0,15,5.0,0,0.1178
+FB001701,Mango,Shoes,Winter,152.95,5.7,39,1.4,0,0.0931
+FB001702,H&M,Tops,Spring,70.41,7.1,13,3.3,0,0.1038
+FB001703,Forever21,Accessories,Summer,32.04,0.0,41,1.8,0,0.1777
+FB001704,Gap,Tops,Fall,18.86,31.8,2,3.7,1,0.1036
+FB001705,Banana Republic,Bottoms,Spring,31.54,0.0,45,1.3,0,0.1435
+FB001706,Zara,Bottoms,Summer,47.28,39.1,19,2.6,0,0.1426
+FB001707,H&M,Dresses,Winter,51.48,0.0,10,1.0,0,0.1417
+FB001708,Zara,Outerwear,Fall,108.58,0.0,44,2.4,0,0.0858
+FB001709,Forever21,Tops,Winter,84.17,0.0,20,3.7,0,0.1047
+FB001710,Mango,Bottoms,Spring,76.45,0.0,16,1.0,1,0.2876
+FB001711,Uniqlo,Accessories,Spring,50.31,0.0,36,,0,0.1381
+FB001712,Gap,Tops,Spring,43.45,0.0,30,2.3,0,0.1664
+FB001713,Uniqlo,Dresses,Fall,68.79,53.9,41,2.2,0,0.1169
+FB001714,Gap,Bottoms,Summer,32.95,31.7,46,3.7,0,0.2766
+FB001715,H&M,Bottoms,Summer,51.89,21.7,28,2.5,1,0.4077
+FB001716,H&M,Shoes,Fall,82.65,0.0,30,4.1,0,0.1548
+FB001717,Ann Taylor,Bottoms,Winter,42.36,0.0,37,1.4,0,0.2353
+FB001718,Ann Taylor,Bottoms,Summer,109.36,0.0,24,1.7,0,0.2324
+FB001719,Ann Taylor,Accessories,Winter,59.98,0.0,28,2.2,0,0.175
+FB001720,Gap,Dresses,Spring,111.81,0.0,45,1.1,0,0.2113
+FB001721,Banana Republic,Bottoms,Winter,70.78,0.0,39,3.4,1,0.2182
+FB001722,Mango,Accessories,Winter,31.59,58.5,40,1.6,0,0.1249
+FB001723,Banana Republic,Bottoms,Fall,41.59,41.5,20,3.1,0,0.1264
+FB001724,Mango,Bottoms,Fall,23.66,55.9,10,2.5,0,0.1188
+FB001725,Ann Taylor,Shoes,Fall,44.41,59.7,13,3.5,1,0.1159
+FB001726,Uniqlo,Shoes,Summer,66.6,17.4,6,,1,0.3048
+FB001727,Mango,Dresses,Spring,76.02,24.8,7,4.5,1,0.1436
+FB001728,Zara,Accessories,Spring,75.48,0.0,16,1.4,0,0.1298
+FB001729,Banana Republic,Shoes,Summer,149.71,6.4,39,3.0,0,0.0961
+FB001730,Gap,Dresses,Summer,61.9,0.0,29,4.4,0,0.2164
+FB001731,Banana Republic,Tops,Fall,55.65,12.3,23,4.9,0,0.0772
+FB001732,Mango,Tops,Summer,23.04,46.7,29,1.3,0,0.2342
+FB001733,Banana Republic,Shoes,Winter,47.32,26.8,28,4.7,0,0.1522
+FB001734,Uniqlo,Shoes,Spring,52.21,56.0,27,3.5,0,0.0804
+FB001735,Banana Republic,Dresses,Spring,169.32,0.0,19,2.2,0,0.1681
+FB001736,Ann Taylor,Shoes,Spring,115.77,0.0,43,,0,0.2193
+FB001737,Mango,Shoes,Fall,139.91,0.0,9,3.7,0,0.0434
+FB001738,Banana Republic,Bottoms,Summer,101.73,0.0,14,4.7,0,0.1578
+FB001739,Forever21,Tops,Summer,105.85,0.0,29,2.1,0,0.1511
+FB001740,Gap,Tops,Spring,105.37,0.0,24,1.2,0,0.1304
+FB001741,H&M,Tops,Summer,44.42,0.0,49,,0,0.1999
+FB001742,Uniqlo,Shoes,Spring,141.29,14.3,7,2.3,0,0.0635
+FB001743,Mango,Shoes,Fall,154.21,5.9,39,2.6,0,0.1045
+FB001744,Zara,Bottoms,Fall,34.6,5.3,13,2.5,0,0.1172
+FB001745,Banana Republic,Dresses,Spring,99.97,0.0,38,1.4,0,0.1847
+FB001746,Ann Taylor,Outerwear,Summer,194.78,0.0,31,,0,0.1953
+FB001747,Uniqlo,Outerwear,Fall,208.93,0.0,12,2.3,0,0.0442
+FB001748,Ann Taylor,Bottoms,Spring,34.23,50.0,24,1.9,0,0.1812
+FB001749,Banana Republic,Accessories,Winter,15.13,50.0,23,1.4,0,0.2265
+FB001750,Mango,Outerwear,Summer,128.98,30.9,7,1.0,0,0.1418
+FB001751,Zara,Tops,Winter,40.51,48.1,36,2.9,1,0.1882
+FB001752,Uniqlo,Tops,Spring,104.75,0.0,11,,0,0.047
+FB001753,Uniqlo,Shoes,Summer,121.33,0.0,30,4.2,0,0.1344
+FB001754,Mango,Dresses,Fall,78.09,0.0,6,2.0,0,0.0941
+FB001755,Uniqlo,Tops,Fall,109.19,0.0,47,4.5,0,0.1221
+FB001756,Ann Taylor,Shoes,Winter,126.74,0.0,2,2.9,0,0.0967
+FB001757,H&M,Shoes,Spring,95.85,0.0,45,5.0,0,0.1009
+FB001758,Mango,Outerwear,Summer,213.98,0.0,38,,0,0.1004
+FB001759,Forever21,Shoes,Spring,87.74,40.0,17,2.6,1,0.2493
+FB001760,Mango,Bottoms,Winter,96.96,16.1,32,3.1,1,0.1762
+FB001761,Banana Republic,Accessories,Spring,66.62,0.0,37,,0,0.1292
+FB001762,Banana Republic,Dresses,Spring,46.42,23.1,30,4.8,0,0.1246
+FB001763,H&M,Shoes,Winter,35.69,57.1,10,3.3,0,0.0667
+FB001764,Uniqlo,Outerwear,Summer,197.11,3.6,26,,0,0.1153
+FB001765,Mango,Accessories,Fall,52.73,0.0,42,,0,0.0978
+FB001766,Forever21,Bottoms,Fall,61.1,0.0,30,4.6,0,0.1043
+FB001767,Zara,Outerwear,Summer,227.92,0.0,34,,0,0.1846
+FB001768,H&M,Dresses,Fall,111.55,0.0,14,,0,0.1143
+FB001769,Forever21,Bottoms,Fall,20.48,29.6,25,4.8,0,0.1976
+FB001770,H&M,Dresses,Fall,179.71,0.0,9,3.9,0,0.0604
+FB001771,H&M,Accessories,Summer,31.97,39.4,0,1.4,0,0.1845
+FB001772,Uniqlo,Accessories,Spring,67.9,0.0,1,1.3,0,0.1171
+FB001773,Uniqlo,Accessories,Fall,27.69,40.8,25,2.6,0,0.2033
+FB001774,Uniqlo,Tops,Winter,91.6,0.0,6,2.7,0,0.0947
+FB001775,Uniqlo,Outerwear,Spring,220.71,4.2,34,3.5,0,0.0859
+FB001776,Ann Taylor,Outerwear,Fall,118.37,0.0,45,,0,0.1295
+FB001777,Gap,Shoes,Winter,54.69,32.7,2,3.3,0,0.1348
+FB001778,H&M,Accessories,Fall,46.91,18.0,7,2.5,0,0.1216
+FB001779,Forever21,Dresses,Summer,74.53,0.0,9,,0,0.1175
+FB001780,Banana Republic,Dresses,Summer,69.54,0.0,40,3.2,1,0.3381
+FB001781,Ann Taylor,Dresses,Summer,45.3,55.9,31,4.6,0,0.1454
+FB001782,Gap,Shoes,Summer,117.82,0.0,7,4.9,0,0.1622
+FB001783,Gap,Accessories,Spring,61.01,0.0,30,3.4,0,0.1653
+FB001784,Forever21,Outerwear,Winter,222.01,0.0,27,2.1,0,0.151
+FB001785,H&M,Outerwear,Summer,123.55,0.0,28,1.2,0,0.1486
+FB001786,Zara,Accessories,Fall,24.65,0.0,43,1.1,0,0.1483
+FB001787,Banana Republic,Outerwear,Fall,168.8,0.0,1,1.0,0,0.1075
+FB001788,Gap,Tops,Fall,23.46,40.1,4,2.8,0,0.1465
+FB001789,H&M,Bottoms,Fall,74.76,0.0,50,4.4,1,0.1061
+FB001790,Gap,Accessories,Winter,37.0,0.0,5,4.9,0,0.1645
+FB001791,Mango,Accessories,Winter,67.38,0.0,15,1.6,0,0.1691
+FB001792,H&M,Bottoms,Summer,76.36,1.4,18,3.3,0,0.1689
+FB001793,H&M,Outerwear,Summer,215.06,0.0,50,1.6,0,0.1925
+FB001794,Banana Republic,Outerwear,Winter,141.44,0.0,34,2.4,0,0.156
+FB001795,Ann Taylor,Dresses,Spring,151.83,0.0,24,4.3,1,0.2605
+FB001796,Gap,Outerwear,Winter,140.07,0.0,23,2.7,0,0.1312
+FB001797,Mango,Dresses,Summer,67.02,28.9,44,3.6,0,0.0986
+FB001798,Ann Taylor,Accessories,Winter,40.56,27.3,39,4.9,0,0.2271
+FB001799,Gap,Accessories,Winter,58.99,0.0,50,2.7,0,0.1856
+FB001800,Forever21,Bottoms,Summer,61.96,0.0,13,3.9,0,0.1105
+FB001801,Zara,Bottoms,Fall,104.25,0.0,35,3.1,0,0.0663
+FB001802,H&M,Outerwear,Winter,102.68,0.0,18,1.9,0,0.141
+FB001803,Gap,Dresses,Winter,88.33,32.6,9,,0,0.1003
+FB001804,Banana Republic,Outerwear,Spring,63.86,54.3,38,,1,0.3085
+FB001805,Forever21,Accessories,Winter,17.59,0.0,14,,0,0.173
+FB001806,Zara,Shoes,Fall,115.09,0.0,10,2.5,0,0.0949
+FB001807,Zara,Accessories,Summer,73.75,0.0,23,4.5,0,0.2055
+FB001808,Ann Taylor,Accessories,Winter,66.77,0.0,28,5.0,1,0.1938
+FB001809,H&M,Tops,Fall,63.92,0.0,10,4.4,0,0.0539
+FB001810,H&M,Accessories,Fall,26.26,0.0,27,,0,0.1873
+FB001811,H&M,Accessories,Spring,57.07,8.8,1,1.7,0,0.0712
+FB001812,Banana Republic,Shoes,Summer,143.88,0.0,1,3.1,0,0.1162
+FB001813,Zara,Outerwear,Spring,223.53,1.2,24,4.5,0,0.107
+FB001814,Gap,Shoes,Spring,164.75,0.0,8,3.7,0,0.0859
+FB001815,Zara,Bottoms,Summer,56.14,0.0,16,4.3,0,0.1971
+FB001816,H&M,Accessories,Winter,39.96,0.0,49,,0,0.1979
+FB001817,Ann Taylor,Bottoms,Summer,11.16,57.9,8,1.7,0,0.2114
+FB001818,H&M,Shoes,Spring,53.34,55.0,2,4.9,0,0.0681
+FB001819,Mango,Dresses,Summer,58.08,0.0,42,1.6,0,0.1507
+FB001820,H&M,Shoes,Summer,118.02,15.0,17,,0,0.0988
+FB001821,Banana Republic,Bottoms,Summer,73.33,0.0,3,3.1,1,0.3336
+FB001822,Forever21,Outerwear,Winter,167.73,0.0,4,4.9,0,0.0599
+FB001823,H&M,Tops,Winter,79.47,0.0,31,3.7,0,0.1258
+FB001824,Forever21,Dresses,Summer,34.97,49.4,45,2.3,0,0.1332
+FB001825,Mango,Bottoms,Summer,52.42,6.7,35,2.6,1,0.3597
+FB001826,Gap,Tops,Winter,26.51,48.3,9,1.1,1,0.1218
+FB001827,Gap,Outerwear,Spring,92.96,16.8,41,1.2,0,0.2334
+FB001828,Ann Taylor,Bottoms,Fall,39.31,19.9,46,1.0,1,0.3523
+FB001829,Forever21,Shoes,Winter,133.02,27.1,40,,0,0.1247
+FB001830,Forever21,Outerwear,Summer,226.99,5.9,13,1.2,0,0.159
+FB001831,Ann Taylor,Dresses,Spring,78.3,0.0,19,3.0,0,0.1507
+FB001832,Banana Republic,Shoes,Winter,73.93,0.0,0,,0,0.0972
+FB001833,H&M,Bottoms,Summer,97.5,0.0,43,1.6,0,0.1065
+FB001834,Ann Taylor,Tops,Summer,38.9,0.0,1,5.0,0,0.162
+FB001835,Banana Republic,Shoes,Summer,95.52,0.0,47,3.9,0,0.096
+FB001836,Zara,Outerwear,Fall,79.0,50.2,7,3.0,1,0.2975
+FB001837,Mango,Tops,Fall,26.11,0.0,41,4.3,0,0.1051
+FB001838,Forever21,Shoes,Spring,60.93,43.1,16,4.7,1,0.1242
+FB001839,Gap,Accessories,Summer,44.28,38.0,49,2.8,0,0.2027
+FB001840,Zara,Shoes,Summer,124.56,0.0,18,3.0,0,0.1415
+FB001841,Uniqlo,Bottoms,Summer,30.91,0.0,45,1.8,0,0.168
+FB001842,Zara,Tops,Winter,53.37,0.0,15,1.1,0,0.1254
+FB001843,Gap,Shoes,Summer,159.16,0.0,40,,1,0.2977
+FB001844,Mango,Dresses,Fall,169.64,0.0,5,1.6,0,0.0646
+FB001845,Gap,Accessories,Summer,59.94,0.0,7,4.0,0,0.1962
+FB001846,Gap,Dresses,Fall,92.59,0.0,29,3.5,1,0.2677
+FB001847,H&M,Bottoms,Spring,64.07,0.0,10,,0,0.1052
+FB001848,Forever21,Dresses,Fall,58.05,54.6,14,4.4,0,0.0994
+FB001849,Banana Republic,Bottoms,Fall,28.27,12.9,9,,0,0.1129
+FB001850,H&M,Bottoms,Summer,22.98,43.0,30,3.5,1,0.3891
+FB001851,Ann Taylor,Accessories,Winter,48.17,6.1,31,,0,0.2026
+FB001852,Gap,Bottoms,Winter,28.62,0.0,41,4.0,0,0.2072
+FB001853,Gap,Accessories,Fall,55.25,6.4,45,,0,0.1618
+FB001854,Ann Taylor,Tops,Summer,92.28,7.4,31,3.8,0,0.1811
+FB001855,Forever21,Dresses,Winter,128.55,0.0,1,3.7,0,0.0751
+FB001856,Mango,Bottoms,Spring,34.13,56.3,20,1.3,0,0.1797
+FB001857,Mango,Bottoms,Summer,108.89,0.0,50,2.9,0,0.0981
+FB001858,Ann Taylor,Bottoms,Spring,30.03,14.7,15,3.1,1,0.2074
+FB001859,Gap,Dresses,Summer,85.25,34.0,24,1.7,0,0.0882
+FB001860,Ann Taylor,Dresses,Summer,142.43,0.0,15,4.1,1,0.2984
+FB001861,Forever21,Accessories,Spring,45.19,0.0,38,1.6,1,0.1432
+FB001862,H&M,Bottoms,Fall,47.66,0.0,0,4.8,1,0.249
+FB001863,Uniqlo,Bottoms,Summer,69.03,40.0,48,3.1,0,0.1354
+FB001864,Banana Republic,Bottoms,Summer,87.84,0.0,29,1.3,0,0.1977
+FB001865,Forever21,Dresses,Fall,47.72,35.0,44,,0,0.1711
+FB001866,Gap,Shoes,Fall,142.36,21.6,14,4.7,0,0.1666
+FB001867,H&M,Tops,Spring,71.68,0.0,0,1.5,0,0.0716
+FB001868,Banana Republic,Tops,Winter,25.63,0.0,27,1.2,0,0.1692
+FB001869,Forever21,Tops,Winter,16.14,48.5,36,1.6,1,0.1769
+FB001870,H&M,Dresses,Fall,65.48,33.8,33,,1,0.2983
+FB001871,Zara,Accessories,Winter,39.95,7.8,4,1.3,0,0.1335
+FB001872,Gap,Shoes,Summer,70.71,0.0,8,2.3,0,0.16
+FB001873,H&M,Outerwear,Winter,133.7,38.1,14,3.9,0,0.1484
+FB001874,Banana Republic,Dresses,Winter,138.15,5.1,8,4.4,0,0.1106
+FB001875,Banana Republic,Shoes,Fall,195.03,0.0,44,4.4,0,0.1041
+FB001876,Ann Taylor,Bottoms,Winter,67.62,9.7,23,2.6,0,0.193
+FB001877,Gap,Tops,Spring,50.3,0.0,23,1.3,0,0.1971
+FB001878,Ann Taylor,Outerwear,Summer,130.65,0.0,20,2.6,0,0.1852
+FB001879,Forever21,Dresses,Spring,56.45,40.3,41,4.7,0,0.1087
+FB001880,Uniqlo,Outerwear,Spring,124.8,10.2,36,1.4,0,0.0908
+FB001881,H&M,Accessories,Winter,52.57,0.0,50,2.5,1,0.187
+FB001882,H&M,Outerwear,Spring,151.62,0.0,41,3.5,0,0.105
+FB001883,Uniqlo,Accessories,Spring,26.7,0.0,48,3.1,0,0.1401
+FB001884,Ann Taylor,Outerwear,Summer,147.5,0.0,4,2.4,0,0.1642
+FB001885,Mango,Tops,Fall,64.22,2.7,42,4.4,0,0.0636
+FB001886,Zara,Outerwear,Fall,183.6,0.0,10,,0,0.0574
+FB001887,Uniqlo,Shoes,Summer,195.83,0.0,14,2.1,0,0.1269
+FB001888,Ann Taylor,Bottoms,Winter,31.65,58.1,33,4.0,0,0.1506
+FB001889,Mango,Tops,Spring,30.78,0.0,28,3.9,0,0.0832
+FB001890,Banana Republic,Shoes,Winter,150.96,0.0,18,4.6,0,0.1818
+FB001891,Forever21,Bottoms,Summer,48.3,18.1,23,2.8,0,0.2133
+FB001892,Forever21,Outerwear,Spring,182.4,18.9,50,,0,0.1321
+FB001893,Banana Republic,Outerwear,Spring,155.75,0.0,0,2.4,0,0.0851
+FB001894,H&M,Shoes,Winter,162.91,16.2,36,1.5,0,0.122
+FB001895,Banana Republic,Shoes,Fall,169.77,0.0,39,4.4,0,0.1597
+FB001896,Uniqlo,Accessories,Winter,30.19,27.3,48,3.4,0,0.1406
+FB001897,Uniqlo,Bottoms,Winter,29.5,0.0,36,2.6,0,0.1703
+FB001898,Banana Republic,Outerwear,Spring,218.41,2.7,15,3.5,0,0.095
+FB001899,Forever21,Bottoms,Summer,93.54,7.8,4,1.1,0,0.1944
+FB001900,Banana Republic,Shoes,Spring,84.65,0.0,49,3.6,0,0.2187
+FB001901,Ann Taylor,Outerwear,Summer,155.85,0.0,38,,0,0.156
+FB001902,Zara,Tops,Winter,89.62,0.0,0,4.6,1,0.1153
+FB001903,Gap,Tops,Summer,39.12,37.7,5,2.6,0,0.1634
+FB001904,Gap,Bottoms,Summer,64.22,24.2,44,,1,0.4142
+FB001905,Mango,Tops,Fall,50.9,0.0,1,1.8,0,0.0903
+FB001906,Zara,Accessories,Winter,31.23,0.0,25,2.8,0,0.1703
+FB001907,Zara,Tops,Spring,105.1,0.0,39,4.4,0,0.1267
+FB001908,Forever21,Dresses,Summer,160.38,0.0,27,2.7,1,0.2495
+FB001909,Uniqlo,Bottoms,Spring,71.54,26.0,16,,0,0.1143
+FB001910,Forever21,Accessories,Summer,16.64,0.0,8,4.8,0,0.1524
+FB001911,Ann Taylor,Outerwear,Fall,74.1,53.7,2,3.2,1,0.3378
+FB001912,Mango,Accessories,Fall,23.56,0.0,16,4.4,0,0.1561
+FB001913,Zara,Shoes,Fall,51.82,24.2,8,3.7,0,0.1177
+FB001914,Mango,Outerwear,Fall,184.24,0.0,49,4.0,0,0.0998
+FB001915,Banana Republic,Shoes,Spring,94.83,0.0,23,2.9,0,0.1612
+FB001916,Ann Taylor,Tops,Summer,115.58,0.0,37,2.2,0,0.2542
+FB001917,Zara,Outerwear,Winter,48.03,58.7,34,3.3,0,0.1181
+FB001918,Banana Republic,Accessories,Summer,24.55,0.0,43,2.3,0,0.2242
+FB001919,Zara,Dresses,Spring,81.56,0.0,28,3.0,0,0.1495
+FB001920,Banana Republic,Outerwear,Spring,234.63,0.0,30,4.3,0,0.1522
+FB001921,Zara,Accessories,Fall,27.6,0.0,33,2.8,0,0.1435
+FB001922,Ann Taylor,Tops,Fall,86.87,24.3,10,3.4,0,0.1066
+FB001923,Zara,Shoes,Spring,133.52,0.0,32,,0,0.1011
+FB001924,Banana Republic,Tops,Winter,26.19,59.3,34,1.2,0,0.1006
+FB001925,Forever21,Bottoms,Fall,117.81,0.0,22,4.9,0,0.1233
+FB001926,Ann Taylor,Accessories,Spring,29.19,0.0,20,1.9,0,0.162
+FB001927,Uniqlo,Tops,Fall,34.72,0.0,7,,0,0.0478
+FB001928,Gap,Dresses,Fall,107.49,0.0,49,3.3,0,0.1485
+FB001929,Uniqlo,Bottoms,Winter,38.7,0.0,11,4.0,0,0.158
+FB001930,Ann Taylor,Outerwear,Spring,152.64,0.0,19,4.1,0,0.1307
+FB001931,Mango,Outerwear,Fall,79.2,56.4,43,1.2,0,0.1455
+FB001932,Uniqlo,Tops,Spring,94.82,17.4,4,1.8,0,0.1044
+FB001933,Uniqlo,Shoes,Winter,102.95,0.0,38,3.8,0,0.1482
+FB001934,Forever21,Tops,Winter,86.82,0.0,0,4.8,0,0.0782
+FB001935,H&M,Outerwear,Summer,60.17,28.1,46,,1,0.3681
+FB001936,Banana Republic,Outerwear,Fall,82.48,50.7,9,3.2,0,0.1901
+FB001937,H&M,Bottoms,Fall,108.79,5.1,21,2.0,0,0.1006
+FB001938,H&M,Outerwear,Spring,77.44,29.3,35,1.3,0,0.0977
+FB001939,Ann Taylor,Accessories,Summer,21.48,57.9,36,,0,0.2446
+FB001940,H&M,Shoes,Fall,36.56,52.8,6,2.7,0,0.1778
+FB001941,Ann Taylor,Shoes,Fall,78.01,45.4,20,1.7,0,0.1794
+FB001942,Banana Republic,Outerwear,Winter,138.87,0.0,37,3.2,0,0.1377
+FB001943,Ann Taylor,Shoes,Spring,132.82,0.0,40,,1,0.281
+FB001944,H&M,Shoes,Summer,110.54,0.0,24,,1,0.1444
+FB001945,Zara,Bottoms,Summer,29.07,0.0,41,2.8,0,0.1599
+FB001946,Gap,Outerwear,Summer,141.92,0.0,37,1.7,0,0.1933
+FB001947,Banana Republic,Shoes,Summer,67.84,0.0,24,1.2,0,0.2349
+FB001948,Mango,Shoes,Winter,143.27,0.0,0,,0,0.0622
+FB001949,Banana Republic,Accessories,Winter,20.97,0.0,44,4.6,0,0.1744
+FB001950,Zara,Dresses,Summer,42.41,59.8,34,,0,0.0505
+FB001951,Banana Republic,Shoes,Spring,184.7,0.0,39,2.1,1,0.2797
+FB001952,H&M,Shoes,Spring,55.4,32.0,2,1.1,0,0.0722
+FB001953,Banana Republic,Outerwear,Winter,85.81,20.3,16,4.3,0,0.1604
+FB001954,Banana Republic,Tops,Summer,88.64,0.0,33,,0,0.197
+FB001955,Zara,Accessories,Winter,14.98,14.4,16,3.1,0,0.1811
+FB001956,H&M,Outerwear,Winter,205.37,0.0,25,2.0,1,0.2395
+FB001957,Mango,Dresses,Winter,111.66,0.0,26,1.4,0,0.1483
+FB001958,Mango,Shoes,Summer,80.6,56.4,10,3.7,0,0.0809
+FB001959,Zara,Bottoms,Spring,84.58,0.0,33,4.5,0,0.1805
+FB001960,Forever21,Bottoms,Summer,66.74,0.0,26,4.6,0,0.1489
+FB001961,H&M,Shoes,Summer,104.19,0.0,4,4.7,0,0.086
+FB001962,Uniqlo,Outerwear,Summer,216.73,0.0,5,2.7,1,0.2444
+FB001963,Mango,Dresses,Summer,87.82,0.0,24,4.2,0,0.1507
+FB001964,Zara,Shoes,Summer,81.59,0.0,5,2.5,0,0.1274
+FB001965,Gap,Outerwear,Summer,62.59,32.8,45,4.5,0,0.1639
+FB001966,Gap,Bottoms,Spring,96.73,0.0,18,4.8,0,0.1406
+FB001967,Forever21,Accessories,Winter,19.34,0.0,19,,0,0.1786
+FB001968,Zara,Shoes,Spring,78.46,31.1,22,3.1,0,0.1059
+FB001969,Zara,Dresses,Spring,90.32,0.0,41,2.8,0,0.1369
+FB001970,Banana Republic,Tops,Summer,38.12,0.0,44,,0,0.2488
+FB001971,Banana Republic,Shoes,Summer,175.31,0.0,13,,0,0.0842
+FB001972,Zara,Dresses,Spring,171.92,0.0,12,1.3,0,0.0829
+FB001973,Gap,Accessories,Summer,35.6,0.0,24,3.1,0,0.2626
+FB001974,H&M,Bottoms,Summer,81.7,0.0,33,,1,0.2795
+FB001975,Banana Republic,Bottoms,Summer,29.7,0.0,16,2.7,0,0.1798
+FB001976,Mango,Outerwear,Winter,239.65,0.0,27,2.9,0,0.1366
+FB001977,H&M,Tops,Fall,90.41,0.0,11,,0,0.0488
+FB001978,Ann Taylor,Dresses,Winter,73.6,10.0,24,1.2,0,0.206
+FB001979,Forever21,Outerwear,Winter,142.55,0.0,21,4.5,0,0.1258
+FB001980,Gap,Dresses,Fall,53.13,0.0,5,4.6,0,0.1239
+FB001981,Forever21,Bottoms,Summer,80.81,0.0,15,4.6,0,0.1629
+FB001982,Uniqlo,Tops,Fall,89.39,0.0,33,4.2,0,0.1392
+FB001983,Mango,Bottoms,Summer,23.54,37.9,34,1.3,0,0.2198
+FB001984,Mango,Accessories,Spring,44.49,0.0,34,2.1,0,0.1442
+FB001985,Mango,Tops,Summer,111.7,0.0,2,,1,0.1433
+FB001986,H&M,Tops,Spring,109.76,0.0,23,2.0,1,0.2264
+FB001987,Uniqlo,Accessories,Fall,33.0,0.0,50,4.0,0,0.1408
+FB001988,Ann Taylor,Shoes,Winter,137.24,8.9,43,3.4,0,0.0939
+FB001989,Zara,Bottoms,Fall,53.74,19.0,42,1.9,0,0.1848
+FB001990,Gap,Bottoms,Spring,23.04,17.4,43,2.1,0,0.205
+FB001991,Uniqlo,Accessories,Summer,60.18,0.0,36,1.4,0,0.2769
+FB001992,Zara,Tops,Fall,44.28,18.4,29,2.6,0,0.1325
+FB001993,Uniqlo,Shoes,Spring,78.44,0.0,42,,1,0.2575
+FB001994,H&M,Outerwear,Fall,183.05,0.0,4,4.6,0,0.0694
+FB001995,Uniqlo,Shoes,Spring,76.3,0.0,35,2.6,0,0.1495
+FB001996,Zara,Tops,Spring,84.21,0.0,43,3.4,0,0.1003
+FB001997,Ann Taylor,Accessories,Spring,77.34,0.0,27,,0,0.2153
+FB001998,Zara,Dresses,Spring,67.06,45.4,9,3.1,0,0.0747
+FB001999,Mango,Dresses,Winter,103.85,0.0,26,3.1,0,0.1276
+FB002000,H&M,Bottoms,Fall,69.11,41.3,8,,0,0.082
+FB002001,Forever21,Dresses,Fall,115.98,0.0,42,3.7,0,0.0952
+FB002002,Zara,Dresses,Fall,175.43,0.0,3,1.8,1,0.1812
+FB002003,Gap,Outerwear,Spring,162.81,0.0,40,2.1,0,0.2115
+FB002004,Uniqlo,Dresses,Spring,146.68,0.0,8,,0,0.0626
+FB002005,H&M,Dresses,Fall,47.92,42.2,4,2.1,0,0.1447
+FB002006,Zara,Tops,Fall,92.9,0.0,30,,0,0.0868
+FB002007,Banana Republic,Dresses,Winter,126.26,5.7,17,3.4,1,0.2479
+FB002008,Ann Taylor,Dresses,Winter,89.1,0.0,8,2.2,0,0.0951
+FB002009,Banana Republic,Outerwear,Winter,170.0,3.2,46,,0,0.1475
+FB002010,H&M,Dresses,Summer,154.02,0.0,21,3.3,0,0.1223
+FB002011,Zara,Outerwear,Fall,215.1,0.0,16,2.5,0,0.058
+FB002012,Ann Taylor,Tops,Fall,40.28,0.0,35,3.8,0,0.1188
+FB002013,Forever21,Accessories,Fall,21.07,18.8,1,4.0,0,0.1524
+FB002014,Uniqlo,Accessories,Fall,10.48,50.7,39,4.3,0,0.2082
+FB002015,Zara,Dresses,Spring,146.07,0.0,33,3.7,0,0.1217
+FB002016,Ann Taylor,Dresses,Spring,135.97,0.0,30,1.1,0,0.2405
+FB002017,Zara,Shoes,Spring,78.6,7.4,42,3.4,0,0.1183
+FB002018,H&M,Shoes,Winter,150.49,5.5,8,,0,0.0568
+FB002019,Ann Taylor,Bottoms,Winter,84.29,0.0,4,2.8,0,0.1447
+FB002020,Forever21,Accessories,Winter,38.86,0.0,44,,0,0.1767
+FB002021,Banana Republic,Tops,Summer,38.72,0.0,35,4.0,0,0.1556
+FB002022,Zara,Dresses,Winter,177.1,0.0,49,1.6,0,0.1368
+FB002023,Forever21,Bottoms,Spring,31.49,0.0,28,,0,0.1742
+FB002024,Uniqlo,Tops,Summer,118.14,0.0,33,2.4,0,0.2394
+FB002025,Gap,Tops,Spring,20.15,24.0,1,4.7,0,0.1626
+FB002026,Forever21,Tops,Fall,29.61,0.0,9,1.0,0,0.0742
+FB002027,Ann Taylor,Outerwear,Summer,244.13,0.0,2,3.5,1,0.3754
+FB002028,Gap,Accessories,Spring,16.54,0.0,30,,0,0.2167
+FB002029,Zara,Tops,Fall,100.98,0.0,41,,0,0.0643
+FB002030,Uniqlo,Outerwear,Winter,175.42,0.0,5,3.6,0,0.0971
+FB002031,Ann Taylor,Dresses,Spring,106.12,20.3,9,3.2,0,0.1106
+FB002032,Uniqlo,Dresses,Fall,52.1,44.7,48,4.3,0,0.1675
+FB002033,Forever21,Tops,Winter,115.44,0.0,21,1.2,0,0.1447
+FB002034,Zara,Outerwear,Spring,142.88,26.5,12,1.2,0,0.1071
+FB002035,Banana Republic,Shoes,Spring,95.85,27.6,16,,0,0.1267
+FB002036,Uniqlo,Accessories,Spring,44.87,14.6,7,1.4,0,0.1259
+FB002037,Uniqlo,Dresses,Spring,97.03,41.2,22,,0,0.1116
+FB002038,Ann Taylor,Accessories,Spring,28.21,34.3,41,,0,0.2083
+FB002039,Uniqlo,Tops,Fall,72.78,0.0,49,3.1,0,0.0728
+FB002040,Uniqlo,Shoes,Fall,189.32,0.0,35,2.5,0,0.1068
+FB002041,Ann Taylor,Dresses,Summer,69.55,55.7,6,2.1,0,0.1594
+FB002042,Gap,Tops,Spring,21.15,26.4,47,2.3,1,0.2947
+FB002043,Forever21,Outerwear,Winter,144.64,0.0,0,4.5,0,0.0732
+FB002044,Banana Republic,Shoes,Fall,180.99,0.0,0,4.5,0,0.1154
+FB002045,Ann Taylor,Tops,Fall,32.91,56.1,16,,1,0.3133
+FB002046,Ann Taylor,Dresses,Fall,63.46,0.0,36,1.2,0,0.1573
+FB002047,Mango,Shoes,Spring,72.47,31.6,38,3.5,0,0.1238
+FB002048,Mango,Dresses,Summer,65.35,24.5,40,3.5,0,0.169
+FB002049,Gap,Bottoms,Fall,81.15,10.8,33,2.2,1,0.3344
+FB002050,Mango,Dresses,Winter,63.41,48.2,49,4.5,0,0.1301
+FB002051,Banana Republic,Shoes,Winter,198.22,0.0,12,,0,0.1322
+FB002052,Zara,Shoes,Winter,102.61,20.8,3,2.9,0,0.0939
+FB002053,Zara,Accessories,Summer,49.31,0.0,49,3.4,0,0.2563
+FB002054,Uniqlo,Outerwear,Summer,206.94,0.0,43,3.3,0,0.1438
+FB002055,Banana Republic,Accessories,Summer,36.93,0.0,18,,0,0.2227
+FB002056,Uniqlo,Accessories,Summer,19.23,12.0,18,4.8,0,0.2305
+FB002057,Banana Republic,Shoes,Winter,98.15,43.8,28,3.3,0,0.1559
+FB002058,Mango,Accessories,Spring,19.96,0.0,16,1.4,0,0.1969
+FB002059,H&M,Tops,Fall,41.52,54.1,15,2.5,0,0.1135
+FB002060,H&M,Shoes,Fall,189.24,0.0,25,3.6,1,0.1066
+FB002061,Banana Republic,Outerwear,Summer,128.11,44.6,15,3.7,0,0.2366
+FB002062,Mango,Accessories,Fall,66.48,0.0,38,1.4,0,0.0741
+FB002063,H&M,Accessories,Fall,37.27,0.0,15,3.8,0,0.1256
+FB002064,Uniqlo,Shoes,Spring,178.05,0.0,24,,0,0.1326
+FB002065,Forever21,Tops,Spring,73.76,0.0,25,1.3,0,0.1098
+FB002066,Zara,Bottoms,Winter,36.23,0.0,49,,0,0.2075
+FB002067,H&M,Bottoms,Spring,48.89,0.0,9,3.1,0,0.1432
+FB002068,H&M,Tops,Winter,64.96,31.0,25,,0,0.0962
+FB002069,Forever21,Accessories,Summer,27.7,0.0,27,4.8,0,0.1894
+FB002070,H&M,Shoes,Spring,108.82,11.2,23,,0,0.0922
+FB002071,Mango,Dresses,Spring,144.23,17.0,5,1.9,0,0.1043
+FB002072,Uniqlo,Accessories,Summer,77.45,0.0,0,3.1,0,0.1745
+FB002073,Uniqlo,Bottoms,Winter,34.16,0.0,37,1.3,0,0.119
+FB002074,Forever21,Accessories,Summer,71.3,0.0,21,1.6,0,0.1608
+FB002075,H&M,Tops,Summer,63.67,0.0,18,1.6,0,0.1584
+FB002076,Forever21,Outerwear,Fall,249.98,0.0,46,3.6,0,0.0903
+FB002077,Ann Taylor,Outerwear,Spring,103.92,0.0,5,,0,0.1021
+FB002078,Uniqlo,Shoes,Summer,116.76,0.0,13,,0,0.1346
+FB002079,Gap,Shoes,Winter,102.61,0.0,47,3.5,0,0.1926
+FB002080,Ann Taylor,Accessories,Spring,43.48,0.0,11,4.7,0,0.1622
+FB002081,Forever21,Accessories,Winter,39.9,0.0,6,2.4,1,0.1353
+FB002082,Zara,Bottoms,Spring,54.44,36.7,18,2.4,1,0.126
+FB002083,Gap,Shoes,Summer,64.11,58.5,19,3.2,0,0.0993
+FB002084,Gap,Dresses,Summer,91.85,35.3,12,2.6,0,0.0835
+FB002085,Gap,Outerwear,Spring,119.36,0.0,30,2.7,1,0.3169
+FB002086,Forever21,Accessories,Summer,8.23,47.6,42,2.0,0,0.2221
+FB002087,Mango,Shoes,Winter,89.12,0.0,27,,1,0.2429
+FB002088,H&M,Bottoms,Fall,30.43,0.0,32,3.1,0,0.1372
+FB002089,Forever21,Dresses,Winter,115.4,0.0,7,4.5,0,0.0999
+FB002090,Gap,Outerwear,Winter,155.2,0.0,5,4.8,0,0.0773
+FB002091,Forever21,Bottoms,Fall,104.83,0.0,26,4.0,0,0.0929
+FB002092,Gap,Accessories,Summer,41.62,0.0,33,,0,0.331
+FB002093,Ann Taylor,Bottoms,Spring,94.92,0.0,20,2.3,0,0.2094
+FB002094,Mango,Bottoms,Fall,83.96,22.2,35,3.7,0,0.1138
+FB002095,Forever21,Accessories,Summer,45.52,0.0,41,1.6,0,0.2092
+FB002096,Gap,Bottoms,Winter,77.69,30.7,10,1.0,0,0.1235
+FB002097,Uniqlo,Shoes,Spring,103.9,0.0,27,2.1,0,0.0939
+FB002098,Banana Republic,Outerwear,Winter,168.02,0.0,30,1.6,1,0.2864
+FB002099,Mango,Shoes,Fall,80.41,0.0,46,2.8,0,0.0924
+FB002100,Forever21,Bottoms,Spring,102.76,0.0,35,2.2,0,0.106
+FB002101,Forever21,Tops,Fall,81.2,0.0,27,1.7,0,0.0517
+FB002102,Uniqlo,Accessories,Fall,68.95,0.0,47,3.6,0,0.097
+FB002103,Zara,Bottoms,Summer,43.04,0.0,26,4.8,1,0.3615
+FB002104,Zara,Tops,Spring,81.82,0.0,1,3.5,0,0.0654
+FB002105,Mango,Accessories,Summer,53.7,0.0,16,1.4,1,0.186
+FB002106,Mango,Tops,Summer,100.11,0.0,41,4.7,0,0.178
+FB002107,Ann Taylor,Accessories,Winter,14.81,38.5,43,4.1,0,0.2598
+FB002108,Ann Taylor,Accessories,Spring,74.77,0.0,26,2.9,0,0.2009
+FB002109,H&M,Dresses,Spring,105.98,0.0,32,2.5,1,0.141
+FB002110,Zara,Shoes,Summer,75.36,7.7,23,2.6,0,0.1298
+FB002111,Forever21,Shoes,Fall,84.97,8.3,5,3.3,0,0.1089
+FB002112,Mango,Accessories,Summer,41.04,0.0,43,,0,0.1568
+FB002113,Forever21,Outerwear,Fall,160.12,5.8,12,2.1,0,0.0777
+FB002114,Mango,Accessories,Winter,32.4,51.0,17,2.2,0,0.1975
+FB002115,Banana Republic,Dresses,Spring,119.59,14.5,13,1.3,0,0.0911
+FB002116,Zara,Accessories,Winter,35.19,49.9,0,4.6,1,0.1528
+FB002117,Zara,Shoes,Winter,78.07,39.9,28,1.3,0,0.126
+FB002118,Zara,Bottoms,Spring,75.78,0.0,12,3.6,0,0.1853
+FB002119,H&M,Bottoms,Winter,93.41,0.0,4,3.2,1,0.2221
+FB002120,Banana Republic,Tops,Spring,66.9,0.0,1,2.8,0,0.0853
+FB002121,Mango,Tops,Fall,103.16,6.6,6,,0,0.0763
+FB002122,Zara,Bottoms,Fall,52.73,0.0,10,4.5,0,0.1057
+FB002123,Ann Taylor,Outerwear,Fall,89.13,0.0,17,4.1,0,0.0874
+FB002124,Banana Republic,Outerwear,Summer,96.03,44.1,25,,1,0.3836
+FB002125,Gap,Shoes,Winter,129.0,0.0,13,3.8,1,0.0984
+FB002126,Zara,Shoes,Summer,160.59,0.0,8,2.9,0,0.0855
+FB002127,Banana Republic,Tops,Summer,56.38,0.0,9,,0,0.1803
+FB002128,Gap,Outerwear,Winter,80.15,26.6,21,3.9,1,0.3355
+FB002129,Uniqlo,Accessories,Spring,21.43,0.0,38,1.9,0,0.1776
+FB002130,H&M,Shoes,Winter,87.11,0.0,36,2.3,0,0.1338
+FB002131,Forever21,Accessories,Fall,36.29,0.0,47,2.8,0,0.1649
+FB002132,H&M,Dresses,Spring,105.59,0.0,37,4.7,0,0.0914
+FB002133,Zara,Dresses,Fall,93.5,0.0,4,3.7,0,0.1004
+FB002134,Ann Taylor,Accessories,Winter,37.76,9.5,9,3.9,0,0.1525
+FB002135,Mango,Accessories,Summer,31.23,58.1,35,4.8,0,0.1752
+FB002136,Uniqlo,Dresses,Spring,85.49,0.0,0,3.7,0,0.0837
+FB002137,Zara,Dresses,Summer,131.05,0.0,23,4.9,0,0.1171
+FB002138,Forever21,Bottoms,Summer,63.5,0.0,17,2.6,0,0.1655
+FB002139,Uniqlo,Tops,Fall,75.54,0.0,7,3.3,0,0.0642
+FB002140,Mango,Tops,Fall,110.77,0.0,48,2.6,0,0.0785
+FB002141,Mango,Shoes,Summer,178.7,6.3,1,2.0,0,0.0931
+FB002142,Mango,Tops,Fall,83.16,17.3,21,3.6,0,0.0876
+FB002143,Forever21,Outerwear,Summer,202.53,8.6,5,,0,0.1484
+FB002144,Gap,Bottoms,Summer,55.21,0.0,21,1.8,1,0.3948
+FB002145,Uniqlo,Accessories,Fall,17.87,0.0,47,,0,0.1662
+FB002146,Uniqlo,Bottoms,Summer,56.57,0.0,43,4.4,1,0.3678
+FB002147,Gap,Accessories,Spring,47.74,0.0,17,2.9,0,0.1345
+FB002148,Banana Republic,Dresses,Fall,139.27,8.9,19,2.2,0,0.1118
+FB002149,Banana Republic,Outerwear,Winter,124.36,37.7,6,,0,0.1226
+FB002150,Gap,Accessories,Summer,57.25,0.0,22,5.0,0,0.3172
+FB002151,H&M,Dresses,Fall,60.08,55.3,12,3.2,0,0.0568
+FB002152,Ann Taylor,Bottoms,Fall,62.96,43.5,22,4.8,0,0.175
+FB002153,Uniqlo,Accessories,Spring,9.71,36.8,46,2.3,0,0.1962
+FB002154,Gap,Tops,Fall,48.21,51.8,43,5.0,0,0.0936
+FB002155,Uniqlo,Shoes,Summer,140.39,19.2,38,,0,0.1128
+FB002156,Gap,Bottoms,Winter,32.21,15.2,25,3.6,0,0.2259
+FB002157,Forever21,Dresses,Summer,154.11,0.0,50,3.1,0,0.1167
+FB002158,Ann Taylor,Accessories,Spring,37.06,46.9,26,3.8,0,0.2305
+FB002159,Gap,Dresses,Winter,171.16,0.0,26,4.3,0,0.1556
+FB002160,Zara,Outerwear,Summer,118.57,0.0,6,1.4,1,0.2453
+FB002161,Mango,Dresses,Winter,118.46,0.0,40,2.3,0,0.1493
+FB002162,Zara,Shoes,Summer,122.7,0.0,9,,0,0.0867
+FB002163,Gap,Accessories,Spring,68.2,0.0,2,3.8,0,0.1107
+FB002164,H&M,Shoes,Spring,178.56,0.0,46,2.6,0,0.1548
+FB002165,Uniqlo,Accessories,Summer,20.9,31.4,40,2.4,0,0.2343
+FB002166,Banana Republic,Accessories,Summer,76.08,0.0,6,4.9,0,0.2157
+FB002167,Banana Republic,Shoes,Winter,96.99,16.5,11,3.0,0,0.0864
+FB002168,H&M,Shoes,Winter,98.22,0.0,27,3.3,0,0.138
+FB002169,Ann Taylor,Shoes,Winter,66.58,0.0,45,3.4,0,0.2041
+FB002170,Uniqlo,Accessories,Spring,69.22,0.0,42,3.8,0,0.1556
+FB002171,Uniqlo,Tops,Winter,85.01,0.0,39,4.3,0,0.1115
+FB002172,Mango,Tops,Summer,31.41,0.0,10,2.1,0,0.0797
+FB002173,Banana Republic,Dresses,Winter,50.58,0.0,1,3.1,1,0.2285
+FB002174,Banana Republic,Accessories,Winter,35.88,54.8,40,2.6,0,0.1774
+FB002175,Ann Taylor,Bottoms,Summer,105.52,0.0,20,4.9,1,0.2927
+FB002176,Ann Taylor,Shoes,Summer,154.02,0.0,23,1.3,0,0.1933

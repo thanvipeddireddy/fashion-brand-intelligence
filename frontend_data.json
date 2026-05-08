@@ -1,0 +1,374 @@
+{
+  "brand_strategy": [
+    {
+      "brand": "Ann Taylor",
+      "avg_price": 84.3786,
+      "avg_original_price": 94.4221,
+      "avg_markdown": 11.4366,
+      "avg_rating": 3.0943,
+      "return_rate": 0.1984,
+      "avg_stock": 25.93,
+      "product_count": 257,
+      "discount_rate": 0.3658,
+      "category_Accessories_share": 0.1868,
+      "category_Bottoms_share": 0.1556,
+      "category_Dresses_share": 0.1556,
+      "category_Outerwear_share": 0.1829,
+      "category_Shoes_share": 0.1323,
+      "category_Tops_share": 0.1868,
+      "season_Fall_share": 0.2257,
+      "season_Spring_share": 0.3035,
+      "season_Summer_share": 0.2412,
+      "season_Winter_share": 0.2296,
+      "pc1": -1.9738,
+      "pc2": -1.9209,
+      "cluster": 2,
+      "cluster_name": "High-Scale / High-Risk Brands"
+    },
+    {
+      "brand": "Banana Republic",
+      "avg_price": 89.6702,
+      "avg_original_price": 102.0933,
+      "avg_markdown": 12.4211,
+      "avg_rating": 3.0059,
+      "return_rate": 0.1649,
+      "avg_stock": 24.4,
+      "product_count": 285,
+      "discount_rate": 0.393,
+      "category_Accessories_share": 0.1439,
+      "category_Bottoms_share": 0.1684,
+      "category_Dresses_share": 0.1544,
+      "category_Outerwear_share": 0.1825,
+      "category_Shoes_share": 0.2,
+      "category_Tops_share": 0.1509,
+      "season_Fall_share": 0.2,
+      "season_Spring_share": 0.2491,
+      "season_Summer_share": 0.2632,
+      "season_Winter_share": 0.2877,
+      "pc1": -0.6115,
+      "pc2": 0.7437,
+      "cluster": 1,
+      "cluster_name": "Discount-Driven Brands"
+    },
+    {
+      "brand": "Forever21",
+      "avg_price": 80.2468,
+      "avg_original_price": 93.2924,
+      "avg_markdown": 13.2472,
+      "avg_rating": 2.9698,
+      "return_rate": 0.136,
+      "avg_stock": 25.712,
+      "product_count": 250,
+      "discount_rate": 0.408,
+      "category_Accessories_share": 0.212,
+      "category_Bottoms_share": 0.224,
+      "category_Dresses_share": 0.156,
+      "category_Outerwear_share": 0.148,
+      "category_Shoes_share": 0.124,
+      "category_Tops_share": 0.136,
+      "season_Fall_share": 0.264,
+      "season_Spring_share": 0.168,
+      "season_Summer_share": 0.3,
+      "season_Winter_share": 0.268,
+      "pc1": 0.9927,
+      "pc2": -1.4427,
+      "cluster": 0,
+      "cluster_name": "Balanced Operators"
+    },
+    {
+      "brand": "Gap",
+      "avg_price": 77.8126,
+      "avg_original_price": 91.2343,
+      "avg_markdown": 14.1115,
+      "avg_rating": 3.0347,
+      "return_rate": 0.1475,
+      "avg_stock": 25.041,
+      "product_count": 244,
+      "discount_rate": 0.4426,
+      "category_Accessories_share": 0.2172,
+      "category_Bottoms_share": 0.1475,
+      "category_Dresses_share": 0.1148,
+      "category_Outerwear_share": 0.1434,
+      "category_Shoes_share": 0.1721,
+      "category_Tops_share": 0.2049,
+      "season_Fall_share": 0.2459,
+      "season_Spring_share": 0.2377,
+      "season_Summer_share": 0.2787,
+      "season_Winter_share": 0.2377,
+      "pc1": 1.8049,
+      "pc2": -2.086,
+      "cluster": 0,
+      "cluster_name": "Balanced Operators"
+    },
+    {
+      "brand": "H&M",
+      "avg_price": 85.8082,
+      "avg_original_price": 97.8083,
+      "avg_markdown": 12.2633,
+      "avg_rating": 3.0365,
+      "return_rate": 0.1378,
+      "avg_stock": 23.1731,
+      "product_count": 283,
+      "discount_rate": 0.4028,
+      "category_Accessories_share": 0.1449,
+      "category_Bottoms_share": 0.1943,
+      "category_Dresses_share": 0.1555,
+      "category_Outerwear_share": 0.1449,
+      "category_Shoes_share": 0.1979,
+      "category_Tops_share": 0.1625,
+      "season_Fall_share": 0.2438,
+      "season_Spring_share": 0.258,
+      "season_Summer_share": 0.2933,
+      "season_Winter_share": 0.2049,
+      "pc1": -0.029,
+      "pc2": 1.0934,
+      "cluster": 1,
+      "cluster_name": "Discount-Driven Brands"
+    },
+    {
+      "brand": "Mango",
+      "avg_price": 88.3804,
+      "avg_original_price": 101.1322,
+      "avg_markdown": 12.7711,
+      "avg_rating": 2.7775,
+      "return_rate": 0.1127,
+      "avg_stock": 25.3451,
+      "product_count": 284,
+      "discount_rate": 0.4366,
+      "category_Accessories_share": 0.162,
+      "category_Bottoms_share": 0.1937,
+      "category_Dresses_share": 0.1761,
+      "category_Outerwear_share": 0.1232,
+      "category_Shoes_share": 0.1901,
+      "category_Tops_share": 0.1549,
+      "season_Fall_share": 0.3099,
+      "season_Spring_share": 0.1866,
+      "season_Summer_share": 0.2676,
+      "season_Winter_share": 0.2359,
+      "pc1": 1.9941,
+      "pc2": 1.638,
+      "cluster": 1,
+      "cluster_name": "Discount-Driven Brands"
+    },
+    {
+      "brand": "Uniqlo",
+      "avg_price": 91.6558,
+      "avg_original_price": 100.7382,
+      "avg_markdown": 8.8969,
+      "avg_rating": 3.1106,
+      "return_rate": 0.1269,
+      "avg_stock": 25.1154,
+      "product_count": 260,
+      "discount_rate": 0.3577,
+      "category_Accessories_share": 0.2231,
+      "category_Bottoms_share": 0.1269,
+      "category_Dresses_share": 0.1154,
+      "category_Outerwear_share": 0.1769,
+      "category_Shoes_share": 0.1923,
+      "category_Tops_share": 0.1654,
+      "season_Fall_share": 0.2885,
+      "season_Spring_share": 0.2846,
+      "season_Summer_share": 0.2538,
+      "season_Winter_share": 0.1731,
+      "pc1": -3.0026,
+      "pc2": 0.7846,
+      "cluster": 2,
+      "cluster_name": "High-Scale / High-Risk Brands"
+    },
+    {
+      "brand": "Zara",
+      "avg_price": 84.8038,
+      "avg_original_price": 95.7424,
+      "avg_markdown": 12.0831,
+      "avg_rating": 2.9056,
+      "return_rate": 0.1534,
+      "avg_stock": 24.9936,
+      "product_count": 313,
+      "discount_rate": 0.4185,
+      "category_Accessories_share": 0.1981,
+      "category_Bottoms_share": 0.2204,
+      "category_Dresses_share": 0.1342,
+      "category_Outerwear_share": 0.131,
+      "category_Shoes_share": 0.1534,
+      "category_Tops_share": 0.1629,
+      "season_Fall_share": 0.2268,
+      "season_Spring_share": 0.2748,
+      "season_Summer_share": 0.2236,
+      "season_Winter_share": 0.2748,
+      "pc1": 0.8251,
+      "pc2": 1.1899,
+      "cluster": 1,
+      "cluster_name": "Discount-Driven Brands"
+    }
+  ],
+  "sustainability": [
+    {
+      "brand_clean": "forever21",
+      "production": 497.6035,
+      "release_cycles": 17.7034,
+      "emissions": 9933.4966,
+      "water": 204.1515,
+      "waste": 806.9641,
+      "worker_wage": 148.1244,
+      "env_cost": 0.5521,
+      "sustainability_score": 49.599,
+      "transparency": 50.9778,
+      "compliance": 50.6621,
+      "ethical_rating": 2.5428,
+      "brand": "Forever21",
+      "sustain_pc1": 2.16,
+      "sustain_pc2": 2.0102,
+      "sustainability_index": 0.1353,
+      "sustainability_score_relative": 82.1273
+    },
+    {
+      "brand_clean": "h&m",
+      "production": 500.2613,
+      "release_cycles": 17.7492,
+      "emissions": 10084.84,
+      "water": 197.9933,
+      "waste": 791.4338,
+      "worker_wage": 150.7298,
+      "env_cost": 0.5613,
+      "sustainability_score": 50.3266,
+      "transparency": 49.3694,
+      "compliance": 49.923,
+      "ethical_rating": 2.5036,
+      "brand": "H&M",
+      "sustain_pc1": -2.1537,
+      "sustain_pc2": -1.1581,
+      "sustainability_index": 0.2279,
+      "sustainability_score_relative": 100.0
+    },
+    {
+      "brand_clean": "uniqlo",
+      "production": 489.6212,
+      "release_cycles": 17.6213,
+      "emissions": 10097.6164,
+      "water": 204.5799,
+      "waste": 789.3632,
+      "worker_wage": 148.6849,
+      "env_cost": 0.5415,
+      "sustainability_score": 49.7328,
+      "transparency": 47.8483,
+      "compliance": 49.2945,
+      "ethical_rating": 2.5527,
+      "brand": "Uniqlo",
+      "sustain_pc1": 1.7454,
+      "sustain_pc2": -2.3817,
+      "sustainability_index": -0.0731,
+      "sustainability_score_relative": 41.903
+    },
+    {
+      "brand_clean": "zara",
+      "production": 497.4653,
+      "release_cycles": 17.7046,
+      "emissions": 9945.6823,
+      "water": 202.0614,
+      "waste": 794.5689,
+      "worker_wage": 149.8468,
+      "env_cost": 0.5644,
+      "sustainability_score": 47.7966,
+      "transparency": 50.6137,
+      "compliance": 48.7353,
+      "ethical_rating": 2.505,
+      "brand": "Zara",
+      "sustain_pc1": -1.7517,
+      "sustain_pc2": 1.5295,
+      "sustainability_index": -0.2901,
+      "sustainability_score_relative": 0.0
+    }
+  ],
+  "labor_summary": [
+    {
+      "brand": "Forever21",
+      "avg_wage_ratio": 0.9124,
+      "avg_wage_gap_usd": -50.2049,
+      "living_wage_compliance_rate": 34.9117
+    },
+    {
+      "brand": "H&M",
+      "avg_wage_ratio": 0.9268,
+      "avg_wage_gap_usd": -46.64,
+      "living_wage_compliance_rate": 35.919
+    },
+    {
+      "brand": "Uniqlo",
+      "avg_wage_ratio": 0.9115,
+      "avg_wage_gap_usd": -51.6512,
+      "living_wage_compliance_rate": 33.8704
+    },
+    {
+      "brand": "Zara",
+      "avg_wage_ratio": 0.9134,
+      "avg_wage_gap_usd": -48.9871,
+      "living_wage_compliance_rate": 34.4578
+    }
+  ],
+  "model_metrics": {
+    "accuracy": 0.8507109004739336,
+    "auc": 0.5060794977229518
+  },
+  "top_features": [
+    {
+      "feature": "original_price",
+      "importance": 0.14455
+    },
+    {
+      "feature": "current_price",
+      "importance": 0.13783
+    },
+    {
+      "feature": "stock_quantity",
+      "importance": 0.13488
+    },
+    {
+      "feature": "price_gap",
+      "importance": 0.07618
+    },
+    {
+      "feature": "markdown_percentage",
+      "importance": 0.07022
+    },
+    {
+      "feature": "season_Summer",
+      "importance": 0.03031
+    },
+    {
+      "feature": "brand_Ann Taylor",
+      "importance": 0.01829
+    },
+    {
+      "feature": "size_L",
+      "importance": 0.01733
+    },
+    {
+      "feature": "season_Fall",
+      "importance": 0.01704
+    },
+    {
+      "feature": "season_Spring",
+      "importance": 0.01673
+    },
+    {
+      "feature": "brand_Gap",
+      "importance": 0.01659
+    },
+    {
+      "feature": "category_Tops",
+      "importance": 0.01633
+    },
+    {
+      "feature": "category_Outerwear",
+      "importance": 0.0159
+    },
+    {
+      "feature": "size_XS",
+      "importance": 0.01575
+    },
+    {
+      "feature": "season_Winter",
+      "importance": 0.0156
+    }
+  ]
+}
